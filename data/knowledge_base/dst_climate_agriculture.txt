@@ -1,0 +1,2421 @@
+Climate Change and 
+Agriculture in India
+Climate Change and 
+Agriculture in India
+Edited by
+Akhilesh Gupta and H. Pathak
+Climate Change Programme
+Strategic Programmes
+Large Initiatives and Coordinated Action Enabler (SPLICE) Division
+Department of Science & Technology, Ministry of Science & Technology
+Government of India, New Delhi
+i
+Climate Change and Agriculture
+in India
+Edited by
+Akhilesh Gupta and H. Pathak
+A Thematic Report of  
+National Mission on Strategic Knowledge for Climate Change (NMSKCC)
+under National Action Plan on Climate Change (NAPCC)
+Climate Change Programme
+Strategic Programmes
+Large Initiatives and Coordinated Action Enabler (SPLICE) Division
+Department of Science & Technology, Ministry of Science & Technology
+Government of India, New Delhi
+January, 2016
+ii
+iii
+Foreword
+Climate is the most important determinant of crop productivity, particularly in country like India, 
+where about 2/3rd of the cultivated area is rainfed. Climate change, therefore, is of serious concern 
+having large-scale impacts, directly and indirectly, on agriculture. It is manifested with increase in 
+global temperature, increased intensity of rainfall, rising sea level, melting of glaciers, shifting of 
+crop growing season and frequent occurrences of extreme events such as drought and flood.
+To address the long-term negative impacts of climate change and short- and medium-term 
+impacts of climatic variability on agriculture, there is a need for sustained research on increased 
+adaptation and mitigation, capacity building, development activities, and bringing necessary changes 
+in policies. These actions have to be accompanied by long-term sustained actions towards generation 
+and strengthening of strategic knowledge system in key impact sectors like water, agriculture, 
+energy, health, etc. by building human and institutional capacity. The National Mission on Strategic 
+Knowledge for Climate Change (NMSKCC) was initiated with this very objective.
+The mission had identified various thematic areas and professional expert groups in India in some 
+scientific institutions for commissioning thematic and policy research programmes and activities. 
+The current report is on the thematic area of ‘Agriculture’ contributed by three research groups in 
+lead institutions like, Tamil Nadu Agricultural University, Coimbatore; International Crops Research 
+Institute for the Semi-Arid Tropics, Hyderabad and ICAR-Indian Agricultural Research Institute, 
+New Delhi.
+I am pleased to see that a thematic Report on “Climate Change and Agriculture in India” has been 
+brought out by Climate Change Programme of SPLICE Division of DST based on the inputs received 
+from these groups. We gratefully acknowledge contributions of Dr. H. Pathak, Principal Scientist 
+and Professor, ICAR-Indian Agricultural Research Institute, New Delhi; Dr. V. Geethalakshmi, 
+Professor, TNAU and Dr. Mamta Sharma, ICRISAT, Hyderabad in the preparation of this report. I 
+am particularly grateful to Dr. Akhilesh Gupta, Head, SPLICE, DST and Dr. H. Pathak for editing 
+the report.
+I am confident that the report will be of great use to the students, researchers and policy makers 
+engaged in the area of climate change impact on agriculture. 
+(Ashutosh Sharma)
+Pro. Ashutosh Sharma
+izks- vk'kqrks"k 'kekZ
+lfpo
+Hkkjr ljdkj
+foKku vkSj izkS|ksfxdh ea=ky;
+foKku vkSj izkS|ksfxdh foHkkx
+Secretary
+Government of India
+Ministry of Science and Technology
+Department of Science and Technology
+Dated: January 13, 2016
+Technology Bhavan, New Mehrauli Road, New Delhi - 110016
+Tel: 00 91 11 26511439 / 26510068  Fax: 00 91 11 26863847  E-mail: dstsec@nic.in  Website: www.dst.gov.in
+iv
+v
+Preface
+Agriculture is a cause of climate change and also suffers from the consequences. Major adverse 
+impacts of climate change on agriculture are owing to increase in temperature; change in rainfall 
+pattern; weather hazards, decline in soil and water quality; shifting dynamics of insects, diseases, 
+soil flora and fauna; intrusion of sea water on land and biotic and abiotic stresses arising due to 
+climatic extremes. There could be a few positive impacts of climate change on agriculture in some 
+locations because of change in temperature and moisture regimes.
+To address the consequences of climate change we need to develop adaption and mitigation 
+options. There is an urgent need for creating an infrastructure both in terms of human resource 
+and state of art physical facilities for collecting, collating and updating climatic data, essential pre-
+requisite for modeling and forecasting the impact of impending climate change on agriculture. The 
+strategies have to be built upon the current knowledge about climatic, ecological and economic 
+systems’ dynamics.
+Under the National Action Plan on Climate Change (NAPCC), the Government of India has 
+launched eight National Missions during the XII Five Year Plan. The National Mission on Strategic 
+Knowledge for Climate Change (NMSKCC), implemented by the Department of Science and 
+Technology (DST), is targeted to enable the country to cope up with the impacts of a changing 
+climate. Under this programme, the DST has supported Tamil Nadu Agricultural University (TNAU), 
+Coimbatore; International Crops Research Institute for the Semi-Arid Tropics, Hyderabad, Telangana 
+and ICAR-Indian Agricultural Research Institute, New Delhi to undertake research on the impact 
+of climate change on agriculture for developing appropriate strategic knowledge for climate change 
+adaptation and mitigation. The report summarizes the salient findings of the project and identifies 
+the strategic knowledge that was generated to combat the adverse impacts of climate change on 
+Indian agriculture.
+One of the editors (AG) is grateful to Prof. Ashutosh Sharma, Secretary, DST for encouragement 
+and motivation. Thanks are due to Dr. (Mrs) Nisha Mendiratta, Scientist-F, Dr. Anand Kamavisdar, 
+Scientist-E and other colleagues in CCP, SPLICE Division of DST for their support. We are thankful 
+to all contributors of the report for their valuable inputs in the preparation of the manuscript.
+We sincerely hope that the publication will be of great use to scientists, researchers and policy 
+makers engaged in the field of climate change and agricultural research and development.
+Akhilesh Gupta
+H. Pathak
+vi
+vii
+Contributors
+l	
+Dr. T.N. Balasubramanian, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu.
+l	
+Dr. A. Bhatia, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. Subhash Chander, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. T.K. Das, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. V. Geethalakshmi, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu.
+l	
+Dr. S. Gopalakrishnan, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. S. Naresh Kumar, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. A. Lakshmanan, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu.
+l	
+Dr. Madan Pal, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. H. Pathak, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. V.K. Sehgal, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. M. Sharma, International Crops Research Institute for the Semi-Arid Tropics, Hyderabad, 
+Telangana.
+l	
+Dr. S.D. Singh, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. A Bhatia, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. Subhash Chander, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. TK Das, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. S Gopalakrishnan, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. Ranjeet Ranjan Kumar, Indian Agricultural Research Institute, New Delhi.
+l	
+Dr. Madan Pal, Indian Agricultural Research Institue, New Delhi.
+l	
+Dr. VK Sehgal, Indian Agricultural Research Institue, New Delhi.
+viii
+ix
+Content
+Foreword	 	
+iii
+Preface	
+	
+v
+Contributors	
+vii
+Executive Summary	
+xi
+1.	 Introduction	
+1
+2.	 Climate Change in Global and Indian Context	
+2
+3.	 Impacts of Climate Change on Indian Agriculture	
+4
+4.	 State of the Art Research on Climate Change and Agriculture	
+7
+4.1. Adaptation of Indian Agriculture to climate change	
+9
+5.	 Initiatives of Govt. of India for Climate Change Adaptation in Agriculture	
+12
+6.	 Research Undertaken under NMSKCC of DST	
+6.1. Assessing impacts and developing adaptation strategies for agriculture	
+15
+in Tamil Nadu, implemented by TNAU, Tamil Nadu
+6.2. Excellence on Climate Change Research for Plant Protection,	
+25
+implemented by ICRISAT, Telangana
+6.3. Adaptation of Indian Agriculture to Climate Change, implemented	
+30
+by IARI, New Delhi
+7.	 Way Forward	
+41
+8.	 Conclusion	
+42
+9.	 References	
+43
+10.	Research Papers Emanated from the Programmes	
+10.1 TNAU, Coimbatore	
+44
+10.2 ICRISAT, Hyderabad	
+44
+10.3 IARI, New Delhi	
+47
+11.	Training and Capacity Building Programmes Conducted	
+11.1 TNAU, Coimbatore	
+51
+11.2 ICRISAT, Telangana	
+51
+11.3 IARI, New Delhi	
+51
+x
+xi
+Executive Summary
+Agriculture is crucial for ensuring food, nutrition and livelihood securities for India and it 
+engages almost two-third of the workforce in gainful employment. On account of its close linkages 
+with other economic sectors, agricultural growth has a multiplier effect on the entire economy of 
+the country. Although in the past years, Indian agriculture had made a significant progress, but 
+currently it faces many challenges. Stagnation of net sown area, plateauing yield level, deterioration 
+of soil quality, reduction in per capita land availability and the adverse effect of climate change are 
+the major challenges to Indian agriculture. Moreover, the increased rate of population is pressurizing 
+the agricultural sector for enhanced food production. The task is very challenging because, about 
+60% of the net cultivated area is rainfed and exposed to biotic and abiotic stresses arising from 
+climatic variability and climate change. More than 80% of Indian farmers are marginal farmers, 
+having cultivable land of less than one hectare or small farmers with cultivable land area of one to 
+two hectares, with poor coping capacity. Additionally, the Indian farmers are heterogeneous and 
+unorganized in nature. Climate change and its variability are likely to aggravate the problem of 
+future food security by putting pressure on agriculture affecting its sustainability.
+Under the National Action Plan on Climate Change (NAPCC), the Government of India has 
+launched eight National Missions during the XII Five year plan. The National Mission for Sustainable 
+Agriculture (NMSA) and the Mission on Strategic Knowledge on Climate Change (NMSKCC) are 
+targeted to achieve an agricultural growth rate of 4% per annum and also enable the country to cope 
+with the impacts of a changing climate. Under the NMSKCC, the DST has supported Tamil Nadu 
+Agricultural University (TNAU), Coimbatore; International Crop Research Institute on Semi-Arid 
+Tropics (ICRSAT), Hyderabad and ICAR-Indian Agricultural Research Institute (IARI), New Delhi 
+to undertake research on the impact of climate change on agriculture for developing appropriate 
+adaptation strategies including strategic knowledge. The results derived from these studies are 
+summarized in the report.
+The TNAU worked on ‘Assessing Impacts and Developing Adaptation Strategies for Agriculture 
+in Tamil Nadu’ to assess the impact of climate change on agriculture at river basin scale in Tamil 
+Nadu. The climate-related risks in river basins were ranked based on the likelihood, probability of 
+occurrence and their consequences on crop production. It documented the current knowledge of 
+farmers on climate change, non-climatic stress and sensitivities that aggravate the issues as well 
+as existing local adaptive capacities of the farmers. Future climate data were generated for Tamil 
+Nadu region using Special Report on Emission Scenarios (SRES). It analyzed the influence of the 
+global climate drivers (ENSO/IOD) on rainfall of Tamil Nadu and its impact on hydrology and crops 
+productivity at river basin scale. Strong El-Nino years (SOI between -10 and -35), had a positive 
+correlation with Southwest rainfall in the eastern and northeastern parts of Tamil Nadu. As far as 
+NEM is concerned, only southern Tamil Nadu showed correlation upto 0.4 with El-Nino condition, 
+while all other parts had weak correlation. The mean rice productivity was shifted to up in El Niño 
+xii
+and normal years indicating the possibility of getting more rice yields with less crop production 
+risk compared to La Niña years. Future climate predictions derived from the ensemble of 16 GCMs 
+for Cauvery basin indicated the increase in rainfall ranges between 7 and 21% towards mid-century 
+(2040-2069) while this increase is projected to be between 10 and 33% in end century (2070-2099) 
+compared to baseline (1971-2005). Temperature is expected to increase by 1.5 to 2 oC and 3 to 4.5 
+oC) in the mid and end century time scale. The project calibrated and validated the impact models 
+such as SWAT, DSSAT and APSIM for their application in Tamil Nadu conditions. SWAT model 
+predictions indicated that annual Potential Evapotranspiration (PET) for Cauvery basin would vary 
+from 3 to 4.5% and 8.4 to 9.3% for the mid and end century scenario respectively. Annual water yield 
+is expected to increase by 14 to 21% during mid-century and is projected to increase further by to 
+14% and 7 to 18% in the mid and end century, respectively. It quantified the response of rice and 
+maize crops to elevated temperature and CO2 using the state of art controlled environmental facilities 
+such as climate control chambers and SPAR system. Increase in temperature with or without CO2 
+enrichment affected the phenology and productivity of C3 and C4 plants with different magnitude. 
+Temperature increase alone has negatively affected the C3 crop (rice) more compared to C4 crop 
+(maize). However, CO2 enrichment had compensated the negative impact of elevated temperature 
+to certain extent. The project assessed the impact of climate change on crop water requirement, 
+growth and productivity of crops through integrated modeling approach and identified adaptation 
+options such as screening temperature tolerant cultivars, identification of best sowing window, 
+use of nano-fertilizers, altering the cultivation method (SRI), etc., to reduce climate change impact. 
+NH4
++–N loaded nano-zeolite application enhanced nitrogen availability, crop growth in addition to 
+minimizing the emission of methane from rice soils.
+The project on ‘Excellence on Climate Change Research for Plant Protection’, implemented by 
+ICRISAT, Hyderabad focused on effect of climate change on disease and insect-pest problems of two 
+most important legumes -chickpea and pigeonpea under rainfed conditions in India. The primary 
+aim of this project was to understand the effects of climate change on the relative abundance and 
+diversity of insect-pests and pathogens across geographical regions, pest × host plant × environment 
+interactions, and then influence on insect-pest and diseases incidence and extent of losses due to biotic 
+stress. The major outcome of this project is the development of methodologies that will be required 
+to quantify the information on emerging pest problems, their geographical distribution, and severity 
+and damage, effect of climatic changes on expression of resistance to insect-pests and pathogens, select 
+varieties that are resistant to diseases and insect-pests across environments, and reduce pesticide 
+application for a safer environment. The information on pest × host × environment interactions will 
+be useful to scientists in India, who can use the standardized techniques for phenotyping for pest 
+resistance to identify and develop pest resistant cultivars for genetic management of emerging and 
+anticipated diseases and insect-pest problems in India. The information will be useful to research 
+planners, policy makers, scientists, and farmers for sustainable crop protection in India. The outcome 
+of this project will have a major bearing on pest mitigation strategies in an environment friendly 
+manner for sustainable production of grain legumes and increasing food security in dry land areas 
+– particularly the regions, which are most vulnerable to climate change.
+xiii
+The project on ‘Adaptation of Indian Agriculture to Climate Change’, implemented by Indian 
+Agricultural Research Institute (IARI), New Delhi focused on developing adaptation technologies to 
+enhance the resilience of agriculture to the current and future climatic risks and updating simulation 
+models for assessing impact of climate change and adaptation strategies. Existing knowledge on 
+climate change adaptation available in various institutes and universities in the country was collated 
+and analyzed. This will help in developing strategic knowledge for climate change adaptation and 
+can be implemented by the farmers. Methodology for prioritizing the adaptation strategies in terms 
+of their importance, urgency, no-regret characteristics, co-benefits and mitigation effect. Growth and 
+yield response of wheat, rice and maize cultivars to heat and moisture stresses was assessed and 
+tolerant cultivars were identified. Phenotyping and physiological evaluation of genetic populations 
+and germplasm resources for drought and heat stress tolerance in wheat was carried out. A core 
+set of genetic resources (including drought-adapted cultivars, advance lines, elite landraces, was 
+evaluated under irrigated and rainfed conditions. Conservation agriculture practices such as direct 
+seeded rice (DSR) with or without Sesbania brown manuring, rice residues mulch in wheat and 
+summer mungbean grown for grains and stover incorporated as green manure have been evaluated 
+for adaptation to climate change. Differential protein profiling of wheat pollen was carried out using 
+2-DE under ascorbic acid and heat stress. The Info Crop simulation model was upgraded and the 
+InfoCrop version 2 was released. Using this model, a simulation analysis was done to assess the 
+impacts of climate change (MIROC and PRECIS scenarios) on rice, wheat, mustard and potato crops 
+in the IGP region. The adaptation gains and vulnerable regions also are derived. Climate change is 
+projected to decrease the wheat yield in the range of 8-24% by 2050 in IGP. Future temperatures may 
+constrain higher productivity of irrigated rice in Punjab, Haryana and Rajasthan. In case of mustard, 
+though yield may improve in Punjab and Haryana but in Uttar Pradesh, Bihar and Assam they are 
+projected to reduce up to 6%. The potato crop duration in the IGP is projected to decrease due to 
+climate change. Climate change is projected to reduce potato yields by ~2.5, ~6 and ~11% in the IGP 
+region in 2020 (2010-2039), 2050 (2040-2069) and 2080 (2070-2099) time periods. Adaptation analysis 
+indicated that negative impacts can be overcome and substantial increase in yield can be realized by 
+timely sowing and better management of improved varieties of wheat (~11%), rice (17-20%), mustard 
+(~25%%) and potato (~8%). The results indicate that the negative impacts of climate change can be 
+offset with either agronomical management or with improved varieties in shorter periods (the 2020 
+scenario); but in the longer periods (2050 and 2080 scenarios), growing improved varieties, coupled 
+with efficient crop management, will become essential to enhance productivity for meeting increased 
+demand. A web-enabled crop growth monitoring system was developed and hosted on public 
+website http://creams.iari.res.in. Impacts of elevated CO2 (570 ±25 ppm) on population of brown 
+plant hopper was evaluated and a forecasting system for spot blotch in wheat was developed and 
+validated. Forecasting system for spot blotch (most damaging disease in wheat) has been validated 
+for first appearance of spots on leaves to facilitate exact timing of fungicide application. Strategic 
+knowledge for climate change adaptation and mitigation in agriculture has been generated and a 
+road map has been suggested for its implementation.
+It is felt that there exist knowledge gaps to address the climate change challenges and the future 
+research need to be focused on that line. For example, there is a need to predict the future climate at 
+xiv
+finer resolution with low uncertainty for reliable impact assessment. Concerted efforts are required 
+for development of mitigation and adaptation strategies to climate change so as to increase resilience 
+and reduce vulnerability of Indian agriculture at local, regional and national scales. As climate change 
+impacts has no boundaries, research collaboration between developed and developing countries with 
+funding support should be promoted and strengthened for developing and transferring climate-
+smart technologies. Development and operationalization of adaptation strategy necessitate socio-
+psychological empowerment of farmers besides developing competencies in acquiring knowledge 
+and skills related to adaptation practices.
+To face the challenges of food security and climate change, the country needs to reorient its land 
+use and agriculture with the state-of-the-art technologies and policy initiatives. Impact of climate 
+change on gender is another area that needs to be concentrated. Cost on adaptation and economics 
+need to be worked out for the future climate under business as usual condition and for changed 
+management situation for up-scaling adaptation options to larger regions. There is a need to develop 
+policy framework for implementing the adaptation and mitigation options so that the farmers are 
+saved from the adverse impacts of climate change.
+The report is structured in following sections: First section introduces the sensitivity of 
+agriculture to changing climatic conditions with special reference to Indian sub-continent. Second 
+section deals with climate change in global and Indian context. Third section indicates the Impact 
+of climate change on Agriculture in India and also deals with the climate change assessment and 
+projection. Fourth section describes the adaptation of Indian agriculture to climate change. Fifth 
+section narrates the state of art research done on the impact of climate change on agriculture and 
+hydrology. Sixth section narrates the initiatives of govt. of India for climate change adaptation in 
+agriculture. Seventh section discusses the Research initiatives undertaken under National Mission on 
+Strategic Knowledge for Climate Change (NMSKCC) as part of Climate Change programme (CCP) 
+of the DST. This section explores the methodologies and new knowledge generated from the studies 
+conducted by the partnering institutions and the potential technologies that would minimize GHG 
+emission to support for increasing resilience against climate change in sustaining crop production.
+1
+1. Introduction
+Agriculture is crucial for ensuring food, nutrition and livelihood securities for India. Indian 
+agriculture had made a significant progress in the past, but currently it is facing many challenges. 
+Stagnating net sown area, plateauing yield levels, deterioration of soil quality, reduction in per 
+capita land availability and the adverse effect of climate change are the major challenges for Indian 
+agriculture. On the other hand, the increased rate of population is pressurizing the agricultural 
+sector for enhanced food production. The task is very challenging because about 60% of the net 
+cultivated area is rainfed and exposed to biotic and abiotic stresses arising from climatic variability 
+and climate change. More than 80% of Indian farmers are marginal and small with poor coping 
+capacity. Furthermore, the Indian farmers are heterogeneous and unorganized. Climate change 
+and variability are likely to aggravate the problem of future food security by putting pressure on 
+agriculture affecting its sustainability.
+The global climate change may lead to melting and/or diminishing glaciers, rise in sea level and 
+increase in the concentration of greenhouse gases. However, the most prominent environmental 
+issue is the global warming, caused by increase in the concentration of atmospheric greenhouse 
+gases (GHGs) i.e., carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O). These GHGs trap 
+the outgoing infrared radiation from the earth’s surface and thus raise the atmospheric temperature. 
+Recent observations show increase in temperature, occurrence of hot days, hot nights and heat 
+waves; increasing frequency of heavy precipitation events; increased snow melt and rise in sea level. 
+The IPCC’s Fifth Assessment Report published in 2014 reiterated that the warming of the climate 
+system is unequivocal. Anthropogenic influence on the climate system is evident from the increasing 
+greenhouse gas concentrations in the atmosphere and positive radiative forcing. Global climate 
+change has considerable impact on the crops, soils, livestock and pests. The present report discusses 
+the impact of climate change on Indian agriculture and the technologies that may be needed for 
+climate resilient agriculture.
+Climate change prediction points a warmer world within the next 50 years, a trend that is 
+increasingly being supported by ‘ground-truth’. Climate change threatens to increase the crop losses, 
+increase in the number of people facing malnutrition, and changing the development pattern of plant 
+diseases and insect-pests. Agriculture production of rainfed regions, which constitute about 68% of 
+the area under cultivation and account for about 40-45% of the total production in India, varies from 
+year to year. Hence, in order to sustain and enhance the production of the rainfed crops of semi-arid 
+tropics, it is necessary to use the knowledge of climate variability to tailor the practical innovative 
+cropping pattern and insect-pest and disease management for location specific agro-climatic zone.
+Current estimates of change in climate indicate an increase in global mean annual temperatures 
+of 1ºC by 2025 and 3ºC by the 2100. Variability in rainfall pattern and intensity of rain are expected 
+to increase. Increasing concentration of greenhouse gases (CO2 and O3) would result in increase in 
+global precipitation of 2 ± 0.5ºC per 1ºC warming. Overall, changes in these elements will result in 
+i) warmer and more frequent hot days and nights ii) erratic rainfall distribution pattern leading to 
+drought or high precipitation and iii) drying of rainfed semi-arid tropics (SAT) in Asia and Africa.
+2
+2. Climate Change in Global and Indian Context
+The evidence of changing climate from observations has grown significantly during recent years. 
+At the same time improved ways of characterizing and quantifying uncertainty have highlighted 
+the challenges that remain silent for developing long-term global and regional climate quality data 
+records. The globally averaged combined land and ocean surface temperature data as calculated by 
+a linear trend, show a warming of 0.85 [0.65 to 1.06] °C, over the period 1880–2012, when multiple 
+independently produced datasets exist and about 0.72°C [0.49°C to 0.89°C] over the period 1951–
+2012. The total increase between the average of the 1850–1900 period and the 2003– 2012 period 
+is 0.78 [0.72 to 0.85] °C and the total increase between the average of the 1850–1900 period and 
+the reference period for projection 1986”2005 is 0.61 [0.55 to 0.67] °C. This is based on the single 
+longest dataset available. Averaged over the mid-latitude land areas of the Northern hemisphere, 
+precipitation has likely to be increased since 1901 (medium confidence before and high confidence 
+after 1951). For other latitudinal zones area-averaged long-term positive or negative trends have low 
+confidence due to data quality, data completeness or disagreement amongst available estimates. It is 
+very likely that the numbers of cold days and nights have decreased and the numbers of warm days 
+and nights have increased globally since about 1950. However, it is likely that heat wave frequency 
+has increased during this period in large parts of Europe, Asia and Australia. It is likely that since 
+about 1950, the number of heavy precipitation events over land has increased in more regions than 
+it has decreased.
+The projected change in global mean surface air temperature is likely be in the range from 0.3 
+to 0.7°C (medium confidence). It is more likely that the global mean surface air temperature for 
+the period 2016–2035 will be around 1°C above the mean temperature of 1850–1900. Zonal mean 
+precipitation is likely to increase in high and some of the mid latitudes, and is more likely than 
+not decrease in the subtropics. At more regional scales precipitation changes may be influenced 
+by anthropogenic aerosol emissions and will be strongly influenced by natural internal variability. 
+Models project near-term increases in the duration, intensity and spatial extent of heat waves and 
+warm spells. These changes may proceed at a different rate than the mean warming. The frequency 
+and intensity of heavy precipitation events over land are likely to increase on average in the near 
+term. However, this trend will not be apparent in all the regions because of natural vari-ability and 
+possible influences of anthropogenic aerosols.
+In the last 100 years the mean annual surface air temperature of India has increased by 0.4-0.6°C 
+(Rupakumar 2002). Annamalai et al. (2010) reported decreasing rainfall tendency in both southwest 
+and northeast monsoon seasons in most parts of central and northern India. In contrast, peninsular 
+parts of India particularly over the region from 9-16oN encompassing the rice growing areas showed 
+an increasing rainfall tendency. This increase was particularly strong during the northeast monsoon 
+season.
+3
+Lal et al. (1995) projected the climate change scenario for Indian subcontinent and the results 
+indicated an increase in annual mean maximum and minimum surface air temperatures by 0.7°C 
+and 1.0°C respectively over land in the 2040s as compared to the 1980s level. Shakeel et al. (2009) 
+have reported a projected increase in temperature by 0.4 - 2.0°C in Kharif and 1.1 - 4.5°C during 
+Rabi by 2070 over Indian region. The IPCC in its fourth assessment report has predicted 2.7- 4.3°C 
+temperature rise over India by 2080s (IPCC, 2007). Rupakumar et al. (2006) projected a temperature 
+rise of 2.9°C and 4.1°C for India under B2 and A2 scenarios of SRES respectively, in 2080s relative to 
+1970s. The CMIP3-based model ensemble mean projects a warming of 3.19°C under the A1B scenario 
+for 2080s compared to the 1970s baseline. Krishankumar et al. (2010) projected a warming of 3.5°–
+4.3°C over the same period for the A1B scenario. The CMIP3-based model ensemble mean projects 
+a warming of 3.19°C under the A1B scenario for 2080s compared to the 1970s baseline (Rajiv Kumar 
+Chaturvedi et al., 2012). All India annual mean temperature increases by 1.7°C–2.02°C by 2030s under 
+different RCP scenarios and by about 2°C–4.8°C by 2080s, relative to the pre-industrial base (1880s). 
+The CMIP5-based model ensemble projects a warming of 2.8°C and 4.3°C under the RCP6.0 and 
+RCP8.5 scenarios respectively, for 2080s compared to the 1970s baseline (Rajiv Kumar Chaturvedi 
+et al. 2012). According to Khan et al. (2009), the mean rainfall of India for the SRES is projected to 
+increase by 10% during Kharif and Rabi seasons during 2070 from the reference year 2010. The study 
+conducted by Rupakumar et al. (2003) revealed that marked increase in rainfall in the 21st century 
+is likely to be evident after 2040s in India. They have also inferred that the number of rainy days is 
+likely to increase by 5-10 days in the foot hills of Himalaya and Northeast India. All-India annual 
+precipitation increases by 1.2–2.4% by 2030s under different RCP scenarios and by 3.5–11.3% by 
+2080s, relative to the pre-industrial base. Precipitation is projected to increase almost all over India 
+except for a few regions in short-term projections (2030s). The RCP2.6 experiences the least increase 
+in precipitation with the projected precipitation change varying from 0 to 15%, while and RCP8.5 is 
+associated with the largest changes in precipitation, with the projected precipitation changes varying 
+from 5 to 45% (Chaturvedi et al. 2012).
+4
+3. Impacts of Climate Change on Indian Agriculture
+Indian agriculture is highly prone to the risks due to climate change; especially to drought, 
+because 2/3rd of the agricultural land in India is rainfed and even the irrigated system is dependent 
+on monsoon rain. Flood is also a major problem in many parts of the country, especially in eastern 
+part, where frequent flood events take place. In addition, frost in north-west, heat waves in central 
+and northern parts and cyclone in eastern coast also cause havoc. In recent years, the frequency of 
+these climatic extremes are getting more due to the increased atmospheric temperature, resulting in 
+increased risks with substantial loss of agricultural production.
+Climate change can affect agriculture through their direct and indirect effects on the crops, soils, 
+livestock and pests. Increase in atmospheric carbon dioxide has a fertilization effect on crops with C3 
+photosynthetic pathway and thus promotes their growth and productivity. Increase in temperature 
+can reduce crop duration, increase crop respiration rates, alter photosynthesis process, affect the 
+survival and distributions of pest populations and thus developing new equilibrium between 
+crops and pests, hastens nutrient mineralization in soils, decrease fertilizer use efficiencies, 
+and increase in evapo-transpiration. Climate change also have considerable indirect effect on 
+agricultural land use in India due to availability of irrigation water, frequency and intensity 
+of inter- and intra-seasonal droughts and floods, soil organic matter transformations, soil 
+erosion, changes in pest profiles, decline in arable areas due to submergence of coastal land, and 
+availability of energy.
+Critical challenges that agriculture sector would face in the event of climate change are (i) water 
+availability as result of changing rainfall patterns, alteration in stream flow and increase in crop 
+water demand (ii) deterioration of water quality due to sea water intrusion, transport of salts from 
+the deeper soil layers as a result of over exploitation of aquifers and faulty irrigation practices (iii) 
+Increased frequency and intensity of extreme weather events such as droughts, floods and cyclones 
+and these would affect the production levels more than the impact of mean changes in the climate 
+(iv) heat stress due to higher temperature at critical stage of the crop growth (v) unpredictable change 
+in pest and disease load. There is also possibility of minor pest becoming major pest with changing 
+climatic condition.
+The classified impacts on crops, water, livestock, fisheries and pest and diseases are presented 
+below (Aggarwal et al. 2009):
+Crops
+l	
+Increase in ambient CO2 is beneficial since this leads to increased photosynthesis in several crops, 
+especially crops with C3 mechanism of photosynthesis such as wheat and rice, and decreased 
+evaporative losses. Despite this, the yields of major cereals crops especially like wheat is likely to 
+5
+be reduced due to decrease in crop growth duration, increased respiration, and /or reduction in 
+rainfall/irrigation water supplies due to rise in atmospheric temperature.
+l	
+Enhanced frequency and duration of extreme weather events such as flood, drought, cyclone and 
+heat wave; that adversely affect agricultural productivity.
+l	
+Reduction in yield in the rainfed areas due to increased crop water demand and changes in rainfall 
+pattern during monsoon season.
+l	
+Declined quality of fruits, vegetables, tea, coffee, aromatic, and medicinal plants.
+l	
+Alteration of agricultural pests and diseases because of more pathogen and vector development, 
+rapid pathogen transmission and increased host susceptibility.
+l	
+Threatened agricultural biodiversity by rainfall uncertainty and temperature increase, sea level 
+rise, and increased frequency and severity of drought, cyclones and floods.
+l	
+Contrary to all the above negative impacts, predictions have been made for decreased cold waves 
+and frost events in future due to the atmospheric temperature rise, which would lead to a decreased 
+probability of yield loss associated with frost damage in northern India in crops such as mustard 
+and vegetables.
+Water
+l	
+Increased irrigation demands with increased temperature and higher evapo-transpiration. This 
+may also result in lowering groundwater table at some places.
+l	
+ Melting of glaciers in the Himalayas may lead to increased water availability in the Ganges, 
+Bhramaputra and their tributaries in the short run but in the long run the availability of water 
+would decrease considerably.
+l	
+A significant increase in runoff is projected in the wet season that may lead to increase in frequency 
+and duration of floods and also soil erosion. However, the excess water can be harvested for future 
+use by expanding storage infrastructure. The water balance in different parts of India is predicted 
+to be disturbed and the quality of groundwater along the coastal track will be more affected due 
+to intrusion of sea water.
+Soil
+l	
+Reduced quantity and quality of organic matter content, which is already quite low in Indian 
+soil.
+l	
+Under elevated CO2 concentration, crop residues have higher C:N ratio, which may reduce their 
+rate of decomposition and nutrient supply.
+l	
+Increase of soil temperature will increase N mineralization but its availability may decrease due to 
+increased gaseous losses through processes such as volatilization and denitrification.
+l	
+Change in rainfall volume and frequency and wind intensity may alter the severity, frequency and 
+extent of soil erosion.
+l	
+Rise in sea level may lead to salt-water ingression in the coastal lands turning them less suitable 
+for conventional agriculture.
+6
+Livestock
+l	
+Climate change has pronounced effect on feed production and nutrition of livestock. Increased 
+temperature results in enhanced lignification of plant tissues and reduced digestibility. Increased 
+water scarcity would also decrease food and fodder production.
+l	
+In cooler areas, climate change has major impact on vector-borne diseases of livestock by the 
+expansion of vector population. Changes in rainfall pattern may also influence expansion of 
+vectors during wetter years, leading to large outbreaks of disease.
+l	
+Global warming would increase water, shelter, and energy requirement of livestock for meeting 
+projected milk demand.
+l	
+Climate change is likely to aggravate the heat stress in dairy animals, adversely affecting their 
+reproductive performance.
+Fishery
+l	
+Increasing sea and river water temperature is likely to affect fish breeding, migration, and 
+harvest.
+l	
+Impact of increased temperature and tropical cyclonic activity would affect the capture, production 
+and marketing costs of the marine fish.
+l	
+Coral bleaching is likely to increase due to higher sea surface temperature.
+Insects and diseases
+l	
+Extension of geographical range of insect-pests and pathogens
+l	
+Changes in population growth rates of pathogens and insect-pests
+l	
+Changes in relative abundance and effectiveness of biocontrol agents
+l	
+Changes in pathogen/insect-pest × host × environment interactions, and loss of resistance in 
+cultivars containing temperature-sensitive genes
+l	
+Emergence of new diseases/pest problems and increased risk of invasion by migrant diseases and 
+pests
+l	
+Reduced efficacy of different components of disease and insect-pest management.
+7
+4. State of the Art of Research on Climate 
+Change and Agriculture
+The climate change would have major implications on food and nutritional security, particularly 
+in developing countries of the semi-arid tropics, where the need to increase and sustain food 
+production is most urgent. Chickpea and pigeon pea are grown in different cropping systems by 
+resource poor farmers in harsh, climatically and economically volatile environments. Research on the 
+effect of climate variables on host-pathogen/pest interactions is critical to develop durable resistances. 
+Epidemiological knowledge combined with biophysical and socio-economical understanding is 
+required to achieve sustainable management.
+The Inter-governmental Panel on Climate Change (IPCC), in its 5th Assessment Report warned 
+for dire consequences of climate change on human health, settlements and natural resources, if no 
+measure is taken to curb the ill-effects of global warming. The region-wise findings of the report have 
+some key messages for agriculture and food security for India. It observes that, the coming years 
+will see more extreme weather events (floods, cyclones, cloud bursts, unseasonal excessive rains and 
+drought, etc.) in most parts of the globe and India will be among the most affected countries. It goes 
+on to suggest that severe stress on fresh water resources in South Asia and China (Himalayan river 
+basins) may become a reason for armed conflict in the region by middle of the 21st century.
+According to IPCC report, India will experience decrease in seasonal mean rainfall and an 
+increase in extreme precipitation during monsoon. This will increase both floods and drought. 
+Freshwater resources will be affected due to combination of climate change and unsustainable 
+practices. It is projected that there will be reduction in wheat yield in the Indo-Gangetic plains; and 
+substantial increase in heat stress for rice, affecting its yield. Coastal flooding will affect people and 
+agriculture and also affect tourism in India. Some fish and other marine animals will face extinction 
+by 2050, affecting fishing community. Glaciers in Himalaya continue to shrink affecting run-off and 
+water resources downstream. Other that agriculture, temperature variations will lead to outbreak of 
+diseases as well and disturb the already poor health indicators of the country.
+The report suggested that severe impact of climate change can be avoided or minimized provided 
+countries act collectively and quickly. To deal with these consequences and ensure food security 
+and livelihoods, adaptation to climate change is essential. Adopting carefully chosen adaptation 
+and resilience measures could improve crop yields as much as 15-20%. The IPCC recommendations 
+include altering planting dates to match the shifting growing seasons, using crop varieties that might 
+be more tolerant to changing climatic patterns and better management of agri-inputs particularly 
+water and fertilizer. Efforts to reduce carbon emissions would have minimal impact on growth, about 
+0.06% of GDP. It recognizes that sustainable development and equity have to be the basis for climate 
+policy, which should intersect with other goals related to health, food security, poverty eradication, 
+environmental quality and energy access. India is arguing for this view for a long period of time.
+8
+In India, it has been projected that under the scenario of a 2.5°C to 4.9 °C temperature rise, rice 
+yields will drop by 32-40% and wheat yields by 41-52%. Kharif rainfall is going to increase due to 
+climate change and this might be positive for kharif crops. Further, for kharif crops, a one-degree 
+rise in temperature may not have big implication on productivity. However, temperature rise in 
+rabi season will impact production of wheat, a critical food-grain crop. Study conducted by Indian 
+Agricultural Research Institute (IARI) showed that rabi crop will be affected seriously and every 1oC 
+increase in temperature reduces wheat production by 4-5 million tons. Productivity of most cereals 
+would decrease due to increase in temperature and decrease in water availability, especially in Indo-
+Gangetic plains. The loss in crop production is projected at 10-40% by 2100, depending upon the 
+modelling technique.
+Recent surveys conducted and reports from Semi Arid Tropics (SAT) regions indicated that dry 
+root rot (Rhizoctonia bataticola) in chickpea and charcoal rot (Macrophomina phaseolina) in sorghum 
+had increased many folds in last 2-3 years due to rise in temperature and prolonged moisture stress 
+(Sharma and Pande, 2013). Similarly high intermittent rains resulted in outbreak of phytophthorablight 
+in pigeonpea (Phythophthora drechslerif. sp.cajani) in SAT regions in the last 5 years (Pande and Sharma 
+2009; Pande et al., 2011). Increased severity of alternaria blight in pigeonpea (Sharma et al., 2013), 
+foliar blast (Pyricularia grisea) in pearl millet during the past few years could be also attributed to 
+changes in rainfall pattern during the rainy season. Helicoverpa armigera (Sharma, 2005), the most 
+devastating crop pest will become more abundant as a result of rapid generation turnover, lesser 
+activity of natural enemies, and lower efficacy of control measures. Its northern limits will extend to 
+the temperate zone as a result of global warming. Maruca vitrata, the legume pod borer, will become 
+more serious with increase in precipitation and un-seasonal rains. Incidence of shoot fly and stem 
+borers will increase in areas subjected to prolonged drought; while the severity of gall midge and leaf 
+hoppers might decline under drought stress. Drought stressed crops will suffer greater damage because 
+of greater vulnerability of stressed plants to insect damage. Increased CO2 levels will result in decreased 
+production of secondary metabolites, and thus reduce the plants own defenses against insect attack.
+Relationships between pests and their natural enemies will change as a result of global warming, 
+resulting in both increases and decreases in the status of individual pest species. Quantifying the 
+effect of climate change on the activity and effectiveness of natural enemies will be a major concern 
+in future pest management programs. The majority of insects are benign to agro-ecosystems, and 
+there is much evidence to suggest that this is due to population control through inter-specific 
+interactions among pests and their natural enemies – pathogens, parasites and predators. Oriental 
+armyworm (Mythimna separata) populations get increased when extended period of drought (which 
+is detrimental to the natural enemies) is followed by heavy rainfall (Sharma et al. 2001).
+With the current trends in global warming and climate change, it is likely that most pests will 
+have a cosmopolitan range wherever the climate is favorable and the hosts are available. Prediction of 
+such changes, and range and diversity in pests niches should help develop better control measures, as 
+well as adapt IPM strategies to minimize pest incidence (Sharma, 2010). There is a need for a greater 
+understanding of the effect of climate change on the efficacy of synthetic insecticides, their persistence 
+in the environment, and development of resistance in pest populations to the pesticides.
+9
+4.1. Adaptation of Indian Agriculture to Climate Change
+Potential adaptation strategies to deal with the impact of climate change are developing cultivars 
+tolerant to heat and salinity stresses and resistant to flood and drought, modifying crop management 
+practices, improving water management, adopting new farm techniques such as resource conserving 
+technologies (RCTs), crop diversification, improving pest management, better weather forecasts 
+and crop insurance and harnessing the indigenous technical knowledge of farmers. Some of these 
+strategies are discussed below.
+Development of new crop varieties with higher yield potential and resistant to multiple stresses 
+(drought, flood, salinity) will be the key to maintain yield stability. Improvement of germplasm of 
+important crops for heat tolerance should be one of the targets of breeding programmes. Similarly, 
+it is essential to develop tolerance to multiple abiotic stresses as they occur in nature. In addition, it 
+is important to improve the root efficiency for the uptake of water and nutrients from soil. Genetic 
+engineering could play a pivotal role for ‘gene pyramiding’ to pool all desirable traits in a plant to 
+get the ‘ideal plant type’ which may also be ‘adverse climate tolerant’ genotype.
+Efficient use of natural resources such as water is highly critical for adaptation to climate 
+change. With hotter temperature and changing precipitation pattern, water will further become a 
+scarce resource. Serious attempts towards water conservation, water harvesting and improvement 
+of irrigation accessibility and water use efficiency will highly be essential for crop production and 
+livelihood management. On-farm water conservation techniques, micro-irrigation systems for better 
+water use efficiency and selection of appropriate crop based irrigation has to be promoted. Principles 
+of increasing water infiltration with improvement of soil aggregation, decreasing runoff with use 
+of contours, ridges, vegetative hedges and reducing soil evaporation with use of crop residues 
+mulch could be employed for better management of soil-water. There is a need for technologies and 
+investments that improve water management efficiency. In non-irrigated areas, water conservation 
+and water harvesting techniques are the only possible alternatives to poor farmers. However, adoption 
+of such practices may not be technology intensive, but will certainly require investment in capacity 
+building and agricultural extension. Rain water harvesting can help in fulfilling water demand in 
+water scarce regions. Improved irrigation methods like drip irrigation, sprinkler irrigation and use 
+of laser-aided land leveling can also help in increasing water-use efficiency. Laser aided leveling 
+provides smooth and leveled field, which allows ideal water distribution with negligible losses of 
+water. It facilitates uniformity in the placement of seed/seedlings and fertilizer which helps good 
+plant stand, enhanced nutrient use efficiency and increased yield (Pathak et al., 2012). In the rural 
+areas rain water harvesting can be carried out through gully plug, contour bund, gabion structure, 
+percolation tank, check dam, recharge shaft and dugwell recharge structure.
+Adjustment of planting dates to minimize the effect of high temperature induced spikelet 
+sterility can be used to reduce yield instability so that the flowering period does not coincide with 
+the hottest period. Adaptation measures to reduce the negative effect of increased climatic variability 
+as normally experienced in arid and semi-arid tropics may include changing the cropping calendar 
+to take advantage of the wet period and to avoid extreme weather events (e.g., typhoons and storms) 
+10
+during the growing season. Cropping systems may have to change to include growing suitable 
+cultivars, increasing cropping intensities or crop diversification. For example, there is an urgent 
+need for diversification of the conventional puddled transplanted rice and intensively tilled wheat to 
+other cropping systems such as maize-wheat, pulse-wheat, maize-pulse, oil seed-wheat and direct-
+seeded rice-wheat. The latter system have less demand for water and nutrient (with legume) and 
+use resources more efficiently thereby increasing farmers’ income and exhorting less pressure to the 
+natural resource base.
+Changes in temperature and variability in rainfall would affect pests incidence and their 
+virulence on major crops. This is because climate change will potentially affect the pest/weed-
+host relationship. Some of the potential adaptation strategies could be (1) developing cultivars 
+resistance to pests; (2) integrated pest management with more emphasis on biological control and 
+changes in cultural practices, (3) pest forecasting using recent tools such as simulation modelling, 
+(4) alternative production techniques and (5) identification of crops, as well as locations, that are 
+resistant to infestations and other risks. Climate change will lead to change in the pest and disease 
+infestation of crops. Higher temperature can shorten dormant periods, speed up pest and disease 
+growth and changes the dynamics of these populations and their resistance. Crops, varieties and 
+traits that are resistant to pests and diseases will improve producers’ ability to adapt to climate 
+change. Biotechnology stands out as a promising tool to facilitate the development of traits and 
+varieties that could help to mitigate and adapt to climate change (Fedoroff et al., 2010). Herbicides 
+and other inputs that reduce competition from weeds can improve productivity and thereby serve to 
+mitigate GHGs emissions associated with bringing additional land under cultivation.
+Crop insurance schemes (private and public), should be put in place to help the farmers in 
+reducing the risk of crop failure due to extreme climatic events. However, information is needed 
+to frame out policies that encourage effective insurance opportunities. Micro-finance has been a 
+success among rural poor including women. Low-cost access to financial services could be a boon 
+for vulnerable farmers. Growing network of mobile telephony could further speed up SMS-based 
+banking services and help farmers have better integration with financial institutions. There is a need 
+to develop sustainable insurance system, while the rural poor are to be educated about availing such 
+opportunities.
+Conservation agriculture and the resource conservation technologies (RCTs) have proved to be 
+highly useful to enhance resource or input-use efficiency and provide immediate, identifiable and 
+demonstrable economic benefits such as reductions in production costs, savings in water, fuel and 
+labour requirements and timely establishment of crops resulting in improved yields. Yields of wheat 
+in heat and water-stressed environments can be raised significantly by adopting the RCTs, which 
+minimize unfavourable environmental impacts, especially in small and medium-scale farms. Zero-
+tillage can allow farmers to sow wheat sooner after rice harvest, so the crop heads and fills the grain 
+before the onset of pre-monsoon hot weather.
+Farmers with awareness of weather events can respond by planting more appropriate crops or 
+varieties. Forecasting of weather events will help farmers in adopting suitable crop management 
+options. Prediction of extreme climatic events should be done well in advance to minimize crop 
+11
+loss. Major innovations in response to climate variability will take the form of improved information 
+through global monitoring and forecasting. Improved micro-climate modeling can also enable more 
+accurate understandings of the dynamics of weather events. These weather based agro-information 
+can be made available to farmers through audio and visual media and also effectively through mobile 
+phone networks. Weather forecasting and early warning systems will be very useful in minimizing 
+risks of climatic adversaries. Information and communication technologies could greatly help the 
+researchers and administrators develop contingency plans.
+Farmers in south Asia, often poor and marginal, are experimenting with the climatic variability 
+for centuries. There is a wealth of knowledge of a range of measures that can help in developing 
+technologies to overcome climate vulnerabilities. There is a need to harness that knowledge and 
+fine-tune them to suit the modern needs. Traditional ecological knowledge of people developed 
+and carried which have stood the test of time could provide insight and viable options for adaptive 
+measures. Anthropological and sociological studies have highlighted the importance of community 
+based resource management and social learning to enhance their capacity to adapt to the impacts 
+of future climate change. Tribal and hill knowledge systems are charged with potential indigenous 
+practices used for absorption and conservation of rainwater, nutrient and weed management, crop 
+production and plant protection. Their belief systems effectively help in weather forecasting and risk 
+adjustment in crop cultivation.
+12
+5. Initiatives of Govt. of India for Climate Change 
+Adaptation in Agriculture
+India recognizes that for ensuring country’s food security both in the short- and long-term and 
+making agriculture sustainable and climate-resilient, appropriate adaptation strategies have to 
+be developed. The country has initiated timely action to address the problems of climate change. 
+These efforts have provided valuable inputs in terms of the regional and national level impact of 
+climate variability and climate change on major food crops, horticulture and livestock productions. 
+It has launched the National Mission for Sustainable Agriculture (NMSA) which seeks to address 
+issues regarding sustainable agriculture, and aims at devising appropriate adaptation strategies 
+for ensuring food security, enhanced livelihood opportunities and economic stability. The NMSA 
+has identified 10 key dimensions for adaptation. These include improved crop seeds, livestock 
+and fish culture; water use efficiency; pest management; improved farm practices; improved 
+nutrient management; agricultural Insurance; credit support; markets; access to information and 
+livelihood diversification.
+The country has initiated National Livestock Mission (NLM) for increasing livestock production 
+while protecting the environment, preserving animal bio-diversity, ensuring bio-security and farmers’ 
+livelihood. The activities like making of hay/silage, establishment of fodder banks and densification, 
+feed enrichment processing units, establishment of feed processing units, etc. will reduce production 
+of greenhouse gases. A major initiative has also been taken in fisheries with the launch of National 
+Fisheries Development Board (NFDB) to achieve sustainable development of the fisheries sector.
+Building upon the early initiatives of X Five Year Plan, the Ministry of Agriculture launched 
+the National Initiative on Climate Resilient Agriculture (NICRA) which is a flagship program of 
+the Indian Council of Agricultural Research (ICAR) to undertake systematic long term research on 
+the impact and adaptation of Indian agriculture to climate change covering not only grain crops 
+but also horticulture, natural resource, livestock and fisheries. The program covering more than 21 
+Central Institutions and several State level Agricultural Universities is one of the largest projects 
+in any developing country. It not only addresses strategic research but also demonstrates the best 
+bet practices on farmers’ fields to cope with current variability. This is being carried out in 130 
+vulnerable districts of the country.
+The Ministry of Agriculture through ICAR has undertaken extensive capacity building of farmers, 
+scientists and extension workers at various levels on the impact of climate change on agriculture and 
+promotion of locally appropriate adaptation strategies. For example, in key climatically vulnerable 
+areas of the country, the Government is promoting crop varieties tolerant to abiotic stresses, 
+practices of improved water and nutrient management, particularly micro-irrigation, conservation 
+agriculture, crop diversification, pest surveillance and integrated pest management. These coupled 
+13
+with improved agro-advisories and weather based crop insurance are likely to help farmers to cope 
+with climate variability and minimize risks.To synergize extension mechanism National Mission on 
+Agriculture Extension & Technologies (NAME&T) has been made operational from 2014-15.
+In rainfed agriculture, which is more risk prone and covers nearly 68% of the net sown area, 
+ICAR has evolved several in situ and ex situ water conservation technologies and improved dryland 
+agriculture technologies, which are being upscaled through the Integrated Watershed Management 
+Program (IWMP) and Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS). 
+The ICAR is also planning to upscale the demonstration of best bet practices through NICRA 
+over nearly 160 districts in the XII Five Year Plan. These practices cover four modules, i.e., natural 
+resource management, crop production, livestock and fisheries and institutional interventions. The 
+experiences of NICRA will be provided to NMSA for larger adoption in the country. All major 
+programmes such as National Food Security Mission (NFSM), Mission for Integrated Development 
+of Horticulture (MIDH), National Mission on Sustainable Agriculture (NMSA), National Mission 
+on Oilseed & Oil Palm (NMOOP) and Rashtriya Krishi Vikas Yojana (RKVY) emphasize on water 
+harvesting & resource conservation in farmer’s field. A dedicated component namely On-Farm Water 
+Management (OFWM) under NMSA is operational to promote water management in farmers’ field 
+focusing on enhancing on-farm water use efficiency.
+The ICAR has also prepared a district level climate vulnerability atlas for undertaking location 
+specific adaptation activities both by public, private and non-governmental sector. India is also 
+initiating newer policy in terms of efficiently using water, energy and fertilizer in agriculture. One 
+of the major issues, the country is facing is the inter-annual variability in rainfall and temperature 
+affecting one part or other of the country every year. To face this challenge, the ICAR has prepared 
+District Level Contingency Plan for implementation in the years to come.
+Women play a significant and crucial role in agricultural development and allied fields in 
+the main crop production, livestock production, horticulture, post harvest operations, agro/social 
+forestry, fisheries, etc. To ensure greater involvement of women in agricultural development, it has 
+been emphasized in the guidelines of the DAC schemes for making at least 30% of the allocated 
+budget to the components for women farmers.
+Adaptation to agriculture in the face of climate changes needs to be countered by using state-of-
+the-art techniques and methodologies for assessing crop forecasts and drought situation in advance. 
+Forecasting agricultural output using space, agro meteorological and land based observations is 
+a multi-institutional programme, which integrates the activity from many organizations such as 
+Mahalanobis National Crop Forecast Centre (MNCFC), Space Applications Centre (ISRO), India 
+Meteorological Department (IMD), Institute of Economic Growth and State Agricultural Departments 
+aiming at providing multiple pre-harvest production forecasts of crops at National, State and District 
+levels. There is also a Inter-Ministerial Mechanism like Weather Watch Group (WWG) representing 
+IMD, Ministry of Water Resources, Ministry of Consumer Affairs, Department of Fertilizers and 
+Dept. of Economic Affairs to monitor various parameters i.e., rainfall, water storage, sowing status, 
+fertilizers, pest & diseases, prices and availability of seeds.
+14
+Integrated Farming System (IFS) is being promoted through introduction of supplementary farm-
+based livelihood support activities apart from crops/cropping system to provide greater resilience & 
+sustenance to farmer in the wake of extreme climatic events. To promote agro-forestry as a farming 
+system, National Agro-forestry Policy has been formulated by Government of India. Agriculture 
+needs to diversify to tackle adverse situation/extreme condition and relief based management 
+approach to contain impact of any such extreme climate variability. Therefore, apart from the long 
+term & short term approaches, crisis management plan for drought has been prepared to enable the 
+Central and State Governments to minimize its impact in emergency situation. Recently, the Govt. 
+has launched the Pradhan Mantri Fasal Bima Yojana (Prime Minister Crop Insurance Scheme) to 
+enable farmers avail insurance cover against crop loss on account of natural calamities.
+15
+6. Research Undertaken Under National Mission on 
+Strategic Knowledge for Climate Change (NMSKCC) 
+as Part of Climate Change Programme of DST
+6.1. Project at Tamil Nadu Agricultural University
+Assessing impacts and developing adaptation strategies for agriculture in Tamil Nadu
+6.1.1. Objectives
+i.	
+Examining the influence of the global climate drivers (ENSO/IOD) on climate of Tamil Nadu at 
+river basin scale.
+ii.	 Investigating the impact of the climate change on major agricultural crops in five major river 
+basins of Tamil Nadu (Cauvery, Thamirabarani, Vaigai, Parambikulam-Aliyar and Palar) through 
+integrated modeling approach (climate, hydrological and crop weather models)
+iii.	 Designing innovative adaptation technologies (including microbial inoculants, nanoinputs to 
+enhance water and nutrient use efficiencies) and assessing its feasibility and economic viability to 
+combat climate change impacts.
+iv.	 To ensure dissemination of climate change driven technologies among farming communities 
+through the existing AAS network and assist in developing State action plan on climate change 
+related to agriculture sector
+6.1.2. Methodology
+The agriculture in India is greatly influenced by climate change and extreme weather events. The 
+project will develop baseline data pertaining to water, nutrient and productivity of various crops 
+in major river basins of Tamil Nadu State. Influence of the global climate drivers (ENSO / IOD) on 
+climate of Tamil Nadu at river basin scale will be analysed. The various climate change scenarios 
+perceived by the IPCC will be modelled to study the impact on the hydrology and water availability 
+using hydrological models. For getting future climate data at closure grid size (25 x 25 km), GCMs 
+will be used. Soil and Water Assessment Tool (SWAT) will be employed to map the hydrology of the 
+study area for baseline and future scenarios. The outcome of the climate and SWAT models will be 
+coupled with crop weather model (DSSAT) to study the impact of water availability and changing 
+climate on crop productivity. Based on the model outputs, various adaptation technologies will be 
+designed to improve the water and nutrient use efficiencies.
+6.1.3. Results
+i.	
+Situation analysis
+	
+Situation analysis report has given a clear picture on the current status of the river basin in terms 
+of climate, major soil types, land use pattern, major crops grown, institutions in the basin and 
+16
+role of private sectors which formed the basis for structuring of the researchable issues. Current 
+knowledge of the farmers had been documented. Climate related risks in the river basins were 
+ranked based on the likelihood probability of occurrence and their consequence on crops and 
+livelihoods. Also documented non-climatic stress and sensitivities that aggravate the climate 
+change issues. Existing local adaptive capacities of the farmers were also documented.
+ii. Influence of the global climate drivers (ENSO/IOD) on climate of Tamil Nadu at river basin 
+scale and its influence on hydrology and rice productivity
+	
+Simultaneous correlation and lag correlation were performed between SOI / IOD and rainfall 
+using the gridded daily rainfall data at 0.5 x 0.5 degree resolution accumulated for Southwest and 
+Northeast monsoon seasons over different river basins of Tamil Nadu. Historical SOI values were 
+segregated into Neutral (-5.5>SOI <+ 5.5), El-Nino (SOI<-5.5), La Nina (SOI>+5.5) to correlate with 
+rainfall. Major findings are given below:
+a)	 Results of the correlation study indicated that there was no significant correlation existed 
+between El-Nino and SWM rainfall at river basin scale. If the El-Nino events are segregated 
+into weak and strong phases, then the strength of correlation is improved. Weak El-Nino years 
+(SOI between -5.5 and -10) had positive correlation with SWM rainfall of southern, central 
+and northwestern parts of Tamil Nadu. In strong El-Nino years (SOI between -10 and -35), a 
+positive correlation was observed in the eastern and northeastern parts of Tamil Nadu as well 
+as in most parts of the eastern coast.
+b)	 All La-Nina years had positive correlation with SWM rainfall over most parts of Western Ghats 
+and northern coastal area. Weak El-Nino years had positive correlation with SWM rainfall 
+over southern parts of Western Ghats and central Tamil Nadu. Strong El-Nino years had the 
+positive relationship with rainfall covering the whole of Western Ghats and eastern coast.
+Focus Group Discussion made with the farmers of Cauvery basin and PAP Basin
+17
+c)	 As far as NEM is concerned, only southern Tamil Nadu showed correlation upto 0.4 with 
+El-Nino condition, while all other parts had weak correlation. Weak El-Nino years had good 
+negative relationship with NEM rainfall over entire Western Ghats, east coast and northern 
+pockets of Tamil Nadu. In contrast, strong El-Nino years exhibited positive correlation with 
+northern and central Tamil Nadu including eastern coast for NEM rainfall.
+d)	 In all La-Nina years, northern and central Tamil Nadu showed negative relationship while in 
+weak La-Nina years, the negative relationship with NEM rainfall extended to total Tamil Nadu 
+except few parts of western and northern regions of Tamil Nadu. In strong la-Nina years, 
+except Cauvery basin all other parts showed positive relationship with NEM rainfall.
+e)	 Analysis on Cauvery basin using SWAT model indicated that the El Niño episode had a 
+good linkage with rainfall, hydrology and rice productivity in the Cauvery river basin, India. 
+Major share of rainfall is received during northeast monsoon (44.44%) followed by southwest 
+Monsoon seasons (36.18%) and the total flow gradually increased from March to September. 
+Soil water recharge increased from April and attained its maximum during September through 
+December. ET is met in most of the months except during summer (March – May). El Niño years 
+received more rainfall (with high inter annual rainfall variability of 809.3 mm to 2366 mm), 
+which resulted in high soil water recharge including percolation and soil water availability in 
+the surface layers.
+f)	 The mean rice productivity was shifted to up in El Niño and normal years indicating the 
+possibility of getting more rice yields with less crop production risk compared to La Niña 
+years. This behaviour could be well utilized for forecasting the rice crop productivity under 
+different ENSO conditions and can help the policy makers to decide on the water allocation as 
+well as to design import/ export policies.
+iii.	Expected change in climate over Cauvery basin
+	
+Future climate predictions derived from the ensemble of 16 GCMs for Cauvery basin indicated 
+the increase in rainfall between 7 and 21% towards mid-century (2040 -2069) while this increase is 
+Simultaneous and lag correlation
+between SOI and SWM rainfall
+Simultaneous and lag correlation
+between SOI and NEM rainfall
+Fig.1. SOI simultaneous and Lag correlation with SWM and NEM rainfall
+18
+projected to be between 10 and 33% in end century (2070-2099) compared to baseline (1971-2005). 
+Temperature is expected to increase by 1.5 to 2 0C and 3 to 4.5 0C in the mid and end century time 
+scale.
+iv.	 Calibration and validation of impact models
+	
+Impact models such as Soil and Water Assessment Tool (SWAT), DSSAT were calibrated and 
+validated for the study region to assess the impact pf climate change on hydrology and crops 
+productivity. These models were also used for developing adaptation strategies.
+v.	 Impact of climate change on the hydrology of Cauvery basin
+	
+The SWAT model results showed that in the mid century, the predicted increase in annual Potential 
+Evapotranspiration (PET) for Cauvery basin would vary from 3 to 4.5% and 8.4 to 9.3% for the mid 
+Fig. 2. Comparison of observed and SWAT simulated crop yield over Cauvery basin
+19
+and end century scenario respectively over the present level. Annual water yield is expected to 
+increase by 14 to 21% during mid-century and is projected to increase further by 20 to 27% towards 
+end century. The annual soil water storage is also predicted to increase by 5 to 14 % and 7 to 18% 
+in the mid and end century respectively.
+vi.	 Climate change impacts on irrigation water requirement for paddy in Cauvery delta region of 
+Tamil Nadu
+	
+Results of SWAT model indicated that climate change impacted the atmospheric water demand 
+and irrigation water requirement of paddy in the delta portion of Cauvery basin in Tamil Nadu. 
+The PET is expected to increase in the mid and end century. As a result of this water requirement 
+of rice crop is also expected to increase in future.
+Fig. 3. Observed and simulated monthly stream flow (cfs) for the Cauvery basin over the calibration 
+(1986–1989) and validation (1990–1992) time periods.
+20
+vii.	Sensitivity analysis for change in temperature, rainfall and CO2 on maize
+	
+Different combinations of change in temperature, rainfall and CO2 concentration were simulated 
+using Ceres–Rice model embedded in DSSAT model.
+Table 1. Sensitivity combinations and their yield for temperature change.
+Change in Temp(˚C)
+Rainfall change 
+(%)
+CO2 Concentration 
+(ppm)
+Yield
+Deviation from control 
+(%)
+Avg
+Range
+Avg
+Range
+Avg
+Range
+Avg
+Range
+-1.0 to 0.0
+10.5
+-43 to 40
+536
+355 - 744
+6542
+6062-
+7143
+12
+4 to 23
+0.1 to 2.0
+7.2
+-44 to 49
+612
+340 - 887
+5845
+4987-
+6583
+0.4
+-14 to 13
+2.1 to 4.0
+5.4
+-48 to 48
+638
+366 - 875
+5225
+4675-
+5553
+-10
+-5 to -20
+4.1 to 6.0
+-8.4
+-50 to 45
+600
+333 - 898
+4821
+3867-
+5605
+-17
+-4 to -34
+6.1 to 7.9
+-2.2
+-37 to 44
+656
+380 - 883
+4179
+2700 - 
+5637
+-28
+-3 to -54
+Yield of Control Treatment: 5821 kg ha-1
+	
+Sensitivity analysis gave a clear indication on the impact of combination of effect of change in 
+temperature and precipitation on crops with and without CO2 fertilization. This would help in 
+designing appropriate adaptation strategies.
+Fig. 4. Changes (%) in irrigation water requirement for paddy during mid and end century compared to the baseline
+21
+Table 2. Sensitivity combinations and their yield for change in rainfall.
+Rainfall change 
+(%)
+Change in 
+Temperature (˚C)
+CO2 Concentration 
+(ppm)
+Yield
+Deviation from 
+control (%)
+Avg
+Range
+Avg
+Range
+Avg
+Range
+Avg
+Range
+Avg
+Range
+-44
+-50 to -40
+3.2
+-0.1 to 5.4
+642
+346 - 847
+5445
+4340 - 6721
+-6.5
+-25.4 to 15.5
+-35
+-38 to -32
+5.9
+3.9 to 7.6
+649
+333 - 883
+4601
+2700 - 5637
+-21.0
+-53.6 to -3.2
+-25
+-29 to -21
+4.1
+-0.3 to 7.3
+619
+340 - 871
+4960
+3446 - 6741
+-14.8
+-40.8 to 15.8
+-15
+-20 to -11
+4.0
+0.7 to 6.7
+570
+418 - 898
+4859
+3363 - 5537
+-16.5
+-42.2 to -4.9
+-4
+-9 to 0
+4.7
+0.5 to 7.9
+618
+399 - 836
+4753
+3163 - 5986
+-18.4
+-45.7 to 2.8
+6
+1 to 10
+2.5
+-0.5 to 7.5
+682
+563 - 815
+5623
+4128 - 6792
+-3.4
+-29.1 to 16.7
+15
+11 to 20
+3.8
+-0.8 to 7.2
+565
+355 - 852
+5266
+3873 - 6347
+-9.5
+-33.5 to 9
+25
+21 - 30
+3.3
+-1.0 to 7.8
+679
+440 - 887
+5440
+3317 - 7143
+-6.5
+-43 to 22.7
+35
+31 to 40
+2.5
+-0.9 to 6.9
+529
+366 - 866
+5269
+4009 - 6572
+-9.5
+-31.1 to 12.9
+45
+41 to 49
+2.8
+0.6 to 7.2
+615
+412 - 861
+5165
+3102 - 6476
+-11.3
+-46.7 to 11.3
+Table 3. Sensitivity combinations and their yield for change in CO2concentration.
+CO2 Concentration 
+(ppm)
+Change in 
+Temperature (˚C)
+Rainfall change 
+(%)
+Yield
+Deviation from control 
+(%)
+Avg
+Range
+Avg
+Range
+Avg
+Range
+Avg
+Range
+Avg
+Range
+367
+333-399
+2.9
+-0.8 to 7.6
+-8.2
+-46 to 39
+4691
+2700 - 6313
+-19.4
+-53.6 to 8.5
+449
+403-500
+3.8
+-0.9 to 7.2
+8.8
+-35 to 45
+4735
+3102-6572
+-18.6
+-46.7 to 12.9
+552
+504-599
+3.4
+-0.4 to 7.9
+0.3
+-50 to 43
+5056
+3163 - 6468
+-13.1
+-45.7 to 11.1
+651
+604-691
+2.9
+-1.0 to 7.8
+16.9
+-35 to 49
+5473
+3317-7143
+-6.0
+-43 to 22.7
+746
+700-798
+3.8
+-0.1 to 7.5
+-11.3
+-47 to 35
+5472
+4128-6721
+-6.0
+-29.1 to 15.5
+850
+802-898
+4.4
+0.6 to 7.3
+-2.3
+-45 to 47
+5469
+4428-6476
+-6.0
+-23.9 to 11.3
+Yield of Control Treatment: 5821 kg ha-1
+viii. Study on the response of C3 (Rice) and C4 (Maize) plants to elevated temperature and CO2
+	
+Impact on C3 (rice) and C4 (maize) plants to elevated temperature and CO2 were studied under 
+ambient as well as controlled condition using Temperature Control Chamber (TCC: ambient 
+temperature + 4°C) and Soil Plant Atmosphere Research (SPAR: ambient temperature + 4°C and 
+550 ppm CO2) during rabi (September-January), 2013-14 at the Agro-Climate Research Centre 
+(ACRC) of Tamil Nadu Agricultural University (TNAU), Coimbatore. Results clearly indicated that 
+increase in temperature with or without CO2 enrichment affected the phenology and productivity 
+of C3 and C4 plants with different magnitude. Temperature increase alone had negatively affected 
+22
+the C3 crop (rice) more compared to C4 crop (maize). However, CO2 enrichment had compensated 
+the negative impact of elevated temperature to certain extent. Rice had responded more positively 
+to CO2 enrichment compared to maize under elevated temperature.
+Table 4. Effect of ambient and controlled conditions on yield of rice and maize crop.
+Treat
+ments
+RICE (C3)
+MAIZE(C4)
+Grain 
+yield (g 
+per plant)
+Straw 
+yield (g 
+per plant)
+DMP (g 
+per plant)
+Grain 
+conversion 
+percentage
+Grain 
+yield 
+(g per 
+plant)
+Straw 
+yield (g 
+per plant)
+DMP (g 
+per plant)
+Grain 
+conversion 
+percentage
+T1
+38.15
+51.12
+93.00
+41.02
+107.25
+152.34
+270.59
+39.64
+T2
+21.00 
+(-45%)
+39.06 
+(-23%)
+65.13 
+(-30.3%)
+32.31 
+(-21.0%)
+80.88 
+(-24%)
+133.66 
+(-12%)
+223.55 
+(-17.4%)
+36.18 
+(-21.0%)
+T3
+24.68 
+(-35%)
+47.63 
+(-15%)
+71.06 
+(-23.7%)
+33.78 
+(-15.3%)
+84.59 
+(-21%)
+138.31 
+(-9.2%)
+232.14 
+(-14.2%)
+36.54 
+(-15.3%)
+SEd
+0.1713
+0.284
+0.4643
+0.5507
+0.8609
+1.47
+CD
+(P=0.01)
+0.4931
+0.818
+1.3363
+1.5855
+2.4785
+4.2319
+ix.	 Designing innovative adaptation technologies - Screening crop cultivars for elevated temperature
+	
+Experiment was carried out at Agro Climate Research Centre (ACRC) of Tamil Nadu Agricultural 
+University (TNAU), Coimbatore under 5 0C elevated temperature. Varieties of different duration 
+were taken and staggered planting was done to coincide the flowering period of all the varieties 
+under the study to understand the influence of the elevated temperature. Same varieties were also 
+grown under ambient condition to compare the effect.
+	
+In rice crop, ADT 40, Vellai samba and karthigai samba cultivars recorded highest spikelet fertility 
+in control chamber (with 50C elevated temperature) compared to open condition. Among the 
+18 long duration rice cultivars, vellai samba and karthigai samba exhibited higher tolerance to 
+elevated temperature (upto 43 0C) and these varieties could be used in the breeding programmes 
+for developing heat tolerant cultivars.
+x.	 SRI as an adaptation technology to changing climate in rice
+	
+Simulation of well calibrated and validated DSSAT- CERES- Rice model indicated that the rice 
+crop would be greatly affected due to changing climate and the yield is expected to go down 
+under future warmer climatic condition. Some of the adaptation technologies like timely planting 
+and practicing system of rice intensification (SRI) would help in sustaining the rice yields under 
+changing climatic condition. During Kharif season, SRI produced higher yield by 33.1% (25.1 %) 
+with water saving of 16% (7.8 %) over traditional flooded rice cultivation.
+23
+xi.	 Identification of best planting window for rice in the context of future climate change: A 
+controlled condition experiment
+	
+Rice crop grown under climate control chamber with elevated temperature (ambient +4°C) and 
+CO2 enrichment (650 ppm) recorded reduced growth characters such as number of tillers, leaf 
+area index and dry matter production. It has also recorded lower grain and straw yields due to 
+lesser number of productive tillers and lesser number of filled grains. Crop planted on 1st June 
+registered higher growth characters like stem height, number of tillers, leaf area index and dry 
+matter production than other dates of sowing. Among the different sowing windows tested to 
+manage climate change, 1st June sowing yielded more than advanced or delayed planting under 
+both ambient as well as under modified climatic conditions.
+xii. Effect of nano fertilizers on the productivity and green house gas fluxes in rice cultivation
+	
+Impact study of NH4
++–N loaded nano-zeolite on the growth and green house gas fluxes in rice 
+cultivation under different moisture regimes clearly indicated enhanced nitrogen availability, crop 
+growth in addition to minimizing the emission of methane from rice soils. Due to the combined 
+effect of growth enhancement and lesser methane flux, nitrogen loaded nano zeolite might be a 
+potential and eco-friendly source of N for rice cultivation.
+6.1.4. Summary of Results
+l	
+Analysis of relationship between El-nino and rainfall indicated that, in strong El-Nino years (SOI 
+between -10 and -35), a positive correlation was observed in the eastern and northeastern parts 
+of Tamil Nadu as well as in most parts of the eastern coast. As far as NEM is concerned, only 
+southern Tamil Nadu showed correlation upto 0.4 with El-Nino condition, while all other parts 
+had weak correlation.
+l	
+The mean rice productivity was shifted to up in El Niño and normal years indicating the possibility 
+of getting more rice yields with less crop production risk compared to La Niña years.
+l	
+Future climate predictions derived from the ensemble of 16 GCMs for Cauvery basin indicated 
+the increase in rainfall ranges between 7 and 21% towards mid-century (2040 -2069) while this 
+increase is projected to be between 10 and 33% in end century (2070-2099) compared to baseline 
+(1971-2005). Temperature is expected to increase by 1.5 to 2 0C and 3 to 4.5 0C) in the mid and end 
+century time scale.
+l	
+Annual Potential Evapotranspiration (PET) for Cauvery basin would vary from 3 to 4.5% and 
+8.4 to 9.3% for the mid and end century scenario respectively. Annual water yield is expected to 
+increase by 14 to 21% during mid-century and is projected to increase further by 20 to 27% towards 
+end century. The annual soil water storage is also predicted to increase by 5 to 14% and 7 to 18% 
+in the mid and end century respectively.
+l	
+Increase in temperature with or without CO2 enrichment affected the phenology and productivity 
+of C3 and C4 plants with different magnitude. Temperature increase alone has negatively affected 
+the C3 crop (rice) more compared to C4 crop (maize). However, CO2 enrichment had compensated 
+the negative impact of elevated temperature to certain extent.
+24
+l	
+Adaptation technologies identified for changing climate are: Cultivation of rice crop in SRI 
+method, planting the crop in best planting window, growing heat and drought tolerant cultivars 
+and application of NH4
++–N loaded nano-zeolite.
+l	
+NH4
++–N loaded nano-zeolite application enhanced nitrogen availability, crop growth in addition 
+to minimizing the emission of methane from rice soils.
+6.1.5. Strategic Knowledge generated
+l	
+Current climate assessment and climate risk ranking in Tamil Nadu indicated that the drought 
+during crop growing season is the most limiting factor for crop production.
+l	
+Global climate drivers such as ENSO and IOD influence rainfall at regional scale. Weak El-Nino 
+years (SOI between -5.5 and -10) had positive correlation with SWM rainfall while, it had negative 
+relationship with NEM rainfall over most part of Tamil Nadu. All La-Nina years had positive 
+correlation with SWM rainfall of Tamil Nadu. Hence, ENSO forecast could be utilized for strategic 
+farm management planning such as choice of crop, land allocation, etc., to capture the benefit of 
+expected situation.
+l	
+EN-Nino/Southern Osciallation (ENSO) impacts hydrology and rice productivity at river 
+basin scale. The mean rice productivity was shifted up in El Niño indicating the possibility of 
+getting more rice yields with less crop production risk as a result of higher water availability. This 
+behaviour could be well utilized for forecasting the rice crop productivity under different ENSO 
+conditions and can help the policy makers to decide on the water allocation as well as import/ 
+export policies.
+l	
+Climate change would increase the irrigation water requirement for paddy in Cauvery delta 
+region of Tamil Nadu by 8 and 14 % during mid and end century respectively compared to current 
+water requirement as a result of increase in PET.
+l	
+Increase in temperature negatively impacted C3 (Rice) plants more compared to C4 (Maize) 
+plants. However, CO2 enrichment has compensated the negative impact of elevated temperature 
+to certain extent. Rice has responded more positively to CO2 enrichment compared to maize under 
+elevated temperature.
+l	
+Screening rice cultivars for elevated temperature proved the potentiality of cultivars such asvellai 
+samba and karthigai samba to withstand upto 43 0C without productivity loss. Hence, these 
+varieties could be used in the breeding programmes for developing heat tolerant cultivars.
+l	
+System of Rice Intensification (SRI) would help in sustaining the rice yields under changing 
+climatic conditions. There is water saving of around 20% with yield enhancement upto 22% with 
+SRI method of rice cultivation.
+l	
+Even under changing climatic conditions in the future time scale, June 1st planting would be the 
+best time for rice crop in Tamil nadu.
+l	
+Application of NH4
++–N loaded nano-zeolite enhanced nitrogen availability, and crop growth in 
+addition to minimizing the emission of methane from rice soils. Due to the combined effect of 
+growth enhancement and lesser methane flux, nitrogen loaded nano zeolite might be a potential 
+and eco friendly source of N in rice cultivation.
+25
+6.2. Project at International Crop Research Institute for Semi Arid Tropics
+Center of Excellence on Climate Change Research for Plant Protection
+6.2.1. Objectives
+l	
+Predict and map potential changes in relative abundance and geographical distribution of insect-
+pests and diseases in grain legumes.
+l	
+Standardize techniques to study insect-pest/pathogen x host plant × environment interactions.
+l	
+Study biochemical, molecular and genetic interactions between pathogens/insect pests x host plant 
+x environment in relation to expression of resistance to the target pests.
+l	
+Capacity building for undertaking research on the effect of climate change on crop protection.
+6.2.2. Establishment of climate change facilities
+Climate change facilities such as Open Top Chambers (OTC), Free Air Carbon Dioxide Enrichment 
+(FACE), and CO2 incubators with precise CO2, temperature and relative humidity controlled incubators 
+to undertake research on the interaction of host plant with the specific pests and pathogens were 
+established at ICRISAT-Patencheru, Hyderabad. These facilities were established in addition to the 
+existing facilities such as temperature and humidity controlled growth chambers and insect-rearing 
+laboratory and other essential equipment’s required to study the insect pest/pathogen × host plant × 
+environment interactions at genetic, biochemical and molecular levels (Figure 3).
+Climate change facilities established at ICRISAT, Patancheru, Hyderabad.
+26
+6.2.3. Results
+i.	
+Changes in disease and insect-pest spectrum over the past four decades
+	
+Pigeonpea diseases: Five diseases namely Phytophthora blight (Phytophthora cajani), sudden death 
+(Fusarium acuminatum), alternaria blight (Alternaria alternata and Alternaria tenuissima), dry root 
+rot (Macrophomina phaseolina) and collar rot (Sclerotium rolfsii) have been identified as emerging 
+diseases in pigeonpea (Figure 1). The relative importance and frequency of occurrence of these 
+diseases has significantly increased as compared to 1975-1980 reports.
+	
+Chickpea diseases: Dry root rot (Rhizoctonia bataticola) & collar rot (Sclerotium rolfsii) clearly 
+emerged as serious diseases in chickpea as compared to Fusarium wilt more prevalent earlier. In 
+addition trends of stunt, powdery mildew, scleotinia stem rot and colletotrichum blight have also 
+been found in some region.
+ii. Weather variables as predictor for diseases: Models were developed for forewarning amount of 
+maximum disease severity, crop growth stage at first appearance of disease and crop age at peak 
+severity for Phytophthora blight of pigeonpea taking into consideration past one decade data. As 
+per model, disease appeared at 50-60 days old crop and maximum Phytophthora blight incidence 
+was found at 80-90 days crop growth stage. Phytophthora blight incidence in pigeonpea had 
+positive correlation with rainfall and maximum RH. The mean of monthly precipitation from June 
+through October was found to be a better predictor for Phytophthora blight. Similarly, dry root 
+rot, an emerging disease in chickpea had positive correlation with temperature and evaporation 
+Emerging diseases in pigeonpea(a) Phytophthora blight (Phytophthora cajani), (b) sudden death (Fusarium 
+acuminatum), (c) Alternaria blight (Alternaria alternata and Alternaria tenuissima), (d) dry root rot 
+(Macrophomina phaseolina)
+27
+and negative correlation with maximum rainfall. The linear regression models clearly indicated 
+that dry root rot is predisposed by rising temperature and reducing soil moisture
+iii. Changes in pest spectrum over the past 100 years: Twelve new pests, and several pest outbreaks 
+have been recorded on pigeonpea in India, of which cotton bollworm, Helicoverpa armigera, spotted 
+pod borer, Maruca vitrata, and pod sucking bugs, Clavigralla spp. have at times resulted in complete 
+crop loss. In chickpea, cyclonic storms in Nov - Dec have resulted in outbreaks of beet armyworm, 
+Spodopteraexigua in southern India and other pests in other parts of India.
+iv. Effect of climatic conditions on pest incidence in chickpea &pigeonpea in field: Egg laying and 
+larval density of H. armigera and M. vitrata was maximum in the third planting (Aug - Sep), which 
+corresponded to moderate temperatures (Tmax29 oC and Tmin 21 oC) and high RH (RHmax 91% and 
+RHmin 71%). H. armigera incidence in chickpea was greater in the first planting than in the other 
+plantings [corresponding to Tmax 29.8 oC and Tmin 14.7 oC; and RHmax (92.8% and RHmin 42.7%].
+	
+The incidence of S. exigua was maximum in the fourth sowing (3.2 larvae/5 plants) and lowest in 
+the second sowing (0.19 larvae/5 plants).
+v. Techniques standardized to study host, pathogen, & environment interactions:
+	
+Various methods and techniques have been standardized to study the effect of climate change 
+variables on pests and diseases.
+l	
+An ITS and LAMP based technology developed for rapid diagnostics of several pathogens 
+such as R. bataticola, S. rolfsii infecting chickpea and P. cajani, A. tenuissima, A. alternate, F. 
+acuminatum infecting pigeonpea.
+l	
+Developed controlled environment and mini-sick plot screening techniques to evaluate 
+Phytophthora blight in pigeonpea against range of temperature, humidity and CO2 and 
+identification of resistant sources.
+l	
+Standardized Real time PCR technique to quantify the fungal pathogen colonization under 
+various climatic conditions.
+l	
+Standardized controlled environment method for dry root rot for studying effect of high 
+temperature and soil moisture levels on dry root rot pathogen (R. bataticola) survival and 
+development and identification of resistant sources.
+Emerging diseases in chickpea as a result of climate change (a) dry root rot, (b) collar rot and (c) powdery mildew.
+28
+l	
+Developed detached leaf assay, and diet impregnation assay to evaluate the effects of changes 
+in biochemical composition of the host plant on feeding, survival, development and fecundity 
+of H. armigera and S. exigua.
+l	
+Standardized real-time polyphenol-meter, HPLC and GC-MS techniques to evaluate quantative 
+changes in secondary metabolites in chickpea and pigeonpea (Fig. 4).
+l	
+Pigeonpea plants raised under normal conditions in the greenhouse exhibited H. armigera 
+leaf damage rating of 5.8 to 7.6, while in plants raised under water and heat stress suffered 
+a leaf DR of 1.0 to 3.3. Water and heat stress rendered the plants less suitable for growth and 
+development of H. armigera.
+l	
+Chickpea plants grown under greenhouse conditions suffered a leaf DR 4.3 to 8.0 as compared 
+to 2.8 – 4.5 in the plants raised under heat and water stress.
+vi.	 Biochemical, molecular and genetic interactions between pathogens/ insect pests × host plant × 
+environment in relation to expression of resistance to the target insect pests
+l	
+Significant changes in expression of enzymes viz. PAL, PO, PPO and CAT in Phytophthora 
+blight challenged plants at different temperature was recorded. At lower temperature, no 
+significant difference was observed.
+l	
+No significant effect of elevated CO2was found on Fusarium wilt of pigeonpea. Phytophthora 
+blight incidence and activity of APX, CAT, GR, GPX found increased under elevated CO2. 
+Sterility mosaic disease (SMD) also showed increased severity under elevated CO2 (550 and 
+700 PPM). In response to elevated CO2, chlorophyll content had increased significantly in both 
+SMD infected and non-infected plants in comparison to ambient condition.
+l	
+Development of R. bataticola causing dry root rot of chickpea was positively correlated with 
+temperature and soil moisture content 60%. Elevated CO2 had no significant role on dry root 
+rot incidence.
+l	
+Elevated CO2 (550 and 700 PPM)advanced the appearance of Fusarium wilt as compared to 
+ambient. Under elevated CO2, APX and GPX activities decreased in compatible and increased 
+in the incompatible interaction. Under elevated CO2, CAT activity decreased in compatible and 
+increased in the incompatible interaction.
+Fig. 5. HPLC chromatograms for flavonoids (a) in pigeonpea (b) in chickpea.
+29
+l	
+The chlorophyll and flavonol contents increased in pigeonpea plants in response to water and heat 
+stress, however, the differences were not statistically significant.
+l	
+Carbohydrate content was greater in plants grown under water and heat stress as compared to 
+the plants raised under normal conditions. However, there were no differences in protein content 
+between the plants raised under normal and stress conditions.
+l	
+In BOD incubators, there was no survival of S. exigua at 15 and 450C. The survival of S. exigua 
+larvae decreased at 95% RH as compared to that at 50% RH.
+l	
+The weights of H. armigera larvae increased, but the survival period decreased with an increase in 
+temperature from 15 – 35oC. No H. armigra larvae survived at 45oC.
+l	
+The H. armigera larval and pupal weights decreased, but pupation, adult emergence and fecundity 
+increased with an increase in RH from 25 – 75% RH. Weights of H. armigera larvae decreased, 
+fecundity increased with an increase in CO2 levels. Leaf feeding increased, but the larval survival 
+decreased with an increase in CO2.
+l	
+Amino-peptidase activity had decreased in H. armigera larvae fed on plants grown under elevated 
+CO2 than the larvae fed on plants grown under ambient conditions, but the amylase activity and 
+carbohydrate levels increased with an increase in CO2 levels.
+6.2.4. Strategic knowledge generated
+l	
+The severity of diseases (Phytophthora blight and sterility mosaic in pigeonpea, and root rots in 
+chickpea) and insect pests (Maruca and Helicoverpa in pigeonpea, and Spodopteraexigua in chickpea) 
+will increase as a result of global warming and climate change. New diseases (Alternaria blight in 
+pigeonpea& chickpea and sudden death and root rots in pigeonpea), and insect pests (leaf miner 
+and mealy bugs, Planococcus and Ceroplastodesin pigeonpea, and white fly, Bemisiatabaci and mealy 
+bug, Planococcusin chickpea) are likely to emerge as serious pests under elevated temperature and 
+CO2. This information can be used to develop strategies for pest management in these crops to 
+mitigate the effects of climate change for sustainable production of grain legumes.
+l	
+High temperature and drought predispose chickpea to dry root rot; while high rainfall with-in a 
+short span of time results in outbreaks of Phytophthora blight in pigeonpea. Cyclonic storms in 
+October result in outbreaks of beet armyworm, Spodopteraexigua in chickpea, and Helicoverpa and 
+Maruca in pigeonpea in southern India; while temperatures >5ºC than normal in March result in 
+heavy losses due to Helicoverpa in chickpea and pigeonpea in North India. This information can 
+be used to issue appropriate advice to the farmers to take timely disease/pest control measures to 
+minimize the effects of climatic conditions that may lead to pest outbreaks.
+l	
+Identified disease-resistant (ICCV 05530, ICCV 08318, ICC 11322 in chickpea and ICPL 99050, MN1 
+in pigeonpea) and pest-resistant (ICPL 332WR and ICPHaRL 4989-7 in pigeonpea and ICCV 10 in 
+chickpea) varieties that have stable resistance across environments can be used for cultivation by 
+the farmers per se or use them for developing pest and climate resilient cultivars for sustainable 
+crop production.
+l	
+Identified secondary metabolites and defensive enzymes that could be used as indicators of the 
+effects of climate change on expression of resistance to diseases and pests. Aminopeptidase (a 
+receptor for Bt toxins) activity decreases under elevated CO2, suggesting decreased effectiveness of 
+30
+Bt-transgenic crops for pest management in future. This information will be useful for developing 
+disease and pest –resistant cultivars to mitigate the effects of climate change.
+6.3. Project at Indian Agricultural Research Institute
+Adaptation of Indian agriculture to climate change
+6.3.1. Objectives
+1.	 To develop adaptation technologies to enhance the resilience of agriculture to the current and 
+future climatic risks.
+2.	 To update simulation models for assessing impact of climate change and adaptation strategies.
+6.3.2. Results
+i. 
+Screening of genotypes of wheat for climate change adaptation: Four promising wheat cultivars 
+of short (WR 544 and HD 2285), medium (HD 2932) and long (HD 2967) growth duration were 
+grown from October to January at 15 days interval to expose the crop to high thermal stresses All 
+the wheat cultivars irrespective of their growth duration registered poor yield when subjected 
+Knowledge sharing and capacity building activities in climate change research forplant protection at ICRISAT.
+31
+to initial and terminal heat stresses. Among the cultivars, the medium and long duration wheat 
+cultivars (HD 2932 and HD 2967) invariably recorded higher yield both under normal as well as 
+under early and late sown conditions, whereas the short duration cv. HD 2285 performed well 
+under extreme late sown condition. Reduction in yield by initial heat stress was mainly attributed 
+to marked reduction in spikes/m2, while terminal heat stress caused drastic reduction in yield 
+mainly by reducing the growth duration, grains/spike and 1000 grain weight. Both initial and 
+terminal heat stresses hastened flowering in all the cultivars, while, total days to maturity reduced 
+gradually with delayed sowing. It is concluded that short duration cultivars may be suitable only 
+for late sowing, while long duration cultivars may perform better both under early and late sown 
+condition especially under mild terminal heat stress condition (Fig. 1).
+ii. Evaluation of maize genotype for biotic stress tolerance: 183 lines of maize were screened 
+against Maydis Leaf Blight (MLB) and Banded Leaf and Sheath Blight (BSLB). Based on the rating 
+(scores in the scale of 1-5; 1-highly resistant and 5-highly susceptible), under artificial inoculation 
+conditions, 13 (for MLB) and 16 (for BLSB) genotypes were selected. Full details regarding the 
+following selected genotypes found resistant/tolerant to MLB/BSLB are tabulated below. More 
+importantly, three lines showed resistance to both MLB and BSLB (viz., 130092, 130098, 130158).
+Table 5.Maize genotypes tolerant to various biotic stresses.
+S. No. 
+Genotypes tolerant 
+against MLB
+Score against 
+MLB 
+S. No .
+Genotypes tolerant 
+against BSLB
+Score against 
+MLB
+1 
+130006
+2 
+1 
+130019
+2.5 
+2 
+130007
+2 
+2 
+130024
+2.5 
+3 
+130008
+2 
+3 
+130092
+2.0 
+4 
+130044
+2 
+4 
+130098
+2.5 
+Fig. 6. Effect of initial and terminal heat stress on yield of wheat cultivars.
+32
+5 
+130048
+2 
+5 
+130102
+2.5 
+6 
+130052
+2 
+6 
+130116
+2.5 
+7 
+130053
+1.5 
+7 
+130117
+2.5 
+8 
+130082
+2 
+8 
+130132
+2.5 
+9 
+130092
+2 
+9 
+130137
+2.5 
+10 
+130094
+2 
+10 
+130150
+2.5 
+11 
+130098
+2 
+11 
+130154
+2.5 
+12 
+130158
+2 
+12 
+130155
+2.5 
+13 
+130174
+2 
+13 
+130158
+2.0 
+14 
+130169
+2.5 
+15 
+130179
+2.5 
+16 
+130181
+2.5 
+iii. Evaluation of maize genotype for cold tolerance: One hundred genotypes of maize were screened 
+against cold stress and 10 were found tolerant to cold stress. Selected 10 genotype of maize were 
+shown in field for re-screening against cold stress and observations such as leaf color (green, pale 
+green, purple, yellow), number of leaves/plant, leaf on which symptoms are present, location of 
+symptoms (Symptoms on centre or on margins), type of leaves (broad or narrow), plant vigour, 
+date of silking, date of tasseling and plant height were recorded. The study will continue to identify 
+the tolerant genotypes and include them in the breeding programme.
+iv. Evaluation of maize genotypes for high temperature tolerance: From a very large plot of maize 
+composite PC-4 production individual plants were selected on the basis of standard features. 
+Selected 6lines of maize were planted in IARI field in spring season (2014) (sowing in second 
+week of March, flowering during first week of May -2014, for recording the response under high 
+temperature. Some biochemical parameters (total antioxidants, catalase, peroxidase) were assayed 
+to differentiate between tolerant and susceptible lines. Total antioxidants were high in tolerant 
+lines in comparison to susceptible lines. Similarly, peroxidase and catalase activity (to scavenge 
+free radicals generated during stress conditions) also showed high values in tolerant lines in 
+comparison to susceptible lines. The maize genotypes in each of the tolerant and susceptible group 
+are further being advanced for more detailed analysis.
+v. Biochemical traits for climatic stress tolerance: Identified few differentially expressed proteins 
+such as HSP17, oxygen evolving enhancer proteins, HSP26, superoxide dismutase, rubiscoactivase, 
+calcium dependent protein kinase and calcium binding protein in wheat under the heat stress. The 
+33
+magnitude of accumulation/activity of these proteins can be used as one of the criteria to identify 
+lines with high tolerance to the abiotic stresses; can be extended to other crops as well.
+vi. Screening of wheat germplasm for proline accumulation: Proline accumulation has been 
+considered as one of the most important trait for protecting the internal metabolic system under 
+drought and heat stress. Seventy three different wheat lines grown under net-house were used 
+for the proline estimation at grain filling stage (samples were collected based on the Feeke scale). 
+Maximum proline accumulation was observed in C306, Kundan and Halna, whereas minimum 
+was observed in UP2648 and UP2647. Most of the thermotolerant lines were observed to be good 
+proline accumulator, whereas thermosusceptible lines showed very low accumulation of proline 
+(Fig. 1).
+vii. Screening of wheat germplasm for total antioxidant capacity: Total antioxidant capacity (TAC) 
+has been selected as one of the most promising parameters for screening wheat germplasm for 
+thermo-tolerance. Studied the variations in the TAC in 73 different wheat germplasmgrown 
+under net-house condition at grain-filling stage (selected based on Feeke scale). HD 2781 showed 
+maximum TAC value followed by HD 3059 and HD 3090. The TAC was observed minimum in 
+K 9423 followed by UP 2338 and UP 2748. Most of the cultivars which showed high yield under 
+terminal HS showed high TAC value compared to cultivars sensitive to HS where there was 
+low value of TAC. To conclude, cultivars having high proline accumulation and TAC value had 
+high thermotolerance capacity and withstand the terminal HS during grain-filling stage without 
+compromising with the yield (Fig. 4).
+viii. Up-gradation of InfoCrop simulation model: The InfoCrop generic simulation model has been 
+upgraded (InfoCrop 2) with updated models and new interface to make it a multi-utility model. 
+Fig. 7.Proline profile of different wheat genotypes.
+34
+The entire interface of the InfoCrop is reconstructed and the weather conversion module is made 
+more powerful which can handle large number of files at a time to convert to the input file format for 
+running the dynamic simulation model. The InfoCrop 2 has updated models (updated temperature 
+and CO2 responses), and is compatible to new operating system with improved weather conversion 
+tool, batch processing module, new models of wheat, maize, sorghum, soybean and potato and a 
+user manual.
+ix. Modelling pest and disease management for adaptation to climate change: Thermal constant 
+based population simulation model for tobacco caterpillar, Spodoptera litura was developed using 
+bio-ecological parameters, such as, sex ratio, fecundity, and biotic and abiotic mortality factors. 
+Simulated and observed development periods of the pest stages, and generation times (38 and 37 
+days, resp.) were in close agreement.
+	
+Simulated and observed increase in larval population over a generation was 3.3 and 2.8 times, 
+respectively. Simulation model could thus simulate life cycle of the pest satisfactorily. The model 
+will facilitate assessment of climate change impact on pest population and pest forewarning. In 
+aftermath of two outbreaks of brown plant hopper (BPH) in 2008 and 2013, analysis of 1998-2013 
+weather data revealed that good pre-monsoon rain in June followed by more frequent rains i.e., 
+more number of rainy days (46-49 days during 2008 & 2013; 27-42 days during non-outbreak 
+years) that led to higher relative humidity might favour fast multiplication of BPH, thus playing 
+a role in its outbreak. This information would be useful in forewarning of the BPH outbreak. 
+Fig. 8.Antioxidant capacity of different wheat genotypes.
+35
+Aphid incidence on three wheat cultivars, HD2967, HD2985 and WR544, was observed under 
+three sowing dates. Wheat sown on 6thDecember had significantly more aphids (52.4/5 earheads) 
+compared to the crop sown between 16thand 26thDecember. The cultivars, however, did not differ 
+with regard to aphid incidence. Effect of crop phenology on aphid incidence becomes important 
+in view of changes in sowing time that may occur under climate change.
+x. Assessing the impacts of climate change on insects: Elevated CO2 (570 ±25 ppm) enhanced BPH 
+multiplication (72.7±16.2 hoppers/hill) compared to ambient CO2 (32.6±4.7 hoppers/hill). Higher 
+BPH population due to greater fecundity under elevated CO2 resulted in higher yield loss (26.5%) 
+than ambient CO2 (12.4%). The sucking rate of the BPH was also higher under elevated CO2. In 
+aftermath of two outbreaks of brown plant hopper (BPH) in 2008 and 2013, analysis of 1998-2013 
+weather data revealed that good pre-monsoon rain in June followed by more frequent rains i.e., 
+more number of rainy days (46-49 days during 2008 & 2013; 27-42 days during non-outbreak 
+years) that led to higher relative humidity might favour fast multiplication of BPH, thus playing a 
+role in its outbreak. This information would be useful in forewarning of the BPH outbreak. Peaks 
+of leaf folder light trap catches during 5 years (2008-2012) at Ludhiana (Punjab) showed significant 
+relationship with maximum temperature (Tmax), morning relative humidity (RH1), evening relative 
+humidity (RH2) and sunshine hours (SSH) of 28th Standard Meteorological Week (SMW).
+	
+Weather-based prediction model was developed and validated. The leaf folder having become 
+an important pest in recent years, calls for forewarning and regular monitoring of its incidence 
+under climate change. Among three transplanting dates, leaf folder had more incidence in early 
+transplanted Pusa 1401, while whorl maggot preferred most the late transplanted crop. On the 
+other hand, plant hoppers were more on timely transplanted crop (213.6/hill). Pusa Basmati 1509, 
+a short duration cultivar, escaped BPH attack during kharif 2013, while varieties such as Pusa 
+Basmati 1121 suffered heavily. Such varieties will become important from pest management point 
+of view under climate change. The BPH population simulation model was developed based on 
+thermal constant, threshold of development, and abiotic and biotic mortality factors and coupled 
+Fig. 9.Simulation of Brown Plant hopper (BPH) population with increased temperature.
+36
+to InfoCrop model. 0.5 to 3.0 oC rise in kharif showed 1.5 to 25.2% population decline. In climate 
+change scenario 2020 (0.87-1.17 oC rise), BPH population declined by 3-4% and in 2050 (1.81-2.37 
+oC rise) it declined by 9-14% (Fig. 4). 
+xi. Simulating impacts of climate change on crop productivity: A simulation analysis was done to 
+assess the impacts of climate change on rice, wheat, mustard and potato crops in the IGP region. 
+The adaptation gains and vulnerable regions also are derived. The analysis was done using MIROC 
+and PRECIS scenarios and the InfoCrop model for three time slices (2020 -2010-2039; 2050-2040-
+2069; 2080-2070-2099).
+a. Wheat: The results indicated that among the wheat-growing regions, the impact of climate 
+change on yield is projected to vary spatially, and with climate and emission scenario. By 2050, 
+wheat yield in north-western IGP (NWIGP), consisting of the states of Punjab and Haryana, 
+is projected to decrease 8 to 22%, with a greater reduction in Haryana. The initial gains in 
+productivity due to climate change in this region may taper at a later period of this century. In 
+the central IGP (CIGP) region, yield in Uttar Pradesh (UP) is projected to be reduced by ~24%. 
+A similar yield reduction is projected for West Bengal in eastern IGP (EIGP). In the IGP region, 
+climate change impact on wheat yield is projected to be more in Haryana, Uttar Pradesh, Bihar 
+and West Bengal. Yield reduction is projected to be less in areas with current mean seasonal 
+minimum temperatures of 10 to 12°C than those having >12°C, such as in parts of EIGP. In 
+various emission scenarios, projected increase in mean seasonal minimum temperatures in 
+these regions is by ~1.5”2°C in 2020, ~2.5”4°C in 2050 and 4”6.5°C in 2080. Even though a 
+similar or slightly higher increase in temperature is projected for the NWIGP region, the 
+projected impacts are less, due to current lower mean seasonal minimum temperatures of ~7 
+to 10°C. Seasonal mean maximum temperatures in wheat growing areas in India also vary 
+significantly from 23”25°C in the NWIGP to 29”30°C in the EIGP region. Adjusting the time of 
+sowing within the timely-, late- and very late- sowing windows is projected to minimize yield 
+reduction even with existing varieties under improved nutrient and irrigation management 
+and with higher dose of nitrogen fertilizer (25% higher than the dose currently applied by 
+farmers). In order to sustain the yield in future, timely sowing of improved wheat varieties 
+across IGP along with better management (nutrients and irrigation) and application of higher 
+dose of nitrogen fertilizer is essential. By doing so, the impacts can be offset up to 2050. Even 
+if all the above mentioned strategies are employed together, the wheat production in India by 
+2080 is projected to still reduce by ~5% (Naresh Kumar et al., 2014a).
+b. Rice: At regional level, states like Punjab, Haryana and Rajasthan are projected to lose more 
+yields (6–8 %) in the 2020 scenario. Similarly in the 2050 scenario, projected yield loss is expected 
+to stand at 15–17 % in the above three states More reduction in irrigated rice yields have been 
+projected for areas with current seasonal (June-September) mean minimum temperatures of 
+>23 °C, as in parts of north (Uttar Pradesh, Bihar and Jharkhand) and northeast regions of India. 
+The temperatures are projected to increase which may cause heat stress on crop. Projected rise 
+in temperatures for north western India are even higher (1.8–2.8 °C in 2020 scenario); and 
+therefore, future temperatures constrain higher productivity of irrigated rice in these areas. 
+The results indicate that the impact of climate change on irrigated rice can be offset with either 
+agronomical management or with improved varieties in shorter periods (the 2020 scenario); 
+37
+but in the longer periods (2050 and 2080 scenarios), growing improved varieties, coupled 
+with efficient crop management, will become essential to enhance productivity for meeting 
+increased demand. Regions that are adversely affected can have net improvement in yield in 
+future scenarios with adaptation (most of irrigated rice areas of west and north India) (Naresh 
+Kumar et al., 2013).
+c. Mustard: At the regional level, states like Punjab and Haryana are projected to have increased 
+yield in 2020. In other parts of north India (Uttar Pradesh, Bihar and Assam), yields are 
+projected to reduce up to 6%. Projected yield reduction in north India is 0.5–4% in 2020, 3–10% 
+in 2050 and 12–23% in 2080. A combination of improved input efficiency, 25% additional N, 
+and adjusting the sowing time can increase the yields by ~17% with current varieties and by 
+~25% with improved varieties in 2020. These benefits are projected to progressively reduce 
+beyond 2020 (Naresh Kumar et al., 2014b).
+d. Potato: The potato crop duration in the IGP is projected to decrease due to climate change. The 
+evapotranspiration (ET) is projected to increase while the water use efficiency‘(WUE) for potato 
+yield is projected to decline in future climates as a consequence of low threshold temperatures 
+for decline in WUE and yield than the ET. Results indicate that the upper threshold for ET 
+decrease is ~23 oC while that for WUE is 15 oC. The optimal temperature for tuber yield is ~17 
+oC and thus the reduction in WUE in future climates is discernable. Climate change is projected 
+to reduce potato yields by ~2.5, ~6 and ~11% in the IGP region in 2020 (2010-2039), 2050 (2040-
+2069) and 2080 (2070-2099) time periods.
+	
+Change in planting time is the single most important adaptation option which may lead to yield 
+gains by ~6% in2020 and its combination with improved variety or additional nitrogen may be 
+Fig. 10. Impact of climate change on mustard yield (a) and adaptation gains (b) in 2020 scenario.
+38
+Fig. 11. Impact of climate change on potato yield and adaptation gains in 2020, 2050, 2080 scenario.
+required to adapt to climate change leading to positive gains by ~8% in 2020 and by ~5% even in 
+2050. However, in 2080 adoption of all the three adaptation strategies may be needed for positive 
+gains. Intra-regional differences in the impact of climate change and adaptation gains are projected; 
+positive impact in northwestern IGP, gains in Central IGP with adaptation and yield loss in eastern 
+IGP even with adaptation (Naresh Kumar et al., 2015).
+xii. Crop growth monitoring system: Developed a web-enabled Decision Support system (DSS) for 
+real time crop growth monitoring at district level using multi-temporal satellite remote sensing 
+data received at IARI satellite ground station. The DSS was hosted on public website http://creams.
+iari.res.in. Satellite derived weekly Land Surface Temperature (LST), Normalized Difference 
+Vegetation Index (NDVI) and Daily Rainfall products were generated for crop pixels and averaged 
+in each district for a period of 2001-2013 (Fig. 5). A web-interface was created in PHP, WYSIWYG 
+and HTML which allowed for selection of State from India map and then selection of district. The 
+interface provided selection of parameter (rainfall, LST and NDVI), season (Kharif or Rabi) and 
+year. This web-interface was linked to database of parameters which fetched the related data of 
+current season and compared it with parameter of same season in previous year and with long-
+term average. The temporal profile of parameter of current year and its comparison with that 
+of previous year and long term average was visualized graphically as well as in tabular format. 
+The anomaly in parameter for current period from long term average was also computed, then 
+categorized into five classes and visualized as a map. A web-interface allows selection of maps 
+for different weeks/fortnight. The parameter database were kept updated with new real time data 
+as it became available. The system was used to monitor the wheat crop condition in response to 
+terminal heat stress during Feb-March 2013 and crop condition across India during Kharif and Rabi 
+seasons of 2013-14.
+39
+xiii. Conservation agriculture for improving resource-use efficiency and productivity in rice-
+based cropping system: Direct-Seeded Rice (DSR) with mungbean residue incorporation, Brown 
+Manuring (BM) with dhaincha (Sesbania aculeata), Rice Residue (RR) retention in Zero Till (ZT) 
+wheat or in other winter crops are important Conservation Agriculture (CA) practices, which can 
+lead to sustain productivity in north-western plains zone of India, besides, mitigating Greenhouse 
+Gases (GHGs) emission and enhancing carbon sequestration in soil. Therefore, in a field study, 
+comparison was made on the performance of DSR cv. ‘PRH 10’ with different CA practices 
+with Conventional Transplanted Puddled Rice (TPR). It was observed that DSR with Summer 
+MungBean (SMB) residues incorporated and Rice Residues (RR) retained on the surface in Zero-
+Till Wheat (ZTW), followed by summer mungbean (SMB) gave rice yield similar with, but wheat 
+yield higher than TPR- CTW or ZTW. It gave higher system crop productivity, net returns, B:C 
+ratio, water productivity, and energy-use efficiency than that of TPR-CTW or ZTW. It also resulted 
+in a considerable improvement of Walkley and Black carbon, labile and very labile carbon, and 
+total N content in the surface (0-5 cm) soils in rice-wheat system. This treatment and other DSR 
+treatments showed a considerable reduction in global warming potential (GWP) through reduction 
+of methane emission from rice field.
+xiv. Conservation agriculture for improving resource-use efficiency and productivity in wheat-
+based cropping systems: Conservation Agriculture (CA) practices for three non-rice crop (cotton, 
+pigeonpea, maize)-based cropping systems under irrigated conditions was studied with a view 
+to replace rice with suitable alternative crops during kharif season in north-western plains zone 
+and to diversify the rice-wheat system. Three major non-rice cropping systems, viz., maize-wheat, 
+cotton-wheat, pigeonpea-wheat were studied with different CA practices. Among the kharif crops, 
+cotton was superior to pigeonpea and maize, and among the cropping systems, cotton-wheat 
+system was consistently superior to pigeonpea-wheat and maize-wheat systems over the years 
+in terms of crop yield, system productivity and net returns. Cotton-wheat system under zero-
+till broad bed with residues gave higher system crop productivity, water productivity, energy 
+Fig. 12. Crop condition index and temperature condition index for day and night maps for rabi 2013-14.
+40
+productivity & efficiency and net returns than pigeonpea-wheat or maize-wheat system. This CA 
+practice resulted in significantly higher Soil Organic Carbon (SOC), particularly at the surface (0-5 
+cm) layers in soil. Cotton-wheat system out-yields rice-wheat system, has less GHGs emissions, 
+higher water- and energy-use efficiency, and could be a potential alternative to rice-wheat system. 
+This could be an adaptation strategy for mitigating climate change effects vis-à-vis for sustaining 
+crop production.
+6.3.3. Strategic knowledge generated
+l	
+Genotypes of rice, wheat and maize for tolerance to temperature and resistance to pests and 
+diseases were identified and evaluated.
+l	
+Identified few differentially expressed proteins such as HSP17, oxygen evolving enhancer proteins, 
+HSP26, superoxide dismutase, rubiscoactivase, calcium dependent protein kinase and calcium 
+binding protein in wheat under the heat stress. The magnitude of accumulation/activity of these 
+proteins can be used as one of the criteria to identify lines with high tolerance to the abiotic stresses; 
+can be extended to other crops as well. Based on the biochemical traits, one can easily predict the 
+tolerance nature of the cultivar under the climatic variations.
+l	
+InfoCrop model was updated for assessing the effect of climate change on crop yields and 
+development of adaptation strategies.
+l	
+Conservation agriculture practices such as direct seeded rice with or without sesbania brown 
+manuring, rice residues mulch in wheat and summer mungbean grown for grains and stover 
+incorporated as green manure have been evaluated for adaptation to climate change.
+l	
+Greenhouse gas emissions from Indian agriculture were assessed and the trends in emission were 
+analyzed.
+l	
+Agriculture offers promising opportunities for mitigating GHGs emissions largely through 
+carbon sequestration, soil and land use management, and biomass production. Various adaptation 
+technologies for climate change and their co-benefits in terms of GHGs mitigation were identified 
+and assessed.
+l	
+Existing knowledge on climate change adaptation available in various institutes and universities 
+in the country was collated and analyzed. This will help in developing strategic knowledge for 
+climate change adaptation and can be implemented by the farmers.
+41
+7. Conclusion
+Climate change effects on agriculture are likely to be ubiquitous, both in terms of direct and 
+indirect impacts. Maintaining plant health across the planet, in turn, is a key requirement for climate 
+change mitigation, as well as the conservation of biodiversity and the provision of ecosystem services 
+under global change. Information gathered so far has been fragmented and a comprehensive analysis 
+of climate change impacts on agriculture is required. Experimental research on a diverse range 
+of crop and biotic and abiotic systems is necessary to improve comprehension of climate change 
+impacts on agriculture. To maintain ecosystem health and services under variable, unpredictable or 
+unknown conditions, we need more resilient systems, decentralization, participatory research and 
+breeding networks. At the same time, increased involvement of the many stakeholders and scientists 
+from outside plant pathology shows the importance of considering trade-offs with other objectives. 
+Increasing diversity would be in favour of a land-sharing approach, but may be relevant also to 
+land-sparing scenarios (e.g. at the margin of fields), depending on the spatial and temporal scale and 
+the type of diversity (genetic, species, species turnover, ecosystem) considered.
+42
+8. Way Forward
+Concerted efforts are required for development of mitigation and adaptation strategies to climate 
+change so as to increase resilience and reduce vulnerability of Indian agriculture at local, regional 
+and national scales. As climate change impacts has no boundaries, research collaboration between 
+developed and developing countries with funding support should be promoted and strengthened 
+for developing and transferring climate-smart technologies. Development and operationalization 
+of adaptation strategy necessitate socio-psychological empowerment of farmers besides developing 
+competencies in acquiring knowledge and skills related to adaptation practices.
+Research on the likely patterns of change in plant diseases and insect-pests attributable to 
+predicted climate change is important. There is a need for better understanding of historical data 
+on incidence and severity of diseases/ insect-pests in relation to changes in cropping patterns and 
+climatic conditions. Research should seek to understand the interaction between drivers of diseases/ 
+insect-pests and environmental changes. Moreover a holistic hotspot analysis of environmentally 
+induced diseases is important to comprehend the interacting drivers of emerging diseases, adaptation 
+processes as well as the role of vulnerability in disease patterns.
+To face the challenges of food security and climate change, the country needs to reorient its land 
+use and agriculture with the state-of-the-art technologies and policy initiatives. Impact of climate 
+change on gender is another area that need to be concentrated. Cost on adaptation and economics 
+need to be worked out for the future climate under business as usual condition and for changed 
+management situation for up-scaling adaptation options to larger regions. There is a need to develop 
+policy framework for implementing the adaptation and mitigation options so that the farmers are 
+saved from the adverse impacts of climate change.
+43
+9. References
+1.	 Pande S and Sharma M (2009) Effect of climate change on the diseases of food legumes in Semi-
+Arid Tropics: Retrospect and prospect. [Abstract] Page 11 in 5th International Conference on Plant 
+Pathology in the Globalization Era, Nov. 10-13, 2009, Indian Phytopathological Society,Indian 
+Council of Agricultural Research, New Delhi, India
+2.	 Pande S, Sharma M, Naga Mangala U, RajuGhosh andSundaresan G (2011)Phytophthora blight of 
+Pigeonpea [Cajanuscajan (L.) Millsp.]: An updating review of biology, pathogenicity and disease 
+management. Crop Protection 30: 951-957.
+3.	 Sharma M and Pande S (2013) Unravelling effects of temperature and soil moisture stress response 
+on development of dry root rot [Rhizoctoniabataticola (Taub.)] Butler in Chickpea. Am J Plant Sci 4: 
+584-589.
+4.	 Sharma M, Ghosh R and Pande S (2013) Occurrence of Alternariaalternata causing Alternaria 
+blight in pigeonpea in India. AdvBiosci Biotech 4: 702-705.
+5.	 Sharma HC(2005)Heliothis/Helicoverpa Management: Emerging Trends and Strategies for Future 
+Research. New Delhi, India: Oxford & IBH and Science Publishers, USA. 469 pp.
+6.	 Sharma HC (2010) Effect of climate change on IPM in grain legumes. In: 5th International Food 
+Legumes Research Conference (IFLRC V), and the 7th European Conference on Grain Legumes 
+(AEP VII), 26–30April 2010, Anatalaya, Turkey.
+7.	 Sharma HC and Ortiz R(2000)Transgenics, pest management and the environment.CurrSci 79: 
+421-437.
+8.	 Sharma HC, Sullivan DJ andBhatnagar VS(2002) Population dynamics and natural mortality 
+factors of the Oriental armyworm, Mythimnaseparata (Walker) (Lepidoptera: Noctuidae) in South-
+Central India. Crop Protection 21: 721-732.
+44
+10. Research Publications Emanated from Programmes
+10.1 TNAU, Coimbatore
+1.	 Bhuvaneswari K, Geethalakshmi V and Lakshmanan A (2013) Impact of climate change on 
+hydrology of Cauvery basin. Madras Agric J 100(10-12) (Accepted).
+2.	 Bhuvaneswari K, Geethalakshmi V, Lakshmanan A and Anbhazhagan R (2013) Crop Weather 
+Model: An effective tool for assessing the impacts of climate change and developing adaptation 
+strategies in rice. J Agrometeo 16(1): 38-43.
+3.	 Bhuvaneswari K, Geethalakshmi V, Lakshmanan A and Anbhazhagan R (2013) Study of ENSO 
+effects on hydrology and rice productivity in Cauvery basin using SWAT. Weather Climate 
+Extremes 2: 39-47.
+10.2 ICRISAT, Hyderabad
+Papers in journals
+1.	 Ghosh R, Sharma M, Telangre R and Pande S (2013) Occurrence and distribution of chickpea 
+diseases in Central and Southern parts of India. American J Plant Sci 4:940-944.
+2.	 Sharma M, Ghosh R and Pande S (2013) Occurrence of Alternariaalternatacausing Alternaria blight 
+in pigeonpea in India. AdvBiosci Biotech 4:702-705. 
+3.	 Sharma M, Ghosh R, Telangere R, Senthilraja G and Pande S (2013) First report of 
+Fusariumacuminatumon Pigeonpea in India. Plant Diseasehttp://dx.doi.org/10.1094/PDIS-06-13-
+0586-PDN.
+4.	 Sharma M, KiranBabu T, Gaur PM, Ghosh R, Rameshwar T, Chaudhary RG, Upadhyay JP, Om 
+Gupta, Saxena DR, Kaur L, Dubey SC, Anandani VP, Harer PN, Rathore A and Pande S (2012) 
+Identification and multi-environment validation of resistance to Fusarium oxysporum f. sp. ciceris in 
+chickpea. Field Crops Res135:82–88.
+5.	 Sharma M, Ghosh R, Sharma TR and Pande S (2012) Intra population diversity in Rhizocotonia 
+bataticola causing dry root rot of chickpea (Cicer arietinumL.) in India. African J Microbiol Res 6(37): 
+6653-6660.
+6.	 Sharma M, Ghosh R, Krishnan RR, Mangala UN, Chamarthi S, Varshney RK and Pande S (2012) 
+Molecular and morphological diversity in Rhizoctonia bataticola isolates causing dry root rot of 
+chickpea (Cicerarietinum L.) in India. African J Biotech 11(37): 8948-8959.
+7.	 Vadez V, Ratnakumar P, Gaur PM, Sharma HC,Pande S, Sharma M, Krishnamurthy L, Zaman MA 
+et al. (2011) Adaptation of grain legumes to climate change: a review. Agron Sustainable Dev 32: 
+31-44.
+8.	 Shankar M, Sharma HC, Sharma SP, Ramesh Babu T and Sridevi D (2013) Evaluation of no-
+choice cage, detached leaf and diet incorporation assays to screen chickpeas for resistance to the 
+45
+beet armyworm Spodoptera exigua (Lepidoptera: Noctuidae). International J Tropical Insect Sci 
+doi:10.1017/S1742758413000374.
+9.	 Shankar M, Sharma, HC, Ramesh Babu T and Sridevi D (2013)Evaluation of chickpea genotypes 
+for resistance to beet armyworm, Spodoptera exigua under field conditions. Indian J Plant Protection 
+41: 275-281.
+10.	Sharma HC (2014) Climate change effects on activity and abundance of insects: Implications for 
+crop protection and food security. J Crop Improv 28: 229-259.
+11.	War AR, Paulraj MG, Hussain Barkat, Buhroo AA, Ignacimuthu S and Sharma HC. 2013. Effect of 
+plant secondary metabolites on legume pod borer Helicoverpaarmigera. J Pest Science86: 399–408.
+Seminar/Conference papers
+1.	 Sharma M, Nagavardhini A, Pande S 2013. Race scenario of Fusarium oxysporum sp. Ciceris wilt 
+pathogen of chickpea (Cicer arietinum L. [Abstract] Page 58 in 12th European Fusarium Seminar, 
+12-16 May 2013, INRA UR1264 MycSA, 71 avenue E. Bourlaux, CS20032, 33882 Villenaved’Ornon, 
+France.
+2.	 Sharma M. and Pande S. 2013.Impact of climate change variables on diseases of chickpea and 
+pigeonpea in semi-arid tropics (Abstract O09.005) Page 160 in Acta Phytopatholagica Sinica. 10th 
+International Congress of Plant Pathology (ICPP 2013), 25-30 August, Beijing China.
+3.	 Ghosh R., Sharma M. and Pande S. 2013. Molecular and morphological diversity in Rhizoctonia 
+bataticola isolates causing dry root rot of chickpea (Cicer arietinum L.) in India. (Abstract P22.043) 
+Page 297 in Acta Phytopatholagica Sinica. 10th International Congress of Plant Pathology (ICPP 
+2013), 25-30 August, Beijing China.
+4.	 Sharma M., Kiran Babu T., Gaur P.M., Ghosh R., Rameshwar T. and Pande S.2013. Advances in 
+host plant resistance and identification of Fusarium oxysporum f. sp. ciceris disease resistance in 
+chickpea genotypes. (Abstract O39.015) Page 514 in Acta Phytopatholagica Sinica. 10th International 
+Congress of Plant Pathology (ICPP 2013), 25-30 August, Beijing China.
+5.	 Senthilraja G, Cheruku JR, Pande S, and Sharma M. 2013. Temperature mediate interactions 
+between the aggressiveness of Phytophthora drechslerif sp. cajani and activity of defense enzymes in 
+pigeonpea. Page 15 in International conference on “Green India: Strategic knowledge for combating 
+climate change: Prospects & Challenges (GISKCCC- 2013)”, Organized by Department of Ecology 
+and Environmental Sciences, School of Life Sciences, Pondicherry University, Puducherry 605014, 
+India from 5-7 December, 2013.
+6.	 Pande S 2012. Climate change, plant diseases and their management: an overview. In Souvenir and 
+Abstracts of National Symposium on “ Emerging issues in plant health management” and Annual 
+Meeting of IPS (NZ) September 28-29, 2012, Department of Pathology, Dr. Y S Parmar University 
+of Horticulture and Forestry, Nauni, Solan- 173 230 (HP), India.
+7.	 Sharma M. 2012. Climate change emerging plant diseases and their management: Recent 
+developments. Pages 43-45 in “Global meet of Biologists and Satellite conference on Vector control 
+and management: Present status and future strategies - Souvenir & Abstracts, 26-28 December 
+2012, Organised by Department of Zoology Osmania University, Hyderabad, India.
+46
+8.	 Dhillon, M.K. and Sharma, H.C. 2012. Effect of climate change on bioefficacy of IPM technologies. In: 
+Abstract no. S901M06, Session: 9: Conservation, Biodiversity and Climate Change, of the 24th International 
+Congress of Entomology: New Era in Entomology held on 19-25 August, 2012 at the EXCO, Daegu, 
+Korea.
+9.	 Pavani T, Ramesh Babu T and Sharma HC. 2013. Variation in incidence of pod borers, Helicoverpa 
+armigera and Spodoptera exigua in chickpea genotypes across four sowings. In: International 
+Conference on Biosciences with Special Reference to Environmental Issues (ICBEI-2013), 19-21 Dec 2013. 
+Department of Zoology, Shivaji University, Kolhapur, Maharashtra, India.
+10.	Sharma, H.C. 2012. Biological consequences of climate change: Implications for arthropod diversity, 
+pest management, and food security. In: International Conference on Biodiversity & Sustainable 
+Development, 14-15 Sept 2012.OMICS Group Conferences, Hyderabad, Andhra Pradesh, India.
+11.	Sharma, H.C. 2012. Effect of global warming on insect – host plant – environment interactions. In: 
+24th International Congress of Entomology, 19-24 Aug 2012, Daegu, South Korea.
+12.	Sharma, H.C. 2012. Biological consequences of climate change: Arthropod diversity, pest 
+management, and food security. In: International Union of Biological Sciences (IUBS), 31st General 
+Assembly, 5–9 July 2012, Shanghai, China.
+13.	Sharma, H.C. Pande, S., Sharma, M., Sudini, H.K., Sharma, R. and RangaRao, G.V. 2012. Risk 
+assessment and modeling of biotic stresses in ICRISAT mandate crops. In: Management of critical 
+pests and diseases of RTBs through enhanced risk assessment and surveillance and “Modeling 
+Impacts of CC on pests and diseases, 9 – 17 Dec 2012, International Potato Research Center, Lima, 
+Peru.
+14.	Sharma HC and War AR. 2013. Constitutive and induced resistance to Helicoverpa armigera in grain 
+legumes. In: 61st Annual Meeting, Entomological Society of America, 10-13 Nov 2013, Austin, Texas, 
+USA.
+15.	Sharma HC and War AR. 2013. Biological consequences of climate change on arthropods. 
+International Conference “Green India: Strategic knowledge for combating climate change: Prospects and 
+challenges”, GISKCCC2013, 5-7 Dec 2013, Pondicherry University, Pondicherry, India.
+Book chapters
+1.	 Sharma, H.C. 2013. Biological consequences of climate change on arthropod biodiversity and 
+pest Management. In: New Horizons in Insect Sciences (Chakravarthy, A.K., Ashok Kumar, C.T., 
+Verghese, A. and Thyagraj, N.E. eds.). International Conference on Insect Science, 14-17 Feb 2013, 
+Universiy of Agricultural Sciences, Bangaluru, Karnataka, India.pp. x – xii.
+2.	 Sharma, H.C. and Prabhkar, C.S. 2013.Impact of Climate Change on Pest Management and Food 
+Security. In: Integrated Pest Management – An Ecological Perspective (Abrol, D. P., ed.) Elsevier Press 
+(in press).
+3.	 Sharma, H.C. 2013. Climate change effects on activity and abundance of insects: Implications for 
+Crop Protection and Food Security. In: Combating Climate Change: An Agricultural Perspective (Kang, 
+M.S. and Banga, S.S, eds.). Taylor and Francis, Boca Raton, Florida, USA. pp. 213-236.
+4.	 Sharmah, B.K., Acherjee, S. and Sharma, H.C. 2012. Chickpea: Crop Improvement under changing 
+47
+environment conditions. In: Improving Crop Productivity in Sustainable Agriculture (Tuteja, N., Gill, 
+S.S. and Tuteja, R. eds.). John Wiley Science Pub.pp. 360-380.
+10.3 IARI, Delhi
+Papers in the journals
+l	
+Chandrakala, J.U., Chaturvedi, A.K., Ramesh, K.V., Rai, P., Khetarpal, S. and Pal, M. (2013). 
+Acclimation response of signaling molecules for high temperature stress on photosynthetic 
+characteristics in rice genotypes. Ind. J. Plant Physiol. DOI 10.1007/s40502-013-0021-3.
+l	
+Das TK, Bhattacharyya R, Sharma AR, Das S, Saad AA and Pathak H (2013) Indian Impacts of 
+conservation agriculture on total soil organic carbon retention potential under an irrigated agro-
+ecosystem of the western Indo-Gangetic Plains. Euro J Agron 51:34-42.
+l	
+Das TK, Bhattacharyyaa R, Sudhishri S, Sharma AR, Saharawat YS, Bandyopadhyay KK, Sepat S, 
+Bana RS, Aggarwal P, Sharma RK, Bhatia A, Singh G, Datta SP, Kar A, Singh B, Singh P, Pathak 
+H, Vyas AK and Jat ML (2014) Conservation agriculture in an irrigated cotton–wheat system of 
+the western Indo-Gangetic Plains: Crop and water productivity and economic profitability. Field 
+Crops Res 158:24–33.
+l	
+Dhakar R, V.K. Sehgal, S. Nagar, V.U.M. Rao, B. BapujiRao, P. Vijay Kumar, A.V.M. SubbaRao, R. 
+Dupal (2013). Impact of drought on sptaio-temporal pattern of phenology in Rajasthan. Journal of 
+Agrometeorology 15: 58 – 63.
+l	
+Dhakar R, V.K. Sehgal, S. Pradhan (2013). Study on inter-seasonal and intra-seasonal relationships 
+of meteorological and agricultural drought indices in the Rajasthan State of India. Journal of Arid 
+Environments 97, 108-119.
+l	
+Goswami S, Kumar RR, Rai RD (2014) Role of heat responsive micro RNAs (miRNAs), 
+transcription factors and heat shock proteins in regulation of starch granule biosynthesis in wheat 
+(Triticumaestivum) under the terminal heat, Aus. J. Crop Sci. 8(5):697-705.
+l	
+Jain N, Dubey R, Dubey DS, Singh J, Khanna M, Pathak H and Bhatia A (2013) Mitigation of 
+greenhouse gas emission with system of rice intensification in the Indo-Gangetic Plains. Paddy 
+Water Environ. DOI 10.1007/s10333-013-0390-2.
+l	
+Jha S, V. K. Sehgal, R. Raghava, M. Sinha (2013). Trend of standardized precipitation index 
+during Indian summer monsoon season in agroclimatic zones of India. Earth System Dynamics 
+Discussions, 4(1): 429-449.
+l	
+Kumar RR and Rai RD (2014) Can wheat beat the heat: understanding the mechanism of 
+thermotolerance in wheat (Triticumaestivum). Cereal Res. Commun. 42 (1): 1-18.
+l	
+Kumar RR, Goswami S, Sharma SK, Gadpayle KA, Singh K, Kumar N, Rai GK, Rai RD (2013) Heat 
+stress associated antioxidant isoenzymes in wheat: expression and proteomics. Indian J. Agric. 
+Res. 47(4):280–287.
+l	
+Kumar RR, Goswami S, Singh K, Gadpayle KA, Sharma SK, Singh GP, Pathak H, Rai RD (2013) 
+Ascorbic acid at pre-anthesis modulate the thermotolerance level of wheat (Triticumaestivum) 
+pollen under heat stress. J. Plant Biochem. Biotechnol. DOI 10.1007/s13562-013-0214-x.
+48
+l	
+Kumar RR, Goswami S, Singh K, Rai GK, Rai RD (2013) Modulation of redox signaling pathways 
+in plant system through induction of free radical /ROS scavenger molecules. Aus. J. Crop Sci. 
+7(11):1744-1751.
+l	
+Kumar RR, Sharma SK, Goswami S, Singh K, Gadpayle KA, Singh GP, Pathak H, Rai RD (2013) 
+Transcript profiling and biochemical characterization of mitochondrial superoxide dismutase 
+(mtSOD) in Wheat (Triticum aestivum) under exogenous stress. Aus. J. Crop Sci. 7(3):414-424.
+l	
+Kumar RR, Sharma SK, Goswami S, Singh R, Pathak H, Rai RD (2013) Characterization of 
+differentially expressed stress-associated proteins in starch granule development under heat stress 
+in wheat (Triticum aestivum L.). Indian J. Biochem. Biophys. 50:126-138.
+l	
+Kumar RR, Singh GP, Goswami S, Pathak H, Rai RD (2014) Proteome analysis of wheat (Triticum 
+aestivum) for the identification of differentially expressed heat-responsive proteins, Aus. J. Crop 
+Sci. 8(6):973-986.
+l	
+Kumar Sarvendra, Patra, A.K., Singh, Dhyan, Purakayastha, T. J., Rosin, K.G., Kumar, Manoj (2013) 
+Balanced fertilization along with farmyard manures enhances abundance of microbial groups 
+and their resistance and resilience against heat stress. Communications in Soil Science and Plant 
+Analysis 44: 2299-2313. (NAAS IF: 6.42).
+l	
+Kumar Sarvendra, Patra, A.K., Singh, Dhyan, Purakayastha, T. J., Rosin, K.G., Kumar, Manoj (2013) 
+Long-term chemical fertilization along with farmyard manure enhances resistance and resilience 
+of soil microbial activity against heat stress. Journal of Agronomy and Crop Science doi:10.1111/
+jac.12050 (published on line). (NAAS IF: 8.15).
+l	
+Naresh Kumar S., P.M. Govindakrishnan, D.N. Swarooparani, Ch. Nitin, J. Surabhi, P.K. Aggarwal 
+2015. Assessment of impact of climate change on potato and potential adaptation gains in the 
+Indo-Gangetic Plains of India. International Journal of Plant Production 9 (1), 151-170.
+l	
+Naresh Kumar S, P. K. Aggarwal, D. N. Swarooparani, Rani Saxena, Nitin Chauhan, Surabhi Jain 
+(2014a). Vulnerability of wheat production to climate change in India. Climate Research. doi: 
+10.3354/cr01212.
+l	
+Naresh Kumar S., Pramod Kumar Aggarwal, Kumar Uttam, Jain Surabhi, D. N. Swaroopa Rani, 
+Nitin Chauhan and Rani Saxena (2014b). Vulnerability of Indian mustard (Brassica juncea (L.) 
+Czernj. Cosson) to climate variability and future adaptation strategies. Mitigation and Adaptation 
+Strategies to Global Change. 10.1007/s11027-014-9606-Z.
+l	
+Naresh Kumar, S., P. K. Aggarwal, Rani Saxena, Swaroopa Rani, Surabhi Jain and Nitin Chauhan. 
+2013. An assessment of regional vulnerability of rice to climate change in India. Clim. Change. DOI 
+10.1007/s10584-013-0698-3. 118 issue 3-4 June 2013. p. 683 – 699.
+l	
+Pal, M., Chaturvedi, A.K., Shah, D., Bahuguna, R.N., Sadhana, Singh, S., Mukhopadhyay, D., 
+Khetarpal, S., Anand, A., Deshmukh, P. S., Bhardwaj, C. and Kumar, J. (2013). Growth dynamics 
+and temperature sensitivity of late planting chickpea under Delhi conditions. Indian J. Plant Physiol., 
+18(1):79-82. DOI 10.1007/s40502-013-0013-3.
+l	
+Pathak H (2013) Climate change and efficient nitrogen management. Geography You 13:33-35.
+l	
+Pathak H (2013) Nitrogen and climate change: Interactions, impacts, mitigation and adaptation. J 
+Indian Soc Soil Sci 60:109-119.
+49
+l	
+Pathak H, Sankhyan S, Dubey DS, Bhatia A and Jain N (2013) Dry direct-seeding of rice for 
+mitigating greenhouse gas emission: Field experimentation and simulation. Paddy Water Environ. 
+11:593–601.
+l	
+Saha S, V.K. Sehgal, D. Chakraborty, M. Pal (2013). Growth Behavior of kabuli Chickpea under 
+Elevated Atmospheric CO2. Journal of Agricultural Physics 13(1):55-61.
+l	
+Sinha P, K Kamble, Vivek Singh, Ritesh, Taru Sharma, U D Singh, Robin Gogoi, R S Bal, Pathak H 
+and V K Sehgal (2013). Yellow rust threatening wheat under extreme cold in north western India: 
+GIS linked risk map for disease monitoring. Indian Farming 63: 24.
+l	
+Sujithra, M. and Chander, S. 2013. Simulation of rice brown planthopper, Nilaparvatalugens 
+population and crop-pest interactions to assess climate change impact. Climatic Change 121: 331-
+347, DOI 10.1007/s 10584-013-0878-1.
+l	
+Viani A, Sinha P, Ritesh Singh and Vivek Singh (2013). Simulation of spot blotch in wheat under 
+elevated temperature. Ann. Pl. Protec. Sci. 21: 368-376.
+Papers in the proceedings of workshop/conferences
+l	
+Verma, P., Kumar, R.R., Goswami, S., Sharma, S.K., Rai, R.D. (2014) Proteomic characterization for 
+identification of heat-responsive proteins in wheat (Triticum aestivum). International conference on 
+biodiversity, bioresources and biotechnology, Society for Applied Biotechnology (SAB), Mysore, 
+Karnataka, Pg. 88.
+l	
+Reddy, S., Kumar, R.R., Goswami, S.,Sharma, S.K., Rai, R.D. (2014) Exogenous effect of signaling 
+moelcules and heavy metals on the accumulation of free amino acid under heat stress in wheat 
+(Triticum aestivum L). National Conference on Science of Omics for Agricultural Productivity: 
+Future prospective, GB Pant University of Agriculture and Technology, Uttrakhand, Pg. 98.
+l	
+N. Jain et al., Adaptation and mitigation strategies for compensating yield loss of late-planted rice 
+in the Indo-Gangetic plains, “International Conference on Harnessing of Natural Resources for 
+Sustainable Development: Global Trend”, under the sub-theme “Global climate change impact 
+and management”, 29-31st Jan 2014, Guwahati, Assam.
+l	
+Kumar, R.R., Singh, G.P., Goswami,S., Pathak,H., Rai,R.D. (2014) Gel based and label-free 
+proteomic analysis of heat-responsive proteins in wheat (Triticumaestivum L) under heat stress. 
+National Conference on Science of Omics for Agricultural Productivity: Future prospective, GB 
+Pant University of Agriculture and Technology, Uttrakhand, Pg. 39.
+l	
+Kumar, R.R., Sharma, S.K., Goswami,S., Rai,R.D. (2013) Differential expression of SAPs in starch 
+granule biosynthesis in wheat (Triticumaestivum), International conference on role of plant 
+biochemistry and biotechnology in food and nutritional security (ICBBFN2013), Department of 
+Biochemistry and Sri Venkateswara University, Triupati, Pg. 80-81.
+l	
+Kumar, R.R., Pathak, H., Sharma, S.K.,Singh, G.P., Rai, G.K., Goswami,S., Rai,R.D. (2014) Omics 
+approaches for deciphering the mechanism of thermotolerance and development of climate smart 
+wheat (Triticumaestivum L). XVI Indian Agricultural Scientist and Farmers Congress on Nano-
+biotechnological approaches for sustainable agriculture and rural development, Bioved Research 
+Institute of Agriculture and Technology and Integral University, Lucknow, Pg. 12.
+50
+l	
+Kumar, R.R., Sharma, S.K., Goswami S., Choudhary, M., Singh, K., Gadpayle, K.A., Singh, G.P., 
+Pathak, H., Rai, R.D. (2013) Can wheat beat the heat: Effect of heat stress on expression of stress 
+associated proteins and perturbation in starch granule structure, International conference on “Bio-
+resource and stress management” Kolkata, p. 69.
+l	
+Kumar, R.R., Sharma, S.K., Goswami S., Choudhary, M., Singh, K., Gadpayle, K.A., Singh, G.P., 
+Pathak, H., Rai, R.D. (2013) Can wheat beat the heat: Effect of heat stress on expression of stress 
+associated proteins and perturbation in starch granule structure, International conference on “Bio-
+resource and stress management” Kolkata, Pg. 69.
+l	
+Kumar, R.R., Sharma, S.K., Goswami S., Dhawan, G., Singh, K., Kumar, N., Singh, G.P., Pathak, H., 
+Rai, R.D. (2013) Differential expression of stress associated genes in wheat (Triticum aestivum) pollen 
+under ascorbic acid and heat stress and its effect on thermotolerance capacity, First International 
+and Third National Conference on Biotechnology, Bioinformatics and Bioengineering’ organised 
+by Society for Applied Biotechnology, 28-29 June 2013, Tirupati, Andhra Pradesh, Pg. 38.
+l	
+Gupta, R., Kumar, R.R., Sharma, S.K., Kumar, N., Goswami, S., Rai, R.D. (2014) Early sowing 
+modulates the peroxidase activity and attenuates the H2O2 induced lipid peroxidation in wheat 
+(Triticum aestivum). International conference on biodiversity, bioresources and biotechnology, 
+Society for Applied Biotechnology (SAB), Mysore, Karnataka, Pg. 88.
+51
+11. Training/Awareness Programmes Conducted
+11.1 TNAU, Coimbatore
+1.	 Focus group meeting and discussion with farmers organized as a part of situation analysis.
+2.	 Two scholars have been trained on climate model downscaling to generate location specific future 
+climate projections.
+3.	 Three scholars have been trained on handling SWAT model in analysing the hydrology and crops 
+productivity at river basin scale.
+4.	 Three scholars have been trained on dynamic crop simulation models such as DSSAT and APSIM 
+in assessing the impact of climate on crops growth and productivity.
+5.	 One student was trained on developing nano fertilizers and assessing the nutrient release 
+pattern.
+11.2 ICRISAT, Hyderabad
+1.	 Conducted training on diagnosis and high throughput phenotyping of chickpea and pigeonpea 
+diseases under changed climate scenario during December 2012.
+2.	 Training in impact of climate change on diseases and insect pests during various training course 
+on crop improvement.
+3.	 Organized a symposium on, “Conservation, Biodiversity and Climate Change” in 24th International 
+Congress of Entomology, 19-25 August, 2012, Daegu, South Korea.
+4.	 Exposure visits of students, scientists/researchers from various universities and institutions and 
+visit of from national /international organizations.
+5.	 Seven Ph.D. students and post docs trained on various aspects of climate change and plant diseases 
+in chickpea and pigeonpea.
+6.	 Seven Ph.D. students and post docs trained on climate change and insect-pests in chickpea and 
+pigeonpea.
+11.3 IARI, New Delhi
+1.	 Five group meeting and discussion with scientists, technical staff and farmers organized for 
+developing and prioritizing adaptation options. 
+2.	 Three senior research fellows have been trained on climate change adaptation and mitigation.
+3.	 Two technical staff have been trained on climate change adaptation and mitigation.
+4.	 Exposure visits of students, scientists, researchers from various universities and institutions were 
+organized.
+52

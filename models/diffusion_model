@@ -1,0 +1,30 @@
+"""
+Generates an illustrative synthetic climate map (no API dependency).
+"""
+import random
+from PIL import Image, ImageDraw, ImageFont
+import os
+
+HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
+
+def generate_downscaled_map(prompt: str, width: int = 1024, height: int = 768):
+    """Creates a simple heatmap-style visualization annotated with the prompt."""
+    img = Image.new("RGB", (width, height), color=(240, 245, 255))
+    draw = ImageDraw.Draw(img)
+
+    for i in range(0, width, 40):
+        fill = (
+            random.randint(150, 255),
+            random.randint(100, 180),
+            random.randint(100, 200),
+        )
+        draw.rectangle([i, 0, i + 40, height], fill=fill)
+
+    text = f"🌦 Simulated Downscaled Map\nPrompt: {prompt}"
+    font = ImageFont.load_default()
+    draw.multiline_text((20, 20), text, fill=(0, 0, 0), font=font)
+    return img
+
+def generate_downscaled_map():
+    print("✅ diffusion_model.generate_downscaled_map() called successfully")
+    return "Placeholder output"

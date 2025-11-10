@@ -1,0 +1,1183 @@
+Climate Change and Indian Agriculture: 
+Challenges and Adaptation Strategies
+Ch. Srinivasa Rao
+Tavva Srinivas
+R.V.S. Rao 
+N. Srinivasa Rao
+ S. Senthil Vinayagam
+P. Krishnan
+ICAR-National Academy of Agricultural Research Management
+Hyderabad, Telangana, India
+Editors
+Ch. Srinivasa Rao
+Tavva Srinivas
+R.V.S. Rao 
+N. Srinivasa Rao
+ S. Senthil Vinayagam
+P. Krishnan
+Editors
+ICAR-National Academy of Agricultural Research Management
+Hyderabad, Telangana, India
+Climate Change and Indian Agriculture: 
+Challenges and Adaptation Strategies
+Ch. Srinivasa Rao
+Tavva Srinivas
+R.V.S. Rao 
+N. Srinivasa Rao
+ S. Senthil Vinayagam
+P. Krishnan
+Editors
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+Preferred Citation of Book
+Srinivasarao, Ch., Srinivas, T., Rao, R.V.S., Srinivasarao, N., Vinayagam, S.S., Krishnan, P. (2020). 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies, 
+ICAR-National Academy of Agricultural Research Management, Hyderabad, 
+Telangana, India. p-584.
+Preferred Citation of Chapters
+Kumar, K., Bhattacharjee, S., Vaikuntapu, PR., Sharma, CL., Jayaswal, D., Sharma, R., 
+Sundaram, R.M. 2020. Climate Change Mitigation and Adaptation Through Biotechnological 
+Interventions. In: Ch. Srinivasarao et al., (Eds). Climate Change and Indian Agriculture: 
+Challenges and Adaptation Strategies, ICAR-National Academy of Agricultural Research 
+Management, Hyderabad, Telangana, India. pp-1-22.
+ISBN No. :  978-81-943090-7-9
+Published by
+Director
+ICAR-NAARM
+Hyderabad - 500 030
+July 2020
+For Copies contact:
+Director
+ICAR-NAARM
+Rajendranagar, Hyderabad-500 030
+Telangana, India
+Tel: 040-24581322/24581285
+Fax: 040-24015912
+Email: director@naarm.org.in
+CONTENTS
+S.No. Title 
+Page No
+15 
+Climate Smart Technology Based Farm Mechanization for  
+325
+ Enhanced Input Use Efåciency
+16 
+Climate Smart Post-Harvest Agriculture and Food Systems 
+359
+9 
+Physiological Responses and Strategies for Temperature and Water Stress  
+199
+ Tolerance in Plants
+11 
+Relevance of Plant Associated Microorganisms in Climate  
+245
+ Smart Agriculture
+12 
+Impact of Climate Change on Host-Pathogen Interactions and  
+271
+ its Implications on Crop Disease Management
+8 
+Can Planting Trees Avert Climate Emergency? 
+183
+10 
+Impact of Climate Change on the Production of Secondary  
+215
+ Metabolites in Plants
+13 
+Impact of Climate Change on Pests and Their Management Options  
+295
+ with Emphasis on Identiåcation of Adaptation Strategies
+14 
+Quality Seed and Climate Resilience: Challenges and Opportunities 
+311
+21 
+Role of Artiåcial Intelligence (AI) and Internet of Things (IoT) in  
+465
+ Mitigating Climate Change  
+22 
+Recent Advancements in Artiåcial Intelligence (AI) and  
+473
+Internet of Things (IoT) for Efåcient Water Management in Agriculture
+23 
+Climate Change and Agriculture: An Economic Perspective 
+485
+24 
+Impact and Adaptation Strategies in Horticulture Sector in a Climate 
+501
+Change Environment 
+25 
+Climate Change and Livestock Sector in India: Issues and Options 
+517
+18 
+Climate-Smart Livestock Farming in India: Addressing Issues and Challenges 397
+19 
+Climate Change Versus Livestock Health: Impact, Mitigation and Adaptation 431
+20 
+Hazards in the Wake of Climate Change Induced Extreme Weather  
+449
+ Events and Their Impact on Indian Fisheries
+17 
+Approaches for Managing Post-Harvest Handling in Climate  
+385
+ Disaster Prone Areas 
+ 
+Foreword 
+4 
+Offsetting Climate Change Impact through Genetic Enhancement 
+71
+6 
+Resource Conservation Technologies for Climate Change Adaptation 
+131
+ and Mitigation
+2 
+Exploration of CRISPR/Cas Toolbox for Developing  
+23
+ Climate-Smart Plants
+ 
+Preface
+1 
+Climate Change Mitigation and Adaptation through  
+1
+ Biotechnological Interventions 
+5 
+Climate Change Adaptation and Mitigation through Soil Management 
+105  
+7 
+Climate Smart Soil and Water Management Strategies for  
+157
+ Sustainable Agriculture 
+3 
+Accelerated Crop Breeding towards Development of  
+49
+ Climate Resilient Varieties
+28 
+Institutional Linkages and Community Partnerships for 
+569 
+ Climate Resilient Agriculture
+26 
+Role of Genomics in Agriculture in Age of Climate Change 
+539  
+ 
+Authors Index 
+27 
+Application of Bio-Informatics in Climate Smart Agriculture 
+561 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+3MoEFCC-National Centre for 
+Sustainable Coastal 
+Management (NCSCM), 
+Chennai, Tamil Nadu
+1
+1
+Shobha Rawat , Garima , 
+1
+1
+V. Vidhya , Dayal Devadas , 
+1
+S. Abuthagir Iburahim , 
+1
+Rinchen Nopu Bhutia , 
+1
+2
+P. Krishnan , Grinson George , 
+3
+R. Soundararajan  and 
+1
+A.G. Ponniah
+1ICAR-National Academy of 
+Agricultural Research 
+Management, Hyderabad, 
+Telangana 
+2ICAR-Central Marine 
+Fisheries Research Institute, 
+Kochi, Kerala
+Abstract
+Hazards in the Wake of 
+Climate Change Induced 
+Extreme Weather Events 
+and Their Impact on 
+Indian Fisheries
+ 
+Climate change, whether driven by natural or human forcing, can lead to 
+changes in the likelihood of the occurrence or strength of extreme weather and 
+climate events or both. In recent past, the increased occurrence of extreme climatic 
+events has caused enormous damage to åsheries sector particularly to the tropical 
+coastal countries such as India. The vagaries of climate are reýected in many forms, 
+such as changes in temperature and rainfall pattern, which consequently lead to 
+increased frequency of extreme events such as ýoods, cyclones, heat anomalies 
+and unpredictable monsoons. These are further exacerbated by the activities such 
+as anthropogenic enrichment of the coastal environment through coastal 
+aquaculture farming, ballast water discharge, tourism, damming and so on.  
+Further, the climate change impacts are also expected to intensify in the years 
+ahead. Some of the resilient strategies, such as hazard mapping, spatial planning, 
+participatory planning and capacity building, are the need of the hour for 
+mitigating these hazards caused due to climate change induced extreme weather 
+events and their impact on Indian åsheries.
+Keywords: Environment, Ocean, Cyclones, Floods, Fishery.
+20
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+449
+Events such as ýoods, droughts, 
+cyclones, tsunamis, etc. are the 
+extreme weather scenarios that 
+åshers, åsh farmers and coastal 
+population, in general, are 
+confronting as the impacts of climate 
+change, with increased intensity and 
+frequency. It is important to initiate 
+necessary steps and precautions to 
+face the worsening impacts, which 
+can be part of the adaptation 
+strategy for mitigating them.
+The increasing frequency and 
+intensity of extreme weather events 
+lead to intense coastal vulnerability 
+and consequent severe socio-
+economic impacts. The crisis is a multi-
+faceted challenge for developing 
+countries such as India demanding 
+holistic approaches to reinvigorate 
+the diminishing resilience of the poor 
+and vulnerable sections of the coastal 
+population. 
+I. Introduction
+Climate change impact crisis is an 
+important world-wide environmental 
+emergency which has far-fetched 
+signiåcant implication in agriculture 
+sector including åsheries (Srinivasarao 
+et al., 2019). Frequent ýoods, 
+droughts, ocean acidiåcation and 
+rising sea levels, all due to climate 
+changes pose a challenge as a whole, 
+and the available reports suggest that 
+the developing countries including 
+India are more vulnerable since it is 
+causing a huge impact on all 
+dimensions of the society. Further, the 
+climate change impacts are also 
+expected to intensify in the years 
+ahead.
+With the changes in surface 
+temperature of sea water, there are 
+observed changes in the patterns of 
+A similar situation is prevailing in case 
+of cold waves also. These two 
+weather extremes are inýuenced by 
+the changes in ENSO phases (El Nino 
+and La Nina). In the northern Indian 
+Ocean region, there is a serious 
+inýuence of Indian Ocean Dipole 
+(IOD) events also which is having a 
+cascading effect on the åshery in the 
+region (Prathibha et al., 2018). 
+Extreme events, such as tropical 
+cyclones, heat waves, cold waves, 
+droughts, ýoods, etc., have the 
+potential to cause human loss, injury 
+and huge economic losses to the 
+In India, there is an increasing 
+trend of heat waves which is 
+associated with the global warming 
+(Perkins et al., 2012). The current 
+decade has experienced more than 
+double the number of heatwaves 
+compared to the previous decade 
+(Fig.1).           
+rainfall, evaporation, onset and 
+duration of seasons and frequency of 
+extreme events. This indicates that 
+climate change is posing signiåcant 
+environmental challenge requiring an 
+efåcient disaster management at 
+present. With the past experiences 
+over the extreme events due to 
+climate change, we can develop 
+better strategies for risk management 
+and adaptation. These strategies are 
+to be supported with scientiåc 
+information on climate trends in 
+order to reduce the rising human, 
+economic and ånancial losses due to 
+extreme weather events triggered by 
+abnormal climate variabilities.
+II.  Decadal Trends Related 
+to Extreme Weather 
+Events in India
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+450
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Fig. 1: Number of Heat Waves & Cold Waves Recorded in India 
+1970-79
+1980-89
+1990-99
+2000-09
+2010-2019
+44
+62
+82
+106
+131
+124
+226
+153
+1186
+591
+Heat waves
+Cold waves
+No.of heat/cold waves
+Year
+Fig. 2: Year-Wise Damage due to Extreme Events in India
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+451
+ Source: Envistat, 2019
+Source: Indian Metrological Department, Ministry of Earth Sciences 
+country (Fig.2). Large proportion of 
+the global population is affected by 
+the natural disasters and these 
+numbers are ýuctuating every year. 
+Some of these disasters are very 
+difåcult to predict (Ray-Bennett and 
+Nibedita, 2018).      
+Fluctuation in rainfall alters the 
+hydrological cycle and the pattern of 
+basic stream ýow. This will call for a 
+review of reservoir design and 
+management practices in India. The 
+patterns of annual rainfall in India 
+have been irregular and inconsistent 
+in the past decades (Fig.3). The 
+ýuctuating rainfall pattern with a 
+declining trend in recent decades 
+threatens the biodiversity and åshery 
+production of our country (Kumar et 
+al., 2010). It was observed that there 
+had been many cyclones in the Bay of 
+Bengal compared to the Arabian Sea. 
+Though the number of cyclones is on 
+marginal decline in recent years, their 
+intensiåcations are high compared to 
+earlier decades (Fig.4).
+  Fig.3: Decadal Averages of Annual Rainfall in India (mm)
+Fig. 4: Cyclones Occurrence in Indian Coastal Waters
+Source: Indian Metrological Department, Ministry of Earth science
+Source: Envistat, 2019
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+452
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Extreme events, in nature, can be 
+deåned as the occurrence of those 
+calamities which are spontaneous, 
+unpredictable and uncontrollable 
+within the short time of its evolution 
+or any such hazardous happenings 
+which threaten the existence of 
+livelihoods depending directly or 
+indirectly on different coastal 
+ecosystems and their provision of 
+goods and services. For example, it 
+can be ýooding of rivers in north 
+eastern hilly areas during monsoon, 
+cyclones along Odisha coast or 
+landslides in Western Ghats during 
+south west monsoon season and so 
+on. Complexities in extreme events, 
+The increasing frequency of 
+occurrence of harmful algal blooms 
+(HABs) in Indian coastal waters is a 
+serious issue as the greater is the 
+number of the HABs observed, more 
+is the severity in deterioration effect 
+on the quality of Indian coastal 
+waters and åsheries (Padmakumar et 
+al., 2012).
+III. Complexities in 
+Extreme Events
+III.1 Extreme Floods
+associated with weather elements or 
+effect of anomalies of different 
+meteorological parameters (eg. solar 
+radiation, sea surface temperature, 
+precipitation, etc.), can be described 
+as natural calamities which bring 
+forth scalable disaster after their 
+occurrence threatening the very 
+existence of life and human 
+settlements. For example, there can 
+be heavy loss of life and damages to 
+coastal structures due to Tsunami or 
+destruction of roadways and 
+communication facilities soon after 
+landslides/ýoods etc. Any such event's 
+origin and occurrence regionally 
+associated with climate change has 
+produced serious impacts on åsh and 
+åsheries also. It also causes serious 
+damage and loss to different 
+stakeholders associated with åsheries 
+and aquaculture (Zacharia et al., 
+2016).
+Floods during the monsoon 
+season in Indian sub-continent are 
+considered to be among the 
+unpredictable extreme events which 
+hamper the food åsh production both 
+Source: Padmakumar et al., 2012
+Fig.5: Harmful Algal Bloom (HAB) events in Coastal Waters of India  
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+453
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+from capture åsheries and through 
+commercial aquaculture practices. In 
+general, the south-west monsoon 
+season, along the south-west coast of 
+India (Kerala and Karnataka coast), is 
+one of the two rainy seasons which 
+receives maximum rainfall. This 
+season, in particular, receives heavy 
+rainfall which causes ýoods in the 
+tropical rivers of Kerala and 
+Karnataka. Subsequently, the multi-
+purpose dams and reservoirs 
+constructed in these states, are also 
+ýooded during the season 
+immediately after heavy showers 
+during the mid-monsoon. Heavy 
+rainfall, followed by ýooding in rivers 
+along with the anomalies in monsoon 
+winds over the coastal seas, causes 
+severe impacts on marine åsh 
+production. The changes in breeding 
+patterns of different pelagic and 
+estuarine åshes (as ýooding alters the 
+environment, habitat and living 
+conditions and monsoon winds alter 
+the micro-climate at regional levels), 
+delayed or reduced recruitment of 
+different åsh resources, etc., are some 
+of the after-effects of extreme ýood 
+occurrences. 
+Extreme ýoods also bring in huge 
+loads of nutrient-rich sediments to 
+the coastal waters which through 
+upwelling reach the surface waters. 
+This sediment loading in the sea has 
+differential effects on åsh production, 
+sometimes detrimental even.  The 
+delta formation with sediment loads, 
+along the east coast of India in Bay of 
+Bengal, is also having signiåcant role 
+in inýuencing the coastal åsh 
+production. The rivers' discharge 
+during heavy monsoon and the 
+ensuing ýoods observed in major 
+rivers such as Godavari, Krishna, 
+Ganges, etc., contribute to vagaries in 
+Monsoon winds inýuence the 
+agro-climate of Indian sub-continent 
+signiåcantly. Monsoon winds enter in 
+the Indian subcontinent along the 
+southwest coast of India and bring in 
+rains all along the western part of 
+Western Ghats. These heavy showers 
+over Kerala and Karnataka are 
+important for the productivity of 
+coastal and inland water bodies 
+(
+). The direct 
+Shafeeque et al., 2019
+dependence of åshes on rainfall is 
+that the onset of monsoon rainfall 
+along with favouring temperature 
+induces åshes to spawn and 
+reproduce naturally. Increased rainfall 
+and changing water currents in sea 
+also favour primary and secondary 
+food sources' growth such as that of 
+phyto and zoo plankton. Plankton 
+blooming also is boosted by 
+upwelling phenomenon. Upwelling 
+episodes along with the mud bank 
+formation in sea, during peak 
+monsoon season, high rate of 
+plankton multiplication followed by 
+increase in shrimp and åsh 
+reproduction. Mud bank formation in 
+sea along the Kerala coast is due to 
+the sediment discharge by rivers 
+draining into the sea during the rainy 
+season. Increased river ýows and 
+sediments draining into coastal 
+waters get accumulated and form 
+colloids in the column and bottom, 
+relatively at lower depths (15-20 m) 
+åsh production. However, altered and 
+increased ýooding along with 
+increased pollutant loads from the 
+mainland reaching though ýood 
+water and sediment make the 
+environmental conditions at sea 
+unfavourable for åsh growth and 
+production (Gibson et al., 2002). 
+III.2 Unpredictable Monsoons
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+454
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+which form the nutrients' source. 
+Upwelling brings these nutrients from 
+colloidal mass in deeper waters to the 
+surface. Where rainfall is high, it 
+triggers plankton blooming offering 
+primary food source to coastal pelagic 
+resources. In reality, any alterations in 
+monsoon wind patterns negatively 
+inýuence the åsh production. Similar 
+is  the case in other coastal areas also. 
+Anomalies in rainfall pattern directly 
+inýuence the primary producers' 
+biomass and thus åshes also, as they 
+occupy all other trophic levels linked 
+to the årst trophic level. Late arrival 
+of monsoon winds inýuences the 
+brooders to spawn asynchronously or 
+to reabsorb the gonadal contents in 
+their body itself. It also results in 
+larval mortalities due to lesser 
+abundance of food-planktons and 
+other live åsh food organisms in 
+water, relatively higher water 
+temperature, etc. All these reduce the 
+recruitment intensity and thus åsh 
+production. Altered and uncertain 
+rainfall patterns thus reduce the åsh 
+production dramatically. 
+III.3 Intense Heatwaves
+There has been a tremendous rise 
+in the intense heatwave events 
+affecting the human comfort globally. 
+It is the abnormally high 
+temperatures, more than the normal 
+maximum temperature that occurs 
+between March and June usually in 
+North-Western parts of India, 
+adversely affecting the folks as they 
+cause physiological stress, sometimes 
+resulting in death (NDMP, 2016). The 
+re-curving tropical cyclones before 
+the onset of the heatwaves could 
+change the direction of the winds and 
+cut-off moisture to the inland regions 
+leading to heatwaves (De et al., 
+1998). The abnormally high 
+temperature anomalies have been 
+recorded over south India and coastal 
+eastern India (Ratnam et al., 2016). 
+The climatology on sea level anomaly 
+in northern Indian Ocean indicate an 
+anomalous low-pressure area along 
+the east coast of India indicating the 
+moisture driven winds blowing out of 
+India and transported to the cyclonic 
+anomalies in the west Paciåc. The 
+transport of the moisture out of the 
+Indian coast causes the reduction in 
+precipitation along the east coast of 
+India (Ratnam et al., 2016).
+Fisheries and aquaculture are 
+among the critical sectors as they are 
+dependent on nature to variable 
+extent. The vagaries of climate are 
+reýected in many forms, such as 
+changes in temperature and rainfall 
+pattern, which consequently lead to 
+increased frequency of extreme 
+events such as ýoods, cyclones, heat 
+anomalies and unpredictable 
+monsoons. These are further 
+exacerbated by the activities such as 
+anthropogenic enrichment of the 
+coastal environment through coastal 
+aquaculture farming, ballast water 
+discharge, tourism, etc. Changing 
+land use cover, reservoir storage and 
+agricultural and industrial operations 
+in the vicinities are altering the 
+functions of natural habitats such as 
+brackish water wetlands as seen in 
+the case of Kerala ýoods. 
+The scale of impacts can be seen in 
+various perspectives as discussed 
+below.
+IV. Impacts on Fisheries
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+455
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+The Fani cyclone, 2018 caused a 
+severe impact on shrimp production 
+of Odisha. It not only affected the 
+aquaculture farms but also the 
+seafood processing units due to 
+power failure, incurring a loss of 
+around Rs.30-400 crores (Krishna 
+Kumar, 2019). 
+Floods in Kerala have cascading effect 
+on åsh farming ventures in sheltered 
+areas of the coast that are used for 
+pen and cage åsh farming in the 
+state. Many times, the ready to 
+harvest crops of Pearl Spot, Sea Bass 
+and Red Snapper are lost in the usual 
+ýoods occurring ahead of the Onam 
+season when they would have 
+fetched maximum proåt due to 
+festival peak sales. A total loss of Rs.4 
+crores in the year 2018 was estimated 
+for Ernakulum and Thrissur districts of  
+Kerala (Kumar, 2018).
+IV.2  Abundance of Competitors 
+Fish, being a poikilothermic 
+organism (Bowden et al., 2007), will 
+be more severely affected than other 
+homoeothermic animals and 
+ultimately the production scenario 
+would alter to the detriment due to 
+extreme events in nature. For 
+Instance, rising temperature in the 
+Arabian Sea has extended the 
+distribution of Indian oil sardine up to 
+the north-western zone, but its 
+spread can have severe impact on the 
+Bombay duck having restricted 
+distribution in the North-west coast 
+of India (Rohit et al., 2018). It will not 
+only enhance the competition for 
+food and space but also outpace 
+those species in competition whose 
+distribution is restricted to speciåc 
+environmental parameters; for 
+instance, tidal oscillations in the case 
+of Bombay duck.  
+IV.1 Food Production
+IV.4 Critical Ecosystem
+IV.3 Impact on the Oceanic Food 
+Webs
+Marine heatwave happens when 
+the ocean temperature is much 
+warmer than usual for the time of 
+year which may be due to heating of 
+the surface water by excess sunlight 
+or warm water being brought via 
+ocean currents. In 2015, New Zealand 
+experienced its longest and 
+mostintense marine heatwave on 
+record and it brought down the 
+abundance of valuable tropical 
+species like kingåsh and snapper 
+(Oliver et al., 2017). In the 
+aquaculture industry, it resulted in 
+disease outbreaks in oyster farms, 
+disruptions to salmon farming and 
+death of abalones along the coast 
+(Oliver et al., 2017).
+Extreme marine heatwave lingered 
+over the Shark Bay World Heritage 
+area of western Australia in 2011, 
+seagrass and kelp forests damaged in 
+mass (
+. Some 
+Arias-Ortiz et al., 2018)
+kelp species became regionally extinct 
+over hundreds of kilometres. This loss 
+was not only a direct effect of the 
+heat, but also was due to herbivorous 
+åsh migrating along with the warm 
+water and foraging over the kelp. The 
+kelps were also being replaced with 
+seaweeds turfs, thus having severe 
+impact on the kelp ecosystem (Arias-
+Ortiz et al., 2018).
+Strong storms, in terms of 
+severity, are in increasing frequency 
+and are inýuencing the mangrove 
+productivity and health (Stocker et 
+al., 2013). Activity, such as defoliating 
+the canopy, uprooting trees, etc at 
+the seaward margins are observed 
+(Doyle et al., 1995). Changing rainfall 
+patterns (Gilman et al., 2008), 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+456
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+457
+,
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Table 1: Various Extreme Events Reported from India
+abnormal precipitation and increase 
+in evaporation have indirect effects, 
+such as incremental increase in soil 
+salinity and low survival of seedlings, 
+reduced productivity and growth 
+rates, and thus a heavy loss to 
+mangrove ecosystem (Duke et al., 
+1998). Coral reefs are among the 
+critical ecosystems supporting 
+åsheries, as well as, guarding our 
+coastline against severe wave action 
+and erosion. With extreme 
+temperatures and solar irradiance, 
+global warming and the resultant 
+climate change, enhanced frequency 
+of ýoods and abnormal rainfalls are 
+directly or indirectly contributing to 
+sea-level rise that is detrimental for 
+already stressed coral reefs. Changed 
+weather patterns, such as altered El 
+Niño and La Niña events, are already 
+affecting coral reefs. In 1998, the 
+highest of the tropical sea surface 
+temperatures (SSTs) recorded in the 
+last 50 years, as a result of El Niño 
+phenomenon, was recorded 
+(Wilkinson et al., 1999) and the coral 
+reefs suffered the most extensive and 
+severe mass bleaching episodes, 
+resulting in obliteration of 16 per 
+cent of the world's coral reefs and 50 
+percent of those in the Indian Ocean 
+(Wilkinson et al., 1999).
+IV.5 Socioeconomic Sustainability 
+The åshing community suffers 
+greatly due to the loss of 
+infrastructure such as boats, nets and 
+other åshing equipment, during 
+events such as cyclone and ýood. 
+Mental trauma and grievances take 
+time to heal and subside and get 
+prepared to venture again into the 
+sea. The women of the community, 
+who used to sell åsh or work as casual 
+labourers, also go without jobs. Thus, 
+both men and women of the åshing 
+community are unable to earn a living 
+(Singh et al., 2018). Migration to 
+other states for petty jobs is also 
+visible from the cyclone affected 
+areas of the country (Babu, 2018).
+V. Towards Resilient 
+Pathways
+Climate change resilience mainly 
+has two aspects - one is mitigation of 
+greenhouse gas (GHG) emissions and 
+the other is adaptation to impacts of 
+climate change on different eco-
+systems and their services. Recently, 
+climate change has emerged as a 
+global environmental challenge. In 
+1992, with the adoption of United 
+Nations Framework Convention to 
+Climate Change (UNFCCC), different 
+steps were taken to address the effect 
+of climate change. India is a party to 
+UNFCCC and the Government of India 
+gives signiåcant importance to 
+climate change issues. Disaggregated 
+impacts of climate change affect the 
+rd
+th
+åsheries sector. The 73  and 74  
+Amendment Acts, 1992, of the 
+Constitution of India have given 
+immense power to local governments 
+at rural and urban levels, respectively, 
+which reýect the commitment of 
+Indian Government in the direction of 
+mitigation of climate change.
+V.1 Dimensions of Exposure and 
+Resilience Pathways
+To build resilience to the effects 
+of climate change and to derive 
+sustainable beneåts, åsheries 
+managers, as a top priority, need to 
+adopt and adhere to best practices 
+such as those described in the FAO 
+Code of Conduct for Responsible 
+Fisheries and the EAF/EAA. Progress in 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+458
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+this direction would be an important 
+contribution to maintaining 
+biodiversity, preserving the resilience 
+of human and aquatic systems to 
+climate change, and improving our 
+capacity to anticipate and adapt to 
+inevitable climate induced changes in 
+aquatic ecosystems and the related 
+åsheries production systems. 
+V.2 Hazard Mapping
+V.3 Community based Experiences
+A hazard mapping is intended for 
+highlighting the areas that are 
+already affected by different hazards 
+and those vulnerable to speciåed 
+hazards. They are typically created in 
+relevance to natural hazards, such as 
+earthquakes, volcanoes, landslides, 
+ýooding and tsunamis. For 
+vulnerability assessment, three 
+vulnerability factors are used which 
+are exposure, sensitivity and adaptive 
+capacity. Exposure refers to people, 
+property, systems, etc. present in 
+hazard zones that are thereby subject 
+to potential impacts of climate 
+change. Sensitivity means 
+responsiveness of a system to climate 
+hazards. Adaptive capacity refers to 
+the ability of a system to adjust to the 
+impacts like those of climate change. 
+For preparing communities and 
+people to meet the challenges arising 
+out of such changes, information 
+speciåc to a state or even district is 
+needed because such impacts of 
+climate change are not uniform. In 
+order to meet this need, a national 
+level climate vulnerability assessment 
+map needs to be developed.
+Community-based experiences 
+can be combined in comparison to 
+individual strategies across multiple 
+setting aiming at the wellbeing of the 
+At a different scale, traditional 
+policy and management planning and 
+tools will have to be “climate 
+proofed”, by using GIS tools spatially 
+and temporally – eg. Protected areas 
+and closed seasons. At the regional 
+level, agreements among countries 
+sharing transboundary stocks will also 
+need to be adjusted as shifts in stock 
+distribution and changes in 
+productivity occur. Fishing vessels of 
+all sizes may be rendered more stable 
+to allow for åshing farther away from 
+the coastal area.  Fish aggregating 
+devices may be used to lure åsh back 
+within the traditional åshing areas.
+V.4 Spatial Planning
+Participatory planning is done by 
+taking all the stakeholders in 
+consideration for any management. 
+For the extensive community 
+engagement careful consideration of 
+local culture, values, and belief 
+systems is important as they play a 
+major role in understanding future 
+climate impacts. Capacity-building is 
+about enhancing the ability of 
+individuals, organizations and 
+institutions in developing countries 
+and in countries with economies in 
+transition to identify, plan and 
+implement ways to mitigate and 
+adapt to climate change. 
+V.5 Participatory Planning and 
+Capacity Building 
+society.   Based on their knowledge, 
+experiences and availability of local 
+resources including the social capital, 
+community based vulnerability 
+reduction and disaster management 
+strategies can be formulated through 
+wider development planning and 
+debates.
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+459
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+VI. Conclusion
+Extreme events in recent years 
+are drawing the increased attention 
+to the science seeking to understand 
+their causes as some extremes 
+especially droughts, heat waves, 
+cyclones and heavy precipitation 
+events are becoming more frequent 
+annually. Since natural variability is 
+playing a substantial role in individual 
+events, there is a need for a science-
+A multilevel governance 
+framework calls for the narrowing or 
+closing of the policy “gaps” between 
+levels of government via the adoption 
+of tools for vertical and horizontal 
+governance. The vertical dimension of 
+multilevel governance recognises that 
+national governments cannot 
+effectively implement national 
+climate strategies without working 
+closely with regional and local 
+governments as agents of change. 
+The horizontal dimension of 
+multilevel governance is also 
+associated with improving 
+coordination across national line 
+ministries to implement crosscutting 
+programmes, such as those required 
+in many climate change policies. 
+Whereas the multilevel governance 
+approach recognises that local 
+governmental authority has to act in 
+areas of its jurisdiction with the close 
+coordination of all link departments, 
+institutions and local people for 
+developing climate resilient strategies 
+to mitigate the losses from the 
+unpredictable and unavoidable 
+extreme events and for the 
+sustainability of the åsheries 
+resources.
+V.6 Building Vertical and Horizontal 
+Governance
+Bowden, T.J., Thompson, K.D., Morgan, 
+A . L . ,  G r a t a c a p ,  R . M .  a n d 
+Nikoskelainen, S. 2007. “Seasonal 
+variation and the immune response: a 
+VII. References 
+Babu, G.R. 2018. Titli effect: “Jobless 
+åshermen plan migration for 
+livelihood”. https://www.newindian 
+e x p r e s s . c o m / s t a t e s / a n d h r a -
+pradesh/2018/oct/30/titli-effect-
+jobless-åshermen-plan-migration-for-
+livelihood-1891820. html.
+Arias-Ortiz, A., Serrano, O., Masqué, P., 
+Lavery, P.S., Mueller, U., Kendrick, G.A. 
+Rozaimi,  M., Esteban, A., Fourqurean, 
+J.W.,  Marbà, N., Mateo, M.A., Murray, 
+K., Rule, M.J. and  Duarte, C.M. 2018. 
+“A Marine Heatwave Drives Massive 
+Losses from the World's Largest 
+Seagrass Carbon Stocks”. Nature 
+Climate Change 8:1–7. https://doi.org/ 
+10.1038/s41558-018-0096-y.
+based evidence to assess how climate 
+change has affected the strength and 
+likelihood of individual extreme 
+events. In order to ånd the resilient 
+pathways to mitigate the 
+overburdening impact of extreme 
+events fueled by the impact of 
+climate change there is need for 
+strengthening local co-management 
+plans, involving ﬁshers in data 
+collection and analysis, developing 
+complementary livelihood strategies 
+and addressing the broad socio-
+economic rights of communities. 
+Participation in community-level 
+vulnerability assessments enhances 
+understanding, builds capacity, 
+generates knowledge for 
+management, and allows 
+communities to identify locally 
+appropriate adaptation strategies for 
+climate change.
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+460
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Gilman, E.L., Ellison, J., Duke, N.C. and 
+Field, C. 2008. “Threats to Mangroves 
+from Climate Change and Adaptation 
+Options”: A Review. Aquatic Botany 
+8 9 ( 2 ) : 2 3 7 – 5 0 .  h t t p s : / / d o i . o r g / 
+10.1016/j.aquabot.2007.12.009.
+åsh perspective”. Fish and Shellåsh 
+Immunology 22(6):695-706.
+Gouda, K.C., Sahoo, S.K., Samantray, P. 
+and Shivappa, H. 2017. Comparative 
+Study of “Monsoon Rainfall Variability 
+over India and the Odisha State”. 
+Climate 5(4):1–16. https://doi.org/ 
+10.3390/cli5040079.
+Duke, N.C., Ball, M.C. and Ellison, J.C. 
+1998. “Factors Inýuencing Biodiversity 
+and Distributional Gradients in 
+Mangroves”. Global Ecology and 
+Biogeography Letters 7(1):27–47.
+https://doi.org/10.2307/2997695.
+E n v i S t a t s - I n d i a .  2 0 1 9 .  Vo l . I : 
+“Environment Statistics, Central 
+Statistics Ofåce, Ministry of Statistics & 
+P r o g r a m m e  I m p l e m e n t a t i o n , 
+Government of India, New Delhi”.
+De, U.S. and Mukhopadhyay, R.K. 1998. 
+“Severe Heat Wave over the Indian 
+Subcontinent in 1998, in Perspective of 
+Global Climate”. Current Science 
+75(12):1308-311. www.jstor.org/ 
+stable/24101015.
+Krishnakumar, P.K. 2019. “Shrimp 
+production in Odisha hit by cyclone 
+F a n i ” .  h t t p s : / / e c o n o m i c t i m e s . 
+indiatimes.com/news/economy/agricul
+ture/shrimp-production-in-odisha-hit-
+Gibson, R.N., Barnes, M. and Atkinson 
+R.J.A. 2002. “Impact of changes in ýow 
+of freshwater on estuarine and open 
+coastal habitats and the associated 
+organisms”. Oceanography and 
+Marine Biology An Annual Review 40: 
+233.
+Kumar, S. 2018. Kerala ýoods: “Cage 
+åsh farmers in troubled waters”. 
+https://www.thehindubusinessline.co
+m/economy/agri-business/kerala-
+ýoods-cage-åsh-farmers-in-troubled-
+waters/article24857170.ece. (Accessed 
+March 1, 2020)
+Ménard, F., Marsac, F., Bellier, E. and 
+Cazelles, B. 2007. “Climatic Oscillations 
+and Tuna Catch Rates in the Indian 
+Ocean: A Wavelet Approach to Time 
+S e r i e s  A n a l y s i s ” .  F i s h e r i e s 
+O c e a n o g r a p h y  1 6 ( 1 ) : ” 9 5 – 1 0 4
+https://doi.org/10.1111/j.1365-
+2419.2006.00415.x.
+NDMP (National Disaster Management 
+Plan). 2016. A publication of the 
+National Disaster Management 
+Authority, Government of India. May 
+2016, New Delhi”.
+Padmakumar, K.B., Menon, N.R. and 
+Sanjeevan, V.N. 2012. “Is Occurrence of 
+Harmful Algal Blooms in the Exclusive 
+Economic Zone of India on the Rise”? 
+I n t e r n a t i o n a l  J o u r n a l  o f 
+Oceanograph:1–7. https://doi.org/ 
+10.1155/2012/263946.
+Oliver, E.C.J., Benthuysen, J.A. Bindoff, 
+N.L., Hobday, A.J., Holbrook, N.J., 
+Mundy, C.N. and Perkins-Kirkpatrick, 
+S.E. 2017. “The Unprecedented 
+2 0 1 5 / 1 6  Ta s m a n  S e a  M a r i n e 
+Heatwave”. Nature Communications 
+8 : 1 – 1 2 .  h t t p s : / / d o i . o r g / 
+10.1038/ncomms16101.
+b y - c y c l o n e - f a n i / a r t i c l e s h o w 
+/69370625.cms. (Accessed March 1, 
+2020).
+Kumar, V., Jain, S.K. and Singh, Y. 2010. 
+“ A n a l y s e  D e s  T e n d a n c e s 
+Pluviométriques de Long Terme En 
+Inde”. Hydrological Sciences Journal 
+5 5 ( 4 ) :  4 8 4 – 9 6 . h t t p s : / / d o i . o r g / 
+10.1080/02626667.2010.481373.
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+461
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Roshan, M. 2018. “Cyclone Ockhi: 
+Disaster Risk Management and Sea 
+Safety in the Indian Marine Fisheries 
+S e c t o r  -  A q u a t i c  C o m m o n s . ” 
+International Collective in Support of 
+Fishworkers 1(1):73. http://aquatic 
+commons.org/25289/.
+Ratnam, J.V., Behera, S.K., Ratna, S.B., 
+Rajeevan, M. and Yamagata, T. 2016. 
+“Anatomy of Indian Heatwaves”. 
+S c i e n t i å c  R e p o r t s  6 ( 2 ) : 1 – 1 1 . 
+https://doi.org/10.1038/srep24395.
+P r a t h i b h a ,  R . ,   S i v a d a s ,  M . , 
+Abdussamad, E.M., Margaret M.R.A., 
+Said, K.K.P., Ganga, U., Shubhadeep, 
+G., Rajesh, K.M., Mohammed Koya, K., 
+Anulekshmi, C., Mini, K.G., Grinson, G., 
+Roul, S.K., Surya, S., Sandhya, S., 
+Vivekanandan, E., Retheesh, T.B., 
+Prakasan, D., Satish Kumar, M., Mohan, 
+S., Vasu, R. and Suprabha, V. 2018. 
+“Enigmatic Indian Oil Sardine: An 
+Insight”.  CMFRI Special Publication 
+(130). ICAR-Central Marine Fisheries 
+Research Institute, Kochi. ISBN 978-93-
+82263-27-2.
+Perkins, S.E., Alexander, L.V. and Nairn, 
+J.R. 2012. “Increasing Frequency, 
+Intensity and Duration of Observed 
+Global Heatwaves and Warm Spells”. 
+Geophysical research letters 39:1–5. 
+https://doi.org/10.1029/2012GL053361.
+Shafeeque, M., Shah, P., Platt, T., 
+Sathyendranath, S., Menon, N.N., 
+Balchand, A.N. and George, G. 2019. 
+“Effect of Precipitation on Chlorophyll-
+a in an Upwelling Dominated Region 
+Ray-bennett. and Nibedita, S. 2018. 
+“Disasters, Deaths, and the Sendai Goal 
+One  : Lessons from Odisha, India”. 
+World Development 103: 27–39. 
+https://doi.org/10.1016/j.worlddev.201
+7.10.003.
+Singh, B., Singh, P., Supriya, K. and 
+Singh, M. 2018. An Overview on Kerala 
+Floods: “Loss of Human Lives as Well as 
+Biodiversity in God's Own Country”. 
+International Journal of Fauna and 
+Biological Studies 5(6):96-98. 
+https://doi.org/10.13140/RG.2.2.23925.
+22245.
+Wilkinson, C., Linden, O., Cesar, H., 
+Hodgson, G., Rubens, J. and Strong, 
+A . E .  1 9 9 9 .  “ E c o l o g i c a l  a n d 
+socioeconomic impacts of 1998 coral 
+mortality in the Indian Ocean”: An 
+ENSO impact and a warning of future 
+change? Ambio (2).
+Along the West Coast of India”. Journal 
+of Coastal Research 86(1):218-224.
+https://doi.org/10.2112/SI86-032.1
+Singh, D. and Jeffries, A. 2013. Cyclone 
+Phailin in Odisha, October 2013: 
+“Rapid Damage and Needs Assessment 
+Report”. World bank working paper 
+1:27-28.
+Srinivasarao, Ch., Rao, K.V., Gopinath, 
+K . A .  a n d  P r a s a d ,  Y. G .  2 0 1 9 . 
+“Agriculture Contingency Plans for 
+Managing Weather Aberrations and 
+E x t r e m e  C l i m a t i c  E v e n t s : 
+Development, Implementation and 
+Impacts in India”. Advances in 
+Agronomy 1st ed. Elsevier Inc. 
+https://doi.org/10.1016/bs.agron.2019.
+08.002.
+Stocker, T.F., Qin, D., Plattner, G.K., 
+Tignor, M.M.B., Allen, S.K., Boschung, 
+J., Nauels, A., Xia, Y., Bex, V. and 
+Midgley, P.M. 2013. Climate change 
+2013: the physical science basis. 
+“Contribution of working group I to 
+the åfth assessment report of IPCC the 
+intergovernmental panel on climate 
+change”. 10.1017/CBO9781107415324
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+462
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Zacharia, P.U., Gopalakrishnan, A., 
+George, G., Muralidhar, M. and 
+Vijayan, K.K. 2016. “Climate Change 
+Impact on Coastal Fisheries and 
+Aquaculture in the SAARC Region: 
+Country Paper – India”. In: SAARC 
+Agriculture Centre Video Conference 
+on “Climate Change Impact on Coastal 
+Fisheries and Aquaculture. 1–25. ISBN 
+978-984-34-1970-5.
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+463
+Hazards in the Wake of Climate Change Induced Extreme Weather Events 
+Climate Change and Indian Agriculture: Challenges and Adaptation Strategies
+464

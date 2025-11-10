@@ -1,0 +1,2184 @@
+Climate Change and Risk 
+Management in Indian Agriculture
+Pratap Singh Birthal
+NABARD Research and Policy Series No. 4/2022  
+O³es³e
+NABARD Research and Policy Series No. 4/2022
+Yeejleer³e ke=Àef<e cesW peueJee³eg HeefjJele&ve Deewj peesefæKece ÒeyebOeve
+Climate Change and Risk Management in Indian Agriculture
+प्रताप सिंह बिरथल
+Pratap Singh Birthal 
+आर्थिक विश्लेषण और अनुसंधान विभाग
+Department of Economic Analysis and Research
+राष्ट्रीीय कृषि और ग्राामीण विकास बैंक, मुंबई
+National Bank for Agriculture and Rural Development, Mumbai
+2
+Climate Change and Risk Management in Indian Agriculture
+National Bank for Agriculture and Rural Development
+Office Address
+National Bank for Agriculture and Rural Development
+Plot No. C-24. ‘G’ Block, Bandra-Kurla Complex
+Bandra (E), Mumbai - 400051
+Email : dear@nabard.org
+Website : www.nabard.org  
+© National Bank for Agriculture and Rural Development 2022 
+ISBN 978-93-5635-931-4 
+Published by
+Department of Economic Analysis and Research
+National Bank for Agriculture and Rural Development
+Plot No. C-24. ‘G’ Block, Bandra-Kurla Complex
+Bandra (E), Mumbai - 400051
+Printed at
+Image Impression
+Mumbai
+पलेपर में उद्ृत तथों और व्यक्त षवचारों कले षलए राष्ट् ीय बैंक ष़िम्लेदार नहीं है।
+The National Bank is not responsible for the facts cited and views expressed in the paper.
+i
+Chairman’s Message
+Academic research can inform policy making. ­However, 
+since each piece of research may cover certain ­aspects of an 
+issue, a comprehensive review of research may help ­collate 
+the findings that may lead to policy ­recommendations. 
+­Further, the research available may be often very ­technical 
+and less communicative to the policy makers. NABARD 
+commenced the “Research and Policy” series to commission 
+review ­papers on ­various themes to bring research findings 
+on a given theme in a capsule form.
+With this series, veteran scholars in different fields of specialisation have been 
+requested to document research in their field highlighting various issues, policy 
+­relevance and prescriptions, and suggestions for future research. I am glad to present 
+the paper on “Climate Change and Risk Management in ­Indian Agriculture” by Dr. 
+Pratap Singh Birthal who has been an authority on the ­subject.
+The series will present more such authoritative papers on various issues ­ranging 
+from climate change to agricultural policy in the coming months. I hope that series 
+will be beneficial to academicians, researchers and policy ­makers for use at the ground 
+level. 
+My best wishes to the authors and the Department of Economic Analysis and 
+­Research (DEAR) for initiating such wonderful series.
+Dr. G. R. Chintala
+ii
+iii
+Foreword
+There is a vast body of research available on topics ­related 
+to agriculture and rural development in the academic 
+world. But, most of it is in the technical realm and not in 
+a form which could feed into the policy. Research must 
+first lead to better understanding of a subject and then 
+into a robust policy, wherever it can, so that it touches 
+the multitude of Indians across the length and breadth 
+of our ­country through better public policy and efficient 
+services. ­Discussion with my colleagues on this issue 
+lead to this new series “Research & Policy”. We wish that 
+this series will provide the breadth and depth of research into an area topped up by a 
+lucid presentation for the policy makers. 
+I am happy to present the fourth publication in this series on “Climate Change and 
+Risk Management in Indian Agriculture” written by Dr. Pratap Singh Birthal.
+I wish this new series acts as a bridge between the researchers & policy makers.
+ 
+P. V. S. Suryakumar
+Deputy Managing Director
+ 
+iv
+v
+Preface
+Agriculture sector proved a silver lining in the  pandemic  
+period registering a positive growth in the covid times. Yet it 
+faces various structural challenges to be  addressed to make 
+it profitable. For, most of the  population is still  dependent 
+on the sector. As we all know,  investing in research is one of 
+the best strategies to address  problems of  agriculture. 
+Equally important is to  communicate the  research findings 
+to policy makers to design and tweak  policies that matter. 
+During one of our meetings with Shri P. V. S. Suryakumar, 
+our DMD, we had loud  thinking if we can commission a 
+few review  papers on a select themes. We thought that it is appropriate to request 
+veteran scholars who spent prime of their life on a given research theme to attempt 
+such a work where they will distil their understanding and the research done on the 
+theme in a short  paper. Duly encouraged by DMD and Chairman, we wrote to a dozen 
+eminent scholars. And the response was overwhelming  resulting in  Department of 
+ Economic  Analysis and Research (DEAR), the research wing of  NABARD, initiating 
+the ‘ Research and  Policy’ series. The motivation is, thus, to get a few handles from 
+research that can help  effective policy intervention. This series will be useful to policy 
+makers and  researchers alike. 
+The ‘Research and Policy’ series is an attempt to get a glimpse of  hardcore research 
+findings in a capsule form thereby making it more effective and  communicative to 
+policy makers. The group of researchers who agreed to  prepare a review of research 
+have spent their life in the field of agricultural research. Our purpose here, as we 
+communicated to them, was not just to get literature survey but to get researcher’s 
+heart and their experience which they gained during their long passionate innings. 
+The paper is expected to highlight various issues, policy relevance, prescription, and 
+suggestion for future papers on the themes of interest to NABARD.
+With agriculture being a primary source of livelihood for most of I ndians and 
+significant proportion of it being under rainfed conditions, the  current paper on 
+‘Climate Change and Risk Management in Indian  Agriculture’ written by Dr. Pratap 
+Singh Birthal, Professor, National Institute of  Agricultural Economics and  Policy 
+vi
+Research, New Delhi, assumes importance. Dr. Birthal has an illustrious  academic 
+career, and his research interests include agricultural economics,  livestock develop-
+ment policy, agri-food value chains and climate change impacts and  adaptations.
+The present paper aims to analyse different approaches used for estimation and 
+predictions 
+of 
+climate 
+change 
+impact 
+on various crops 
+for different 
+time  
+periods,  geographies, crop seasons and climatic conditions majorly in terms of yield 
+loss.  Further, it analyses how different management strategies such as crop  
+diversification, irrigation, 
+stress-tolerant 
+seeds, 
+agronomic  management, 
+crop 
+insurance, social  safety nets, etc reduces the risk and sensitivity to  climate 
+change. The author also  identifies a number of research gaps that must be  
+addressed in light of the predicted rise in the frequency of extreme climate events in 
+plausible future climatic  scenarios. At the end the author highlights way forward for 
+designing and implementing  effective  policies in making  agriculture resilient to climate 
+change. Overall, the paper is a food for thought to the readers. 
+In bringing this series as planned, we would like to express our sincere  gratitude to 
+Dr. G. R. Chintala, Chairman, NABARD for his inspiring  leadership, unstinted  
+support and guidance. We also wish to express our sincere thanks to Shri P. V. S. 
+Suryakumar, DMD, for being the inspiration and the driving force behind the  
+publication of this first of its kind series. We are grateful to the  authors of this series 
+who agreed to write on themes relevant to NABARD in such a short period of time. 
+Indeed, it has been a great privilege for us. 
+I also acknowledge the contributions of the officers of DEAR, NABARD 
+especially Dr. Ashutosh Kumar, DGM; Mrs. Geeta Acharya, Manager; Ms Neha  
+Gupta, Shri Vinay Jadhav, Assistant Managers, and others who coordinated with the 
+authors and the editor to bring out the series as envisaged.
+Thanks are due to Dr. J. Dennis Rajakumar, Director, EPWRF and his team for 
+their contribution in copy editing and bringing uniformity to the document.
+Hope this booklet and the series would interest all stakeholders.
+K. J. Satyasai
+Chief General Manager
+Department of Economic Analysis and Research (DEAR)
+NABARD, Mumbai-400051
+vii
+Acknowledgement
+This research report would have not been possible without the financial support 
+from National Bank for Agriculture and Rural Development (NABARD). My sincere 
+thanks to Dr. K. J. Satyasai, Chief General Manager, Department of Economic 
+Analysis and Research (DEAR), NABARD, for giving me this opportunity and for 
+providing suggestions at various stages of the work. I also thank the other officers of 
+DEAR for their support.
+Pratap Singh Birthal 
+ICAR National Professor
+ICAR-National Institute of Agricultural Economics and Policy Research
+DPS Road, New Delhi-110 012
+viii
+ix
+Contents
+	
+Chairman’s Message	
+i
+	
+Foreword	
+iii
+	
+Preface		
+v
+	
+Acknowledgement	
+vii
+	
+List of Tables	
+xi	
+	
+List of Figure	
+xiii
+	
+Abbreviations	
+xv
+	
+Executive Summary	
+xvii
+	
+1	
+Introduction	
+1
+2	
+Impact of Climate Change on Agriculture	
+4
+3 	 Risk Management Strategies	
+14
+4 	 Policies and Institutions	
+21	
+	
+5	
+Conclusions and Implications	
+25	
+	
+References	
+28	
+x
+xi
+List of Tables
+    No.	 	    Title	
+Page
+ 1	
+Projected Impact of Climate Change on Crop Yields	
+7
+ 	
+and their Area Shares (%)
+	
+2 	
+Returns and Loss in Different Crops by Source of Risk (Rs/ha) 	
+9
+	
+3 	
+Rice Yield Loss due to Droughts in India	
+10
+	
+4 	
+Frequency Distribution of Risk Management Measures	
+19
+	
+Practiced by Farm Households
+	
+5 	
+Average Treatment Effects of Risk Management Strategies 	
+20
+	
+(% Change had the Adopters not Adopted)
+xii
+xiii
+List of Figure
+     No.	 	    Title	
+Page
+     
+ 	
+1 	
+Trend in Average Temperature in India, 2003 to 2096  	
+2	
+xiv
+xv
+Abbreviations
+CROPGRO	
+Crop Growth 
+DEAR	
+Department of Economic Analysis and Research 
+DSSAT	
+Decision Support System for Agrotechnology Transfer 
+EM-DAT	
+Emergency Events Database
+GVA	
+Gross Value Added
+ICAR 	
+Indian Council of Agricultural Research 
+ICT 	
+Information and Communication Technology
+IPCC	
+Inter-Governmental Panel on Climate Change
+KVKs	
+Krishi Vigyan Kendras
+MGNREGA	
+Mahatma Gandhi National Rural Employment Guarantee Act
+NABARD	
+National Bank for Agriculture and Rural Development 
+NAPCC	
+National Action Plan on Climate Change 
+NARS	
+National ­Agricultural Research System 
+NGOs 	
+Non-Governmental Organizations 
+NICRA	
+National Innovations on Climate Resilient Agriculture 
+PDS 	
+Public Distribution System
+RCP	
+Representative Concentration Pathway
+SMS 	
+Short Message Service 
+xvi
+xvii
+Executive Summary
+Climate change has emerged as a big threat to the sustainable ­development of 
+­agriculture, food and nutrition security, and livelihoods of millions of smallholder 
+farmers. Predictions suggest a significant rise in the surface ­temperature and the 
+­frequency of climate extremes such as droughts, floods, heat waves and cold waves 
+in the plausible future climate scenarios. An ­increase of 1.5°C in the temperature is 
+­predicted to severely affect crop yields and food ­supplies, ­human and animal health, 
+and ecosystem services. Towards the end of this century, ­India’s surface ­temperature 
+under the moderate greenhouse ­representative ­concentration pathway (RCP) 4.5 is 
+expected to increase by 1.57°C over its level in 2019. This paper undertakes a ­critical 
+review of the literature on ­climate change impact on Indian agriculture and their 
+­management in order to ­identify gaps in the existing literature and to draw lessons 
+for ­reorientation of ­agricultural research, institutional and policy landscapes for 
+­enhancing ­efficiency, sustainability and resilience of agriculture.
+Impact of Climate Change
+Several studies have investigated the impact of climate change on Indian ­agriculture 
+using different datasets and estimation procedures. Under the ­controlled experiments, 
+the impact of climate change on crop yields are often negative for most crops, but 
+upwardly biased because of the non-accounting of technological ­advancements and 
+autonomous adaptations. To overcome this limitation, the economists have relied on 
+the production function approach, wherein the crop yield or agricultural productivity 
+is regressed on climate variables, controlling for several other covariates, to recover 
+the impact of climate change. Notwithstanding the proliferation in the literature on 
+climate change impact, there remain some gaps in the empirical literature.
+(i) 	
+The research on climate change impact has focussed primarily on the 
+staple food crops, ignoring the horticultural crops, dairying and ­animal 
+­husbandry, and fisheries, which together comprise about 60% of the 
+­agricultural gross value added (GVA), and these are ­expected to drive 
+­future growth in agriculture. These activities are more ­exposed to climate 
+risks, from farm to fork, hence, need greater focus of ­research on climate 
+change impact and their management. 
+xviii
+(ii)	
+Indian agriculture, in spite of the significant expansion of irrigation 
+­facilities, remains a gamble on the monsoons. Predictions indicate a ­little 
+or no change in the quantum of rainfall, but a significant change in its 
+­temporal distribution in terms of fewer but concentrated rainy days. This 
+suggests the need to probe into the relationship between timings of rainfall 
+and crop yields. Likewise, our understanding of the impact of the ­timings 
+of heat stress during crop development is also limited. The research should 
+focus on ‘how variations in ­temperature and precipitation at different 
+­stages of crop development influence its performance’. 
+(iii)	
+The quality of natural endowments, especially soils and groundwater, plays 
+an important role in moderating the impact of climate change on crop 
+choices and crop yields. Yet, there is limited ­empirical ­evidence on how the 
+quality of natural endowments influences ­climate change impact? For the 
+context-specific climate adaptation strategies, it is essential to know the 
+role of natural endowments in shaping climate change impact. 
+(iv)	
+Studies have predicted the impact of climate change on ­agricultural 
+­productivity and food supplies on the assumption that the current 
+­acreage allocations or cropping patterns would persist in the long run 
+also. ­Nonetheless, the possibility of a change in the crops’ comparative 
+­advantage due to climate change cannot be ignored. Hence, it is imperative 
+to know through empirical studies the likely impact of climate change on 
+the intra-regional and inter-regional shifts in land use. 
+(v)	
+Farmers face multiple climate risks, namely, droughts, floods, heat waves 
+and cold waves, hailstorms and cyclones; yet, there is hardly any study 
+that has concurrently investigated the impact of ­multiple climate risks 
+on crop yields or agricultural productivity. More ­analysis is required on 
+their ­relative impact for the evidence-based feedback for prioritisation of 
+­strategies to manage their adverse effects.  
+(vi)	
+Literature on climate change impact has focused mainly on the upstream 
+of agricultural supply chains. Nonetheless, there is a very high probability 
+that climate impact would transmit from upstream to downstream of the 
+supply chain affecting the actors and activities all along the supply chain. 
+xix
+Research is required on the mechanisms of risk transmission along the 
+supply chain, and its impact on the ­efficiency and sustainability of different 
+segments of the chain. 
+Risk Management Strategies 
+Farmers do not passively tolerate the climate risks. Based on their exposure to 
+climate anomalies in the past, attitudes towards risk and access to information and 
+finances, they use several traditional as well modern risk ­management ­measures. 
+The traditional measures include the use of stress-­tolerant crops, changes in 
+­planting dates and input applications, including that of ­irrigation and ­fertilizers, and 
+soil and ­water conservation techniques. The modern ­measures are crop ­insurance 
+and ­hedging. Based on their risk functions, these measures can be classified as 
+­risk-mitigating, ­risk-transferring and risk-­coping. The ­evidences show that ­farmers 
+benefit from the adoption of all types of risk ­management strategies, but more from 
+their joint ­adoption. Crop ­diversification is observed to enhance farm ­productivity 
+and lower risk ­exposure. Irrigation plays a dual role in raising crop yield and 
+­reducing its ­sensitivity to heat stress and droughts. Crop insurance also ­improves 
+farm ­productivity and reduces downside risk exposure, but not as much as what 
+­irrigation does. The risk ­benefits of irrigation, however, have been observed to have 
+slowed down. 
+Nevertheless, the literature on the adoption of risk management measures/­
+strategies and their impact is not adequate to draw creditable inferences for ­advocating 
+their mainstreaming into the agricultural development policies. More research is 
+­required on the following issues:
+(i)	
+Preparation of an inventory of farmers’ adaptation measures, ­including the 
+traditional and modern, formal and informal, direct and indirect, against 
+different climatic shocks; and elicit farmers’ opinions on their potential net 
+adaptation benefits or trade-off between their income and risk functions, 
+and accordingly prioritize these to provide feedback to policymakers for 
+­refining and implementing them at the farm level. 
+(ii)	
+The concept of ‘climate-smart agriculture’ derives its strength from ­scientific 
+innovations and improved agronomic practices, but it ­ignores ­several 
+xx
+­traditional practices that hold the promise of raising farm income and 
+­reducing risk. In smallholder agrarian ­economies, the ­integration of ­scientific 
+innovations and traditional practices ­possibly comprise an ­important means 
+of increasing productivity, ­sustainability and resilience of agriculture. It is, 
+therefore, important to develop ­optimal crop- and location-specific packages 
+of climate-smart practices blending the scientific ­innovations and farmers’ 
+self-risk adjustment practices. 
+(iii)	 Farmers’ 
+face 
+several 
+technological, 
+informational, 
+psychological, 
+­sociocultural, financial and institutional barriers to the adoption of risk 
+­management strategies. There is a need for more studies on the ­identification 
+and prioritisation of constraints to the adoption of ­climate-smart ­technologies 
+and practices. 
+Policies and Institutions 
+The state has an important role in imparting resilience to ­agriculture through, 
+one, designing context-specific policies and programmes, and ­ensuring their 
+­implementation through better coordination across different ­administrative levels 
+for the smooth flow of information, knowledge and ­resources to farmers; and, two, 
+convergence of different programmes being implemented by different ministries and 
+departments for efficient use of financial and human ­resources. Yet, there is a lack of 
+coordination across different administrative levels in ­targeting climate mitigation and 
+adaptation programmes, and convergence among different programmes. There is a 
+need for evidence-based recommendations for mainstreaming the climate mitigation 
+and adaptation strategies into the ­agricultural and economic development agenda in 
+certain areas to:  
+(i)	
+Analyze strengths and weaknesses of the existing climate adaptation ­projects 
+at their different levels of implementation, and draw lessons for alleviating 
+administrative, financial, informational and human ­resource barriers to 
+­improve their implementation efficiency.
+(ii)	
+Map linkages between different programmes or projects ­implemented 
+by ­different ministries and departments, and assess the potential ­social, 
+­economic and environmental benefits from their convergence. 
+xxi
+(iii)	 Explore opportunities and constraints in financing mitigation and 
+­adaptation strategies all along the agricultural supply chain from ­genetics 
+to ­end-consumption, and identify the prospects for the ­enhanced interface 
+of the financial institutions with other ­stakeholders including the public and 
+private sector organisations. 
+(iv)	 Estimate returns on investment in research on climate-resilient ­activities 
+such as crop breeding for stress tolerance and ­management of natural 
+­resources, and also returns on investment in agromet ­advisory services.  
+xxii
+ 	
+Climate Change and Risk Management 
+in Indian Agriculture
+1.  Introduction
+Over the past five decades, the innovations in crop, animal breeding and ­natural 
+resource management, supported by the massive public investment in ­irrigation, 
+­infrastructure and institutions, and the economic incentives (i.e., ­input subsidies and 
+output support prices) have spurred considerable growth in agricultural ­productivity 
+and food supplies in India, turning it ­self-sufficient in several food commodities 
+­despite the rapid growth in population. Yet, ­agriculture remains at a crossroads. The 
+­technological gains realised in the ­initial phases of the agricultural revolutions (i.e., 
+green, white and blue) have started ­decelerating (Birthal 2019), but the need to produce 
+more and diverse foods from limited ­resources (i.e., land and water) remains as urgent 
+as in the past. By 2050, India’s population is expected to cross 1.6 billion mark, and it 
+will be accompanied by significant demographic and economic transitions. More than 
+half of the population will live in cities and towns, and it will be more affluent than 
+ever. These factors will fuel a significant increase in the demand for food — more for 
+the horticultural and animal source foods (Hamshere et al. 2014).
+On the other hand, the efforts towards increasing the food supplies would ­confront 
+several biotic and abiotic stresses, including the quantitative and ­qualitative ­deterioration 
+of natural resources (i.e., land and water), ­increasing pest pressures and ­shrinking farm 
+size. Since the early 1970s, India’s net cropped area has been ­stagnating around 140 
+million hectares, indicating little ­prospects of accelerating ­agricultural growth through 
+area expansion (Birthal et al. 2014a). Moreover, about 104 million hectares of arable 
+land suffers from one or the other kind of ­degradation. The annual water availability has 
+fallen to 1441 m3 per capita in 2015, which is ­lower than the ­water-stressed norm of 1,700 
+m3 (Government of India 2019). ­Currently, ­agriculture uses about 84% of the available 
+water. But its household and ­industrial ­demand is expected to increase faster due to the 
+increasing urbanisation and ­expanding ­industrialisation. 
+More importantly, climate change and its manifestation, as extreme events such 
+as droughts, floods, heat and cold waves, hailstorms and cyclones, have emerged as a 
+big threat to the sustainable development of agriculture and ­livelihoods of ­millions of 
+2
+Pratap Singh Birthal
+poor farmers and consumers. From 1950 to 2010, ­India’s average surface ­temperature 
+increased by 0.11°C per decade (Mani et al. 2018), and it is predicted to increase ­further 
+in the plausible future climate scenarios. Even under the RCP4.51 — the ­moderate 
+greenhouse concentration pathway — by 2099, the average surface ­temperature is 
+­expected to be 1.57°C higher over its current level (i.e., in 2019), and under the RCP8.5, 
+it will by 4.36°C higher (Figure 1). 
+The rising temperature will be accompanied by an increase in the ­frequency of 
+extreme climatic events such as heat waves and droughts (World Bank 2013; Sanjay 
+et al. 2020). Although the amount of rainfall is unlikely to change much, there will 
+be a considerable variation in its inter-regional and within-season distribution, lead­
+ing to droughts and floods (World Bank 2013; Mani et al. 2018; Sanjay et al. 2020). 
+The frequency of all types of climate extremes has increased in India in the recent 
+past, and often in tandem (Birthal et al. 2021a). For ­example, the lower Indo-Ganget­
+ic plains often experience the ­simultaneous occurrence of droughts, heat waves and 
+floods. The greater the frequency of an extreme climatic event, the greater is its nega­
+tive impact on agriculture and agriculture-based livelihoods. Hence, understanding 
+their consequences on agricultural and overall economic growth, food and nutrition 
+security, poverty, animal and human health, and ecosystem is essential to designing 
+effective contemporary policies and institutions for their mitigation and adaptation. 
+ 
+ 
+ 
+Source: https://climateknowledgeportal.worldbank.org/country/india/climate-data-projections 
+ 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+2003
+2006
+2009
+2012
+2015
+2018
+2021
+2024
+2027
+2030
+2033
+2036
+2039
+2042
+2045
+2048
+2051
+2054
+2057
+2060
+2063
+2066
+2069
+2072
+2075
+2078
+2081
+2084
+2087
+2090
+2093
+2096
+degree C 
+Figure 1: Trend in Average Temperature in India, 2003 to 2096 
+RCP2.6
+RCP4.5
+RCP6.0
+RCP8.5
+3
+Climate Change and Risk Management in Indian Agriculture
+Climate change impact are disproportionately distributed across populations and 
+countries. Developing countries, which heavily depend on agriculture and lack tech­
+nologies and finances for risk management, suffer more from ­climate risks. Dell et al. 
+(2012) had shown that excess temperature had a larger ­negative impact on agricul­
+tural growth in the developing countries than in the ­developed countries. In a recent 
+study, Ortiz-Bobea et al. (2021) had shown that since 1960, climate change had slowed 
+down the productivity growth of world ­agriculture by 21%, with a bigger impact in the 
+developing countries. Birthal et al. (2021a) also reported similar evidence for India; 
+they found ­climatic ­hazards reducing the productivity growth by one-fourth and a 
+bigger reduction in it in the low-income and more agrarian states. 
+The socio-economic consequences of the negative impact of climate change on ag­
+riculture are also more pronounced for developing countries. ­Hallegatte et al. (2016) 
+reported that climatic shocks had caused a ­disproportionately large increase in the un­
+dernutrition and poverty rates in South Asia and ­Sub-Saharan Africa than elsewhere 
+in the world. Many other studies (Bhandari et al. 2007; Hill and ­Mejia-Mantilla 2015; 
+Amare et al. 2018) also reported a substantial reduction in the household ­income and 
+consumption expenditure due to the ­negative rainfall shocks. For ­instance, in India, 
+in a drought year, the household income was less by 25%-60%, and the head-count 
+poverty was higher by 12%-33% (Bhandari et al. 2007). The long term ­consequences of 
+frequent ­exposure to multiple risks could be devastating — they may result in ­depletion 
+of the household savings, sale of assets and increase in their indebtedness; act as a 
+disincentive to the adoption of new technologies and innovations; and, cause degra­
+dation of the natural resources and ecosystem services (Rosenzweig and Binswanger 
+1993; Dercon 2004; Dercon and Christiaensen 2011; Bhandari et al. 2007). There is 
+an apprehension that the poor farmers, in the absence of mitigation and adaptation 
+measures, may not fully recover from the impact of climatic shocks and remain in 
+low-income trap and perpetual debt and poverty (Dercon and ­Christiaensen 2011; 
+Vargas and Angelino, 2012). 
+Nonetheless, it has also been demonstrated concurrently that the adverse ­impact 
+of climate change on agriculture and agriculture-based livelihoods can be offset by 
+following comprehensive integrated approaches, encompassing the technological 
+­advances in agriculture, meteorology, information and communication and data 
+­sciences, and the traditional cropping practices that farmers ­follow as a part of their 
+4
+Pratap Singh Birthal
+farm management. Depending on the degree of risk-aversion, resource endowments 
+and access to information and finances, the farm households use one or the other 
+measure to manage the climate risks. From a comprehensive review of the adaptation 
+literature, Altieri and Nicholls (2013) noted that in smallholder-dominated ­agrarian 
+economies, the ­integration of scientific innovations with traditional practices was 
+one of the robust paths to increasing productivity, sustainability and resilience of 
+­agriculture. 
+This paper presents a synoptic view of the empirical literature on the impact of 
+climate change on Indian agriculture and their management. ­Specifically, it identi­
+fies gaps in the existing empirical literature and suggests future ­research and policy 
+priorities, and their mainstreaming into the ­agricultural and ­economic development 
+agenda. Globally, the empirical literature on ­climate change impact on agriculture 
+and agriculture-based livelihoods, and their management has proliferated in the 
+­recent past. However, in this paper, we restrict our observations drawn from studies 
+that have focussed on Indian ­agriculture. 
+The next section provides a comprehensive assessment of the impact of ­climate 
+change on agriculture and agriculture-based livelihoods. Section 3 ­deliberates on 
+the risk management strategies and their impact on farm ­income and downside 
+risk ­exposure. Section 4 discusses the technological, ­institutional and policy issues 
+­towards making agriculture climate-resilient agriculture. Concluding remarks are 
+made in the last section.  
+2. Impact of Climate Change on Agriculture
+Climate change influences agriculture and agriculture-based livelihoods both 
+directly and indirectly. Its direct effects include changes in the yields of crops and 
+animals. It indirectly influences the yields through the supply and ­demand for irriga­
+tion, inputs and energy, and the behavioural changes in ­insect pests and diseases. The 
+impact of climate risks could transmit along the supply or value chains from genetics 
+to end-consumption, affecting the ­efficiency and sustainability of the entire chain and 
+the livelihoods of chain actors. 
+Climate change may alter rainfall behaviour, in terms of its quantum and distri­
+bution. Excess rainfall often leads to floods and deficit rainfall to droughts. Lesser 
+5
+Climate Change and Risk Management in Indian Agriculture
+rainfall means less recharge of aquifers, limiting the supply of water for irrigation. 
+A rise in temperature leads to an increase in ­evapotranspiration rate, and therefore 
+more demand for irrigation water. Climate change is also ­expected to alter the pest 
+behaviour — changes in the infestation level, the ­resistance and resurgence, and the 
+emergence of new pests under the changed climatic conditions.  
+Several studies have investigated the impact of climate change on Indian agricul­
+ture employing different datasets and estimation procedures. Biological scientists of­
+ten rely on the controlled experiments to quantify the impact of changes in a weather 
+parameter, mainly temperature, on crop yields. ­Ceteris paribus, under the controlled 
+conditions, a crop is subjected to varying ­degrees of temperature, and then its yield is 
+compared across temperature levels to ­recover the magnitude of yield loss (Sinha and 
+Swaminathan 1991; Lal et al. 1998; Saseendran et al. 2000; Aggarwal and Mall 2002; 
+Mall et al. 2006; Kalra et al. 2007; Aggarwal 2009; Srivastava et al. 2010; Kumar et al. 
+2013, 2014a, 2014b, 2015, 2019, 2020). The estimates of yield loss are used to predict 
+crop yields in plausible future climate scenarios using biophysical crop models such 
+as ­Decision Support System for Agrotechnology Transfer (DSSAT) and crop growth 
+(CROPGRO). From a series of experiments, Kumar et al. (2013, 2014a, 2014b, 2015, 
+2019, 2020) had demonstrated that climate change negatively ­impacted yields of most 
+field crops. By 2040, under the RCP4.5, the yield of wheat was expected to be 9% less, 
+irrigated rice 12%, maize 18%, ­mustard 12% and potato 13%. Srivastava et al. (2010) 
+estimated a loss of 2.5% for rainfed sorghum. Aggarwal (2009) reported that a 1.0°C 
+rise in the mean temperature could reduce wheat, soybean, mustard, groundnut and 
+potato yields in the range of 3% to 7%. By 2099, if the mean temperature were to rise 
+by 2.5°C-4.9°C, the damages would be in the range of 10%-40%. However, crops like 
+groundnut, soybean and cotton are predicted to benefit from the rise in ­temperature. 
+Scientific studies have also come out with evidence of mixed impact of ­climate 
+change on crop yields depending on the geographical locations. By 2050, pearl ­millet 
+yield is predicted to decline by 4%-14% in Maharashtra and to increase by 8% in 
+Haryana (Singh et al. 2017). Likewise, Singh et al. (2014) had predicted an increase of 
+­17%-25% in chickpea yield in Haryana and ­Madhya Pradesh, but a ­decline of ­7%-16% 
+in Andhra Pradesh. The opposing impact of climate change on the ­performance 
+of a crop under different geographical or agro-climatic conditions could be due to 
+the ­measurement errors, differences in genetic potential of crop varieties (yield 
+6
+Pratap Singh Birthal
+­improvement versus stress ­tolerance) and agronomic practices including planting 
+dates, input use and plant care. 
+The experimental approach to the estimation of climate change impact is ­criticised 
+for not accounting for the real farmers’ behaviour in real settings (Dell et al. 2014). For 
+example, modelling climate change impact using ­experimental data does not ­account 
+for the technological advances and autonomous ­adaptations happening over time, and 
+therefore these are often ­overestimated. To overcome this limitation, Mendelsohn et 
+al. (1994) proposed a new approach that estimates cross-section ­regressions with land 
+values as a function of the climate variables. The approach was termed the ­‘Ricardian 
+­approach’. They arrived at much smaller estimates of climate impact as ­compared to 
+those ­obtained from controlled experimentation. ­Nonetheless, one of the criticisms 
+of the Ricardian approach is that it does not account for the ­influences of ­availability 
+of irrigation and remoteness on land values. Deschênes and Greenstone (2007) also 
+­criticised this approach on the ground that cross-section ­hedonic ­regressions ­produced 
+biased results because of the unobserved ­determinants of ­agricultural ­productivity 
+that were correlated with climate variables. They proposed a panel data approach to 
+exploit year to year within-country ­variation in weather variables to ­estimate their 
+­impact on crop yields or agricultural ­productivity. This approach has been widely 
+­applied to estimate the impact of climate change on agricultural ­production ­(Schelnker 
+and Roberts 2009; Yu and Babcock 2010; Birthal et al. 2014b, 2014c; Birthal et al. 
+2015a; Zaveri and Lobell 2019). 
+Employing the fixed effects regression approach to a panel of highly ­disaggregated 
+district-level data, Birthal et al. (2014b) assessed the impact of climate change on 
+yields of several crops — five rainy season crops (rice, maize, sorghum, pigeon-pea 
+and groundnut) and four post-rainy season crops (wheat, barley, chickpea and rape­
+seed-mustard). They found that a rise in maximum temperature negatively impacted 
+crop yields, but a similar rise in minimum temperature had a positive impact. None­
+theless, the positive impact of the rise in minimum temperature is not found sufficient 
+to fully compensate for the loss due to the rise in maximum temperature. Guntu­
+kula and Goyari (2020) also ­reported similar evidence for some important crops in 
+Telangana state. Further, Birthal et al. (2014b) predicted crop yields under different 
+plausible climate ­scenarios in 2035, 2065 and 2099, and found a decline in the yield 
+of most crops (except rapeseed-mustard) across all time slices. For instance, by 2065, 
+7
+Climate Change and Risk Management in Indian Agriculture
+with an increase of 2.5°C in the annual temperature and no change in the rainfall 
+patterns, the yields of the rainy season crops will be lower by ­3.7%-17.3%, and of the 
+post-rainy season crops by 4.7%-18.6%. Amongst the rainy season crops, pigeon-pea 
+would ­suffer the most (17.3%), followed by rice (11.5%), groundnut (8.6%), sorghum 
+(5.3%) and maize (3.7%). In the post-rainy season, chickpea would be more affected 
+(18.6%), followed by wheat (15.4%) and barley (4.7%). Mustard is likely to gain but at 
+the margin (0.7%). The ­impact would be much larger towards the end of this century. 
+Most studies predict likely impact of climate change on food supplies in the 
+­plausible future climate scenarios on the assumption of a no change in the ­current 
+land use (i.e., acreage allocation to different crops). The ­assumption is quite ­restrictive, 
+as there is always a possibility of a change in crops’ ­comparative advantage due to 
+­technological change, technical efficiency, ­input costs and output prices. Using a panel 
+of district-level data, Birthal et al. (2021b) predicted the impact of climate change 
+on cropping patterns in India, presupposing that climate change influences ­farmers’ 
+acreage allocation decisions via its effects on crops’ comparative advantage. They 
+first predicted crop yields, and then the predicted yields were used to know the likely 
+changes in the area shares of crops. The findings are reproduced in Table 1. Under 
+the RCP4.5, the yields of the different crops are predicted to be 1.8%-6.6% less in the 
+Table 1: Projected Impact of Climate Change on Crop Yields and their Area Shares (%)
+	
+Rabi	
+Kharif	 	
+	
+	
+Wheat	Chickpea	Rapeseed-	Barley		 Paddy	 Maize	 Millets 	Pigeon-	Ground-	Cotton
+	
+	
+	
+Mustard	
+	
+	
+	
+	
+	
+pea	
+nut	
+	
+Yield 	 	
+	
+ Medium-term (2040-2060)	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ RCP4.5	 -3.10	
+-6.61	
+-5.08	
+-3.76	 	 -5.52	 -4.72	 -3.92	
+-5.97	
+-3.80	
+-1.83
+ RCP8.5	 -7.08	
+-15.10	
+-11.59	
+-8.59	 	 -21.22	 -18.13	 -15.06	 -22.95	
+-14.60	
+-7.03
+ Long term (2061-2080)	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ RCP4.5	 -8.55	
+-18.22	
+-13.99	
+-10.37	 	 -21.81	-18.64	 -15.48	 -23.59	
+-15.01	
+-7.23
+ RCP8.5	 -18.27	 -38.95	
+-29.91	
+-22.16	 	-43.06	-36.79	 -30.57	 -46.58	 -29.63	 -14.27
+	
+Area Share 	
+	
+	
+ Medium run (2040-2060)	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ RCP4.5	 -0.17	
+-0.36	
+-0.27	
+-0.20	 	 -0.30	 0.25	
+-0.21	
+-0.32	
+-0.20	
+-0.10
+ RCP8.5	 -0.38	
+-0.81	
+-0.62	
+-0.46	 	 -1.14	
+0.98	
+-0.81	
+-1.24	
+-0.79	
+-0.38
+ Long run (2061-2080)	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ RCP4.5	 -0.46	
+-0.98	
+-0.75	
+-0.56	 	 -1.17	 -1.00	 -0.83	
+-1.27	
+-0.81	
+-0.39
+ RCP8.5	 -0.98	
+-2.10	
+-1.61	
+-1.19	 	 -2.32	 1.98	
+-1.65	
+-2.51	
+-1.60	
+-0.77
+ Source: Birthal et al. (2021b).	
+	
+	
+	
+	
+	
+	
+8
+Pratap Singh Birthal
+­medium-term (2041–2060) and 7.2%-23.6% less in the long-term (2061–2080). Yet, 
+this ­heterogeneity in the yield response of crops to temperature is not found to cause 
+any perceptible intra-regional and inter-regional shift in the cropping patterns. The 
+area shares of crops decline by 0.1-0.4 percentage points in the medium-term, and 
+0.4-1.3 percentage points in the long-term. 
+Several studies have also estimated the impact of climate change on ­aggregate 
+agricultural productivity rather than on yields of individual crops (Sanghi et al. 1998; 
+Mendelsohn et al. 2001; Kumar and Parikh 2001; Sanghi and Mendelsohn 2008; 
+­Kumar 2011). Their findings show that a probable rise of 2.0°C in annual ­temperature 
+and a 7% increase in annual rainfall by 2099 may reduce the productivity of Indian 
+agriculture by 8%-12%. Guiteras (2009) estimated short-term as well as long-term 
+­impact, and found that with a 0.5°C rise in annual temperature and an increase of 4% 
+in annual rainfall ­towards 2039, the agricultural productivity would be ­4.5%-9.0% 
+less. ­However, with significant changes in climate by 2099, the damages may ­increase 
+beyond 25%. Birthal et al. (2014c) found that with a 1.6°C increase in temperature 
+and a 7% increase in rainfall by 2065, the productivity of Indian agriculture was 
+­likely to be 15% less. They also compared the impact of climate change on ­agricultural 
+­productivity across different agro-climatic zones and found that agriculture would 
+­suffer more in the arid and semi-arid tropics than in the humid and semi-arid 
+­temperate regions. 
+The consequences of climate extremes such as droughts, heat waves, floods, 
+­cyclones, and cold waves are more severe than that of a gradual change in ­climate 
+change. In India, more than two-thirds of the geographical area is ­exposed to droughts, 
+with a probability of 35% occurrence at the ­national level, varying from 20% in the 
+­dry-humid regions to 40% or more in the arid regions ­(Government of India 2009). 
+Indian agriculture, therefore, remains a gamble on the monsoons, and this makes it 
+imperative to understand the crops’ ­response to the timings of monsoon or its with­
+in-season distribution. A few studies ­(Rosenzweig and Binswanger 1993; Jain et al. 
+2015; Kala 2017; Singh et al. 2020) have assessed the impact of a delayed monsoon 
+on the yields of the rainy season and post-rainy season crops, and found that delayed 
+­monsoon ­reduces the yields. Singh et al. (2020) had shown that a 10-days delay in 
+the ­onset of monsoon from its normal date of arrival could potentially reduce yields 
+of rainy ­season crops by 1.6%-5%, and of post-rainy season crops by ­1.1%-1.9%. This 
+9
+Climate Change and Risk Management in Indian Agriculture
+means that ­delayed monsoon not only adversely affects the yields of rainy season crops, 
+but also of post-rainy season crops through the residual soil ­moisture.  
+Using the farmers’ self-assessed crop losses due to different climate risks from 
+a nationally representative survey of farm households (i.e., Situation ­Assessment 
+­Survey of Agricultural Households) conducted in 2012-13 by the National Sample 
+Survey Office, Birthal et al. (2019a) had shown that, at any point of time, about one-
+third of the farm households were exposed to ­production risks and suffer an income 
+loss of over 12%. Drought is the most ­important cause of loss (47%), followed by pests 
+(27%) and floods (20%). Table 2 shows the ­values of crop outputs and the value lost 
+due to different ­production risks. Fruits, ­vegetables, plantation crops and cotton are 
+more remunerative to ­produce, but these are also more prone to production risks. 
+Nevertheless, as a proportion of the potential output, the loss in these crops is smaller 
+than in staple food crops. Interestingly, drought remains the most important cause of 
+loss in most crops, except vegetables and plantation crops that suffer more from insect 
+pests and diseases than from droughts and floods. 
+The possibility of the self-reported losses being overestimated cannot be overruled. 
+Using a panel dataset on rice-growing districts, Birthal et al. (2015a) ­constructed an 
+index of droughts multiplying the excess temperature and ­deficit rainfall, as against its 
+rainfall-based official measure2 and estimated a loss of 3.5% on average for ­1969-2005 
+(Table 3). The yield was hardly affected by the low-intensity droughts, but the severe 
+droughts had reduced it by 13.5%, and the moderate droughts by 2.2%. Importantly, 
+Table 2: Returns and Loss in Different Crops by Source of Risk (Rs/ha)
+  Crop	
+Gross Returns	
+Output Loss by Cause 
+	
+	
+Droughts	
+Pests	
+Floods	
+Others	
+Total
+  Fruits	
+232046	
+10653	
+5475	
+8445	
+2838	
+27410 
+  Sugarcane	
+148678	
+9357	
+5139	
+5391	
+436	
+20323
+  Plantation	
+134194	
+4469	
+4923	
+4612	
+2189	
+16193
+  Vegetables	
+97535	
+3763	
+4403	
+1121	
+759	
+10046
+  Cotton	
+52963	
+11698	
+1279	
+1332	
+470	
+14779
+  Paddy	
+49465	
+2831	
+970	
+1001	
+225	
+5027
+  Oilseeds	
+45391	
+4016	
+2137	
+1374	
+489	
+8015
+  Wheat	
+44677	
+1206	
+1397	
+1247	
+418	
+4268
+  Pulses	
+43880	
+3786	
+2705	
+1590	
+271	
+8352
+  Coarse cereals	
+24834	
+4268	
+1504	
+945	
+180	
+6897
+  Total	
+59510	
+3875	
+2239	
+1607	
+492	
+8213
+Source: Birthal et al. (2019a).
+10
+Pratap Singh Birthal
+they also observed a decline in the frequency of severe droughts and also the yield loss 
+associated with these. 
+Tripathi and Sindhi (2020), on the assumption of a significant correlation ­between 
+droughts and heat waves, estimated deviations in yields of 10 major crops in a drought/
+heat wave year over their previous normal, and as expected, crop yields in a drought 
+or heat wave year were lesser and the differences were bigger in case of severe events. 
+Heat stress is becoming a big threat to the sustainable improvement of crop yields 
+in India, especially of post-rainy season crops like wheat. Gupta et al. (2010), in their 
+assessment of the impact of the 2010 terminal heat wave on wheat crop in Punjab, 
+found that the heat wave reduced its yield by 1.3% to 21.5%. Chakraborty et al. (2019) 
+also evaluated the impact of the 2010 heat wave on wheat yield in northern states 
+and found it to have reduced the yield by 3.5-4.9%. Using the satellite data on the 
+daily ­temperature at different growth stages of wheat, Lobell et al. (2012) estimated 
+that a 2°C rise in temperature beyond the threshold level of 34°C during the ­anthesis 
+and grain filling stages could reduce yield by 10%-14%. Utilising a long series of the 
+­district-level data, Zaveri and Lobell (2019) showed a reduction in wheat yield by 
+about 5%, when the growing-period temperature crossed the assumed fixed ­threshold 
+level of 30°C. 
+The fixed temperature thresholds, as in Lobell et al. (2012) and Zaveri and 
+­Lobell (2019), are considered ambiguous, especially in a large country like India that 
+Table 3: Rice Yield Loss due to Droughts in India
+ Period	
+Severity of Drought	
+% of Total Events	
+% Yield Loss
+	
+Low	
+2.7	
+0.9
+1969-2005	
+Moderate	
+82.7	
+-2.2
+	
+Severe	
+14.6	
+-13.5
+	
+All 	
+100	
+-3.5
+	
+Low	
+2.3	
+3.0
+1969-1987	
+Moderate	
+76.8	
+-3.6
+	
+Severe	
+20.9	
+-16.8
+	
+All 	
+100	
+-1.8
+	
+Low	
+3.1	
+0.2
+1988-2005	
+Moderate	
+88.4	
+-1.3
+	
+Severe	
+8.5	
+-8.1
+	
+All 	
+100	
+-1.8
+Source: Birthal et al. (2015a).
+11
+Climate Change and Risk Management in Indian Agriculture
+ exhibit considerable heterogeneity in agro-climatic conditions in terms of frequency, 
+ intensity and persistence of excess temperature. Birthal et al. (2021c) constructed a 
+location-specific measure of heat stress taking into  account the frequency, intensity 
+and  persistence of excess temperature beyond its uniquely identified threshold at each 
+location, that is, district; and regressed wheat yield on district-specific time-varying 
+indices of heat stress. They found heat stress negatively impacting the crop yield, and 
+the impact became  stronger over time. On average, crop yield was reduced by about 
+3%. Further, they reported that the measure of heat stress built on multiple aspects of 
+excess  temperature  explained variation in yield better than does a single aspect of it. 
+Most studies have assessed the impact of one type of climatic event at a time, 
+while in practice farmers face multiple climate risks in a crop growing season. This 
+gives rise to the problem of attribution. Utilising information from the Emergency 
+Events Database (EM-DAT), Birthal et al. (2021a)  created a state-level panel of four 
+climatic hazards, namely, droughts, floods, heat waves and cold waves, for 1970-2018, 
+and assessed their impact on agricultural  productivity growth. All the climatic haz-
+ards were found to negatively impact productivity growth, but different hazards had 
+differential impact. Droughts and heat waves had a large negative impact compared 
+to floods and cold waves. On average, the climatic hazards slowed down agricultural 
+productivity growth by 25%, but more in the low-income and agrarian states.
+There is a plethora of evidence on the impact of climate change on  cereals,  pulses 
+and oilseeds, but only limited evidences are found on its impact on  horticultural and 
+plantation crops (i.e., fruits, vegetables, spices, aromatic and medicinal plants),  
+dairying, fisheries and poultry. It is instructive to note that these commodities  together 
+account for approximately 60% of the  agricultural gross value added (GVA), and their 
+contribution has been growing faster, over 5% a year, than the overall  agricultural 
+growth of 3.4%. Further, their  cultivation is labour-intensive, and is concentrated 
+among the marginal and small farm households (Birthal et al. 2014a). That means any 
+reduction in their outputs would directly translate into a negative effect on the 
+livelihoods of smallholder farmers, who are a force to reckon within the country. 
+Only a few studies have assessed the impact of climate change on  high-value  
+commodities, and the evidence is mostly anecdotal. Kumar and Aggarwal (2013)  reported 
+climate change to benefit coconut plantations along the  western coast, but it was found to 
+cause a significant loss in its yield in the eastern region.  Changes in the rainfall pattern 
+12
+Pratap Singh Birthal
+were found to significantly ­affect tea production in Assam ­(Nowogrodzki, 2019). With 
+climate change, the Arabica coffee plantations are likely to lose, and may shift to higher 
+altitudes (Merga and Alemayehu, 2019). 
+Climate change impact animal husbandry, directly as well as indirectly. The ­direct 
+effects are due to the animals’ exposure to climate extremes, and the ­indirect effects 
+are via changes in the quantity and quality of different types of feed (crop ­by-products, 
+green fodders and concentrate feed), availability of ­water and pest ­infestation 
+­(Rojas-Dowing et al. 2017). Climate risks to plants and animals in home gardens 
+have started becoming visible in West Bengal (Jana and Roy 2020). ­Thermal stress 
+affects the quantity and quality of milk, and the bodyweight of goats ­(Rojas-Dowing 
+et al. 2017). According to an ­estimate, by 2050 the climate change may reduce India’s 
+milk production by 15 million tons (NPCC 2012; Upadhyay et al. 2013). Crossbreeds 
+are more sensitive to ­climate change or thermal heat stress than their indigenous 
+­counterparts. In the Trans and Upper Gangetic plains of India, the heat stress would 
+cause a loss of milk production worth Rs. 24 billion by 2039 (Choudhary 2017). ­Poultry 
+­production is highly vulnerable to heat stress. An increase in temperature from 31.6°C 
+to 37.9°C has been reported to decrease feed consumption by 36% and egg ­production 
+by 7.5% (NPCC 2012). An increase in temperature beyond 42°C may cause mortality. 
+Climate change also affects fish production. It may ­alter the abundance and distri­
+bution of marine fish species, and their breeding and migration patterns. It is also 
+likely to exacerbate the negative impact due to changes in zoo and phytoplankton, 
+sea ­surface temperatures, precipitation changes, seawater acidification, sea surface 
+­salinity and oxygen deficiency. 
+Although the literature on the impact of climate change on crop yields and/­
+agricultural productivity in India has increased considerably in the past two decades, 
+there are several gaps in it. These are as follows:
+(i)	
+Our understanding of the impact of climate change on high-­value 
+­agriculture, including horticultural crops, dairying and animal ­husbandry 
+and ­fisheries, is limited. Notably, high-value agriculture is expected to drive 
+the future growth of agriculture, but is also more ­vulnerable to climate and 
+other risks. The research efforts should, therefore, be made to quantify 
+the impact of climate change on ­high-value crops, animal husbandry and 
+­fisheries. 
+13
+Climate Change and Risk Management in Indian Agriculture
+(ii)	
+Agriculture in India remains a gamble on the monsoons, despite a 
+­considerable expansion of irrigation infrastructure. Predictions ­indicate 
+a little or no change in the quantum of rainfall but ­significant changes in 
+its within-season distribution. This suggests a need to probe the relation­
+ship between the timings of rainfall and crop ­performance further. Our 
+­understanding of the impact of heat stress at different growth stages of crops 
+is also limited; hence, it is important to know ‘how variations in temperature 
+at different stages of crop development influence its performance’. 
+(iii) 	 The quality of natural endowment at a location, especially soils and ground­
+water, do matter in shaping the climate change impact on ­agriculture, in 
+terms of crop choices and crop yields. Yet, our ­understanding of the role of 
+the quality of natural resources, ­especially soils in moderating the impact of 
+climate change on agriculture is ­limited. For the location-specific adaptation 
+strategies, it is essential to know how the natural endowments influence the 
+impact of climate change on agriculture. 
+(iv)	 Most studies have assessed the likely changes in crop yields and food ­supplies 
+due to climate change on the assumption that the current cropping pattern 
+will persist in the future too. Crops differ in their response to climate change, 
+and there is a possibility of a change in crops’ comparative ­advantage in the 
+­plausible future climate ­scenarios, hence, on the farmers’ preferences for crops. 
+Studies are required on ‘how climate change will influence intra-regional and 
+inter-regional shifts in land-use within agriculture in the short and long run’. 
+(v)	
+Climate change manifests in several forms such as droughts, floods, heat 
+waves, cold waves, hailstorms and cyclones, and these extreme events have 
+not been subjected to a rigorous analysis for their impact on individual 
+crops or aggregate agricultural productivity. Empirical evidence is required 
+on the relative impact of each climatic shock on crop yields and/or over­
+all ­productivity of agriculture in order to devise and prioritise strategies to 
+manage them (Khatri-Chhetri et al. 2017).  
+(vi)	 Finally, the literature on climate impact has remained concentrated on the 
+upstream of the agricultural supply chains. There is a very high ­probability 
+that climate risks will transmit downstream the ­supply chain, influencing 
+14
+Pratap Singh Birthal
+the efficiency and sustainability of ­different ­segments of the chain. ­Studies 
+are required to understand the ­mechanisms of vertical transmission of 
+­climate risks and their impact on chain ­activities and actors.  
+3. Risk Management Strategies
+Farmers do not tolerate the risks to their livelihoods passively. Depending on
+the probabilities of weather aberration, farmers modulate their attitude towards 
+risk, ­access to information and finances, and resource endowments, and use many 
+­traditional agronomic practices to manage production risks (Bhattamishra and 
+­Barrett 2010; Jodha et al. 2012). Bahinipati et al. (2021) from a review of India-­specific 
+studies found a dearth of evidence on risk ­mitigation.  
+To manage the climate risks, farmers generally rely on the ­traditional ­agricultural 
+practices such as the use of stress-tolerant crops, changes in ­planting dates and 
+­input applications, including that of irrigation and ­fertilizers, and soil and ­water 
+­conservation techniques; and to a limited extent on the ­formal ­measures, for ­example, 
+crop ­insurance. These measures, based on their risk functions, can be ­classified 
+into three distinct risk management ­strategies, namely, (i) risk-mitigating, (ii) risk 
+­transferring and (iii) risk coping. In the ­following paragraphs, we discuss a few 
+­important ­measures or ­strategies used by the Indian farmers for managing climate 
+risks and their impact on ­agricultural productivity and risk exposure. 
+Crop Diversification: Crop diversification is an ex-ante means of risk 
+­management. It is widely practiced in smallholder-dominated agrarian ­economies, 
+where the farmers lack information, technologies and finances for risk management. 
+Crops differ in their requirements of water and temperature, and thus they respond 
+differently to changes in climate variables. Risk-averse farmers prefer a ­portfolio of 
+crops with low-correlated returns. In case a crop does not perform against a ­climatic 
+shock, then the loss in farm income, to an extent, can be compensated by the gain 
+in income from another crop that can better tolerate that climatic shock. Crop 
+­diversification is, thus, considered an important means of improving ­productivity, 
+sustainability and resilience of ­agriculture (Thrupp 1997; Tamburini et al. 2020). 
+In the Indian context, Birthal and Hazrana (2019) showed that crop diversification 
+­enhanced the ­resilience of agriculture to excess temperature as well as deficit rainfall, 
+and the resilience ­benefits were more visible in the long run. 
+15
+Climate Change and Risk Management in Indian Agriculture
+From a meta-analysis of more than 5,000 pieces of empirical evidence, ­Tamburini 
+et al. (2020) found crop diversification as multifunctional — it ­reduced the use of 
+­external inputs, enhances ecosystem services, regulates climate, ­mitigates green­
+house gas emission and offset the adverse effects of climatic shocks on farm income. 
+­Studies had investigated the impact of crop diversification on agricultural ­productivity 
+(Joshi et al. 2004; Birthal et al. 2015b), and they had shown that ­horticulture-based 
+­diversification was more remunerative despite the horticultural crops being ­perishable 
+and more prone to climate risks. Birthal et al. (2021d) had evaluated the impact of 
+crop diversification on agricultural productivity and risk exposure in India, and they 
+found that crop diversification was efficient at improving agricultural productivity 
+and ­reducing downside risk exposure, and its productivity benefits far outweighed 
+the risk benefits. 
+Irrigation: Irrigation is an ex-ante as well as an ex-post adaptation to ­climate 
+change, and it plays a dual role in enhancing crop yields and reducing their ­sensitivity 
+to climate change. The productivity benefits of irrigation have been widely ­studied, 
+but its role in risk reduction has not been investigated except in a few studies 
+­(Kurukulasuriya et al. 2006; Bonfils and Lobell 2007; Mendelsohn and Seo 2007; 
+­Kurukulasuriya et al. 2011; Birthal et al. 2015a, Birthal et al. 2021c; Taraz 2018; 
+­Zaveri and Lobell 2019). 
+A few studies have explicitly demonstrated the contribution of irrigation in 
+r­educing the sensitivity of crop yields to climate risks (Birthal et al. 2015a; Taraz 
+2018; Zaveri and Lobell 2019; Birthal et al. 2021c). Notably, these studies have relied 
+on a common data source, and arrived at an almost similar conclusion that i­rrigation 
+improves crop yields and reduces their sensitivity to extreme climatic events, mainly 
+droughts and heat stress. In the case of rice, Birthal et al. (2015a) found irrigation 
+to moderate the harmful effect of droughts, ­besides having a strong positive impact 
+on its yield. Zaveri and Lobell (2019) and Birthal et al. (2021c) also reported ­similar 
+evidence in the case of heat stress in wheat. Singh et al. (2020) found irrigation 
+­lessening the adverse ­impact of delayed monsoon on yields of rainy as well as post-
+rainy season crops. Taraz (2018) too found irrigation offsetting the negative impact 
+of excess temperature on yields of several crops. A few of these studies (Birthal et al. 
+2015a; Birthal et al. 2021c), however, showed a slow-down in the adaptation benefits 
+of irrigation. 
+16
+Pratap Singh Birthal
+Stress-Tolerant Seeds: Crop breeding for stress tolerance is one of the most 
+­effective means of offsetting the negative impact of climate change on agriculture. The 
+stress-tolerant traits embedded in seed act as an insurance against climate stress, and 
+also reduce pressure on scarce water ­resources ­(Lybbert and Bell 2010). In the recent 
+past, studies from several African ­countries have shown that the adoption of drought-
+tolerant varieties of maize reduces the ­probability of crop failure and without any 
+yield penalty (Wossen et al. 2017; Teklewold et al. 2017; Amondo et al. 2019). In India, 
+Birthal et al. (2011) ­assessed the ­economic benefits from the adoption of a drought-
+tolerant variety of groundnut and attributed 33%-46% of the economic ­benefits 
+from its adoption to the ­reduction in variance in its yield. Birthal et al. (2015a), in 
+their ­assessment of the impact of irrigation on drought-proofing of rice ­production 
+­systems, ­reported that besides irrigation, the improved crop varieties and ­agronomic 
+practices too contributed to the resilience against droughts. Dar et al. (2018) reported 
+­significant yield benefits from the adoption of ­submergence-tolerance rice in eastern 
+­India, and the benefits were more visible with an ­increase in the days of flooding. 
+Agronomic Management: Several agronomic practices confer ­adaptation 
+­benefits against climate change. These include adjustments of ­sowing and ­planting 
+dates, inter-cultural operations, no-till sowing, mulching, direct ­seeding and alternate 
+wet and drying in rice, manipulations of ­fertilizer applications, and so on. Pathak et 
+al. (2019) reported significant adaptation ­benefits from the adoption of direct ­seeding 
+and alternate wet and dry systems in rice production. Sapkota et al. (2015) found 
+­no-till sowing of wheat to ­provide an effective solution to terminal heat stress. Gupta 
+et al. (2010) reported that the balanced application of plant nutrients, especially of 
+potash, helped wheat to beat the heat.   
+Crop Insurance: Crop insurance is an important ex-ante means of risk 
+­management. It transfers the expected crop loss from farmers to ­financial ­institutions 
+against a pre-determined fee or premium. India introduced a crop insurance scheme 
+on a pilot basis in 1972, and since then this scheme has evolved considerably in terms 
+of coverage of crops, beneficiaries and ­regions, premium and government support. 
+India now implements the Pradhan ­Mantri Fasal Bima Yojana (Prime Minister’s Crop 
+Insurance Scheme). The premium rate ­under this scheme is heavily subsidized, but 
+its uptake has not been as ­expected. Only about one-fourth of the farm households 
+subscribe to this scheme, and a majority of them hails from the rainfed regions.  
+17
+Climate Change and Risk Management in Indian Agriculture
+Several studies have investigated reasons behind the poor adoption of crop 
+­insurance in India (Gine et al. 2008; Clarke 2011; Binswanger-Mkhize 2012; Cole et 
+al. 2013; Mukherjee and Pal 2017, Gulati et al. 2018; Aditya et al. 2018; Cariappa et al. 
+2020), and most of these point towards farmers’ lack of liquidity, access to credit and 
+information, and the behavioural factors such as the rate of time preference as ­major 
+constraints to its adoption. Gine et al.  (2008) ­narrated that farmers’ ­perceptions of 
+the uncertainty in the ­distribution of ­benefits of ­insurance made it difficult for them 
+to decide whether or not to buy the ­insurance contract. On the supply side, the higher 
+­administrative and ­transaction costs and delays in claim settlements were pointed 
+out as the main reasons for its poor uptake (Binswanger-Mkhize 2012; Gulati et 
+al. 2018; ­Cariappa et al. 2020). Policy distortions in the credit and input markets 
+(such as ­frequent loan wave-offs and input subsidies) also discouraged farmers from 
+­purchasing insurance contracts (Mukherjee and Pal, 2017; Gulati et al. 2018). 
+Notwithstanding this, there is a scarcity of empirical studies on the ­impact of crop 
+insurance on farm income and risk exposure. Cariappa et al. (2020) reported a ­positive 
+effect of crop insurance on farm income, while ­Aditya et al. (2018) found no ­conclusive 
+evidence of the impact being positive. ­Further, most studies from ­India or elsewhere 
+have investigated the income effect of crop ­insurance, but ignored its ­effect on down­
+side risk exposure or ­probability of crop failure. More importantly, these ­studies 
+­assess the impact of crop ­insurance in isolation of other mitigation and ­adaptation 
+­measures. Binswanger-Mkhize (2012) argued, “the cost of the ­insurance premium that 
+the f­armer is willing to pay is first limited by how much better (or worse) the formal 
+insurance ­mechanism would insure him relative to the informal one, and second by 
+the cost savings he would realize from reducing his informal ­insurance ­mechanisms 
+and switching to a formal insurance…. The empirical ­literature has ­ignored the fact 
+that the additional risk benefits from formal ­insurance may be quite small relative to 
+the cost of switching from an informal to a formal insurance ­mechanism”.
+Empirical evidence on income and risk benefits of crop insurance vis-à-vis other 
+adaptation measures is limited. Studies from the developed countries showed crop 
+­insurance was inefficient at reducing risk as compared to irrigation (Dalton et al. 2004; 
+Barham et al. 2011; Vigani and Kathage 2019). On the other hand, Di Falco et al. (2014) 
+found crop diversification to be an efficient substitute for crop insurance. Birthal et al. 
+(2021e) examined the income and risk benefits of crop insurance ­vis-à-vis irrigation 
+18
+Pratap Singh Birthal
+in Indian agriculture, and found that farmers benefit from both, but crop insurance 
+was relatively less beneficial than irrigation. Independently, crop insurance helped 
+improve farm income by 6.9%, which was lower than the ­contribution of ­irrigation 
+(19.7%). Crop insurance reduced downside risk exposure by 6.8% and irrigation by 
+13.7%, but the benefits of their joint adoption were much larger. 
+Social Safety Nets: The Government of India has been implementing a 
+­nationwide rural employment guarantee scheme, called ‘Mahatma ­Gandhi ­National 
+Rural Employment Guarantee Act (MGNREGA)’, that assures ­employment of 100 
+days to a household. Although the scheme is not meant for addressing climate risks, 
+it ­contributes toward enhancing the resilience of agriculture (Fischer 2020; Patnaik, 
+et al. 2019). Preethan et al. (2020) identified that about two-thirds of the ­permissible 
+work under MGNREGA were related to the management of natural resources and 
+agricultural activities. Furthermore, participation in MGNREGA eased financial 
+constraints on the adoption of the direct risk-coping measures (Hansen et al. 2019, 
+Patnaik, et al. 2019). Birthal et al. (2021f) found that participants of the MGNREGA 
+scheme were better motivated to adopt risk management practices in agriculture, and 
+their participation helped reduce their exposure to downside risks.  
+The Government of India also implements a National Food Security Act, 2013, 
+which provides for affordable access to food to the poor. An ­eligible ­household can 
+purchase his/her entitlement of food from the public ­distribution system (PDS) at 
+heavily subsidised prices. Like the MGNREGA the ­subsidised ­provision of food is also 
+hypothesized to motivate farmers to adopt risk ­management strategies. But, contrary 
+to this, the poor households accessing food security nets were found not inclined to 
+adopt risk management measures (Birthal et al. 2021f). 
+Multiple Climate-Smart Practices: Risk-averse farmers, ­depending on 
+their resource endowments, and access to agricultural technologies, ­information and 
+­credit, often use more than one risk management measure at a time. From a ­nationally 
+­representative survey of farm households, Birthal et al. (2021f) ­identified several 
+­measures that farmers use knowingly or ­unknowingly to manage climate risks. These 
+include, one, risk-mitigating measures such as the ­diversification into high-­value 
+crops, animal husbandry and non-farm ­business activities; two, risk ­transferring 
+measures such as crop insurance and renting-out of land; and three, risk-coping 
+­measures such as guaranteed wage employment, out-migration, ­remittances and 
+19
+Climate Change and Risk Management in Indian Agriculture
+livestock sales. The frequency distribution of these measures by their risk ­function 
+is presented in Table 4. Risk mitigation is the widely adopted strategy — more than 
+three-fourths of the farm households have adopted it, and is followed by risk coping 
+(31%) and risk ­transfer (10%) ­strategies. 
+Going ahead, Birthal et al. (2021f) also evaluated the impact of these risk manage­
+ment strategies and combinations thereof by employing the ­multinomial endogenous 
+regime-switching regression technique. They found that all the risk management 
+strategies (mitigation, transfer and coping) ­benefited f­armers, but it was the ­mitigation 
+strategy that appeared more efficient at increasing farm income and ­reducing risk 
+­exposure (Table 5). Further, they found joint ­adoption of these ­strategies more 
+­efficient than individual strategies in ­isolation. The joint adoption of risk ­management 
+­strategies, however, was observed scale-dependent and costlier, but with the liquidity 
+and information constraints ­relaxed, it was likely to find favour among the small­
+holder farmers.
+A review of the adaptation literature shows that a majority of ­farmers ­largely rely 
+on their own risk management strategies, and they derive ­significant ­income and risk 
+Table 4:  Frequency Distribution of Risk Management Measures Practiced by Farm 
+Households
+ Measure/Strategy	
+No. of Households 	
+% of Total
+ No risk management	
+5,385	
+15.30
+ Risk mitigation	
+	
+  Cultivation of horticultural crops	
+11,007	
+31.27
+  Ownership of the non-farm business 	
+1,883	
+5.35
+  Ownership of livestock 	
+21,740	
+62.11
+ Risk transfer
+  Subscribe crop insurance	
+2,202	
+6.23
+  Renting-out of land	
+1,447	
+4.11
+ Risk coping
+  Guaranteed employment (MGNREGA)	
+4,684	
+13.31
+  Out-migration	
+2,353	
+6.68
+  Remittances	
+3,734	
+10.61
+  Livestock sales	
+1,500	
+4.26
+ Total number of households 	
+35,200	
+Notes: 	1.	The sum of individual measures is not equal to the total number of households 
+	
+	 because of the use of more than one measure by several households.  
+	
+2.	MGNREGA = Mahatma Gandhi National Rural Employment Guarantee Act.
+Source: Birthal et al. (2021f).
+20
+Pratap Singh Birthal
+benefits from adopting these. Nevertheless, the ­literature on the adoption and impact 
+of risk management measures/strategies is not ­sufficient enough to draw creditable 
+conclusions for their ­mainstreaming into the ­agricultural development agenda. More 
+research is required on the ­following issues:    
+(i)	
+Preparation of an inventory of farmers’ risk adaptation measures, ­including 
+the traditional and modern, formal and informal, direct and indirect 
+­measures, for different climatic risks, and prioritise these based on ­farmers’ 
+opinions on their potential net adaptation benefits or trade-off between 
+­income and risk benefits. 
+(ii)	 The concept of ‘climate smart agriculture’ has started gaining ground 
+in smallholder-dominated agrarian economies. This concept derives its 
+strength from scientific innovations and agronomic practices but ignores 
+­several ­traditional agronomic practices. Altieri and Nicholls (2013) argue 
+that in ­developing countries, the integration of scientific innovations and 
+­traditional practices could be an important means of increasing ­productivity, 
+­sustainability and resilience of agriculture. It is, therefore, important to 
+­develop optimal crop- and ­location-specific combinations or packages of 
+climate-smart practices blending the ­scientific innovations and the farmers’ 
+self-risk adjustment ­practices. Also, there is a need to conduct more studies 
+on the income and risk benefits of different adaptation measures and their 
+combinations against different climatic shocks. 
+(iii)	 Farmers’ face several technological, informational, attitudinal, socio-­cultural, 
+financial and institutional barriers to the adoption of risk ­management 
+Table 5: Average Treatment Effects of Risk Management Strategies 
+(% Change had the Adopters not Adopted)
+  Strategy	
+Mean Farm Income 	
+Variance	
+Skewness
+  Risk mitigation	
+24.51	
+-16.64	
+11.20
+  Risk transfer	
+14.35	
+-11.75	
+6.83
+  Risk coping	
+10.42	
+-10.22	
+13.02
+  Risk mitigation + transfer	
+40.58	
+-18.87	
+12.90
+  Risk mitigation + coping	
+15.41	
+-17.13	
+10.86
+  Risk transfer + coping	
+16.80	
+-15.11	
+12.35
+  Risk mitigation + transfer + coping	
+32.23	
+-20.17	
+15.84
+Note: A positive sign of skewness means a reduction in exposure to downside risk.
+Source: Birthal et al. (2021f).
+21
+Climate Change and Risk Management in Indian Agriculture
+­strategies (Singh et al. 2019). The socio-economic ­research on adaptation 
+­barriers is still evolving. Hence, the need for more ­studies on the ­identification 
+and prioritisation of constraints to the adoption of climate-smart ­technologies 
+and practices cannot be ­undermined. 
+4. Policies and Institutions 
+The state can play a significant role in making agriculture resilient to ­climate change 
+by, one, designing the context-specific policies and programmes, and ­ensuring their 
+effective implementation through better coordination across ­different ­administrative 
+levels for the smooth flow of information, knowledge and resources to the farmers; 
+and, two, convergence of different programmes ­operated by different ministries and 
+departments for efficient and sustainable use of financial and human resources. 
+Targeting Climate Change Adaptation: Often, there is a ­disconnect ­between 
+micro-level realities and macro-economic policies because of the poor coordination 
+among different administrative levels, and the lack of ­understanding of nature and 
+the level of efforts or investment needed at ­different a­dministrative levels (Singh et al. 
+2014; Singh et al. 2019). Climate risk is ­covariate and systemic, hence, an ­effective risk 
+management ­strategy should evolve from a sound understanding of the distribution of 
+risk at ­multiple ­administrative or ­geographical levels. Agrawal et al. (2012) argued that 
+for the location-specific implementation of mitigation and ­adaptation ­strategies, it was 
+important to ­understand differences in the characteristics of ­locations, ­populations, 
+­governance structures and socio-political dimensions. From an analysis of several 
+adaptation projects spread across more than 40 least ­developed countries, Agrawal et 
+al. (2012) offered four major lessons for ­adaptation planning: (i) ­improvement in the 
+local capacity through transfer of information and financial and technical resources; 
+(ii) empowerment of the communities and local governments for decentralisation of 
+the adaptation planning and implementation; (iii) creation of the mechanisms for 
+­information sharing among decision makers across sectors and ­levels of decision 
+making; and, (iv) improvement in the accountability of local ­decision ­makers to their 
+constituents. 
+Birthal et al. (2019b) had empirically shown the importance of decentra­lisation 
+of administrative management for drought-proofing. Using a ­multi-level ­modelling 
+approach, they identified five geographical or ­administrative ­hierarchical layers, 
+22
+Pratap Singh Birthal
+namely, household, village, district, region and state, and found household and state 
+to receive a larger emphasis in a risk management project. Further, they ­suggested 
+that the ­benefits of a risk ­management project should reach farmers through ­effective 
+coordination at the intermediate levels. Notably, most state governments in ­India 
+have formulated their action plans under the National Action Plan on ­Climate 
+Change (NAPCC) and also have ready-to-implement district-level contingency plans 
+­developed by the Indian Council of Agricultural Research (ICAR). Nevertheless, 
+these are not ­effectively implemented because of the weak coordination at adminis­
+trative levels below the state, that is, districts, blocks and village panchayats (Singh 
+et al. 2019). Birthal et al. (2019b) suggested a greater role of village-level institutions 
+(such as ­panchayats) for coordination with the higher administrative levels for funds, 
+­technologies and skill development. 
+Mainstreaming of Programmes and Policies: The central and state 
+­governments implement several agricultural and rural development ­programmes 
+through various ministries and departments. Many of these are related to climate 
+change adaptations directly or indirectly. Singh et al. (2017) identified 161 such 
+schemes of the central government scattered over ­different ministries and depart­
+ments, and these accounted for about one-fourth of the budgetary allocation. But, 
+there was a lack of synergy among these. A ­coordinated approach, by pooling of 
+finances and ­resources, could ­enhance ­efficiency, sustainability and inclusiveness 
+of such schemes (Singh et al. 2017). A typical example is of the works under the 
+­MGNREGA scheme which is implemented by the ­Ministry of Rural Development 
+and Panchayati Raj, ­Government of India. About two-thirds of its works are related 
+to agriculture and ­natural resource ­management; for instance, water conservation 
+and water ­harvesting, drought ­proofing, ­afforestation, irrigation works, restora­
+tion of traditional ­water ­bodies, land development, flood control and construction 
+of ­rural roads. All these activities are closely linked to the adaptation options for 
+climate change. Hence, there is a huge scope for harnessing the complementarities 
+of different schemes. 
+Financing Climate-Resilient Agriculture: Finance is essential for devel­
+oping a climate-resilient agri-food system. For smallholder farmers, it is difficult to 
+access finance because they lack tangible assets acceptable as ­collateral and fewer 
+alternative income sources. Commercial banks and ­other financial institutions often 
+23
+Climate Change and Risk Management in Indian Agriculture
+shy away from financing smallholder farmers  because of the high transactions cost 
+and lending risks. 
+Can increased access and flow of credit to farmers help them to manage  production 
+risks? The evidence is scarce. Birthal et al. (2021f) found that farm households that 
+had access to institutional finance were better motivated to adopt climate-smart 
+ agricultural practices and technologies. 
+Farmers need short-term credit for the purchase of inputs and long-term credit 
+to invest in on-farm infrastructure for mitigation and adaptation to  climate change. 
+ Access to climate finance may reduce farmers’ risk aversion, and thus motivate them to 
+invest in on-farm infrastructure like solar and wind  energy for pump  irrigation.  Public 
+policies can catalyze climate-smart  investment by mainstreaming climate-smart 
+principles into agricultural  policies. For  instance, the subsidized and  collateral-free 
+loans to small-scale producers should be made conditional upon the implementation 
+of climate-smart agricultural practices. The need is to develop customised climate 
+ financial products suiting the needs of farmers. 
+Funding Agricultural Research: Technology is perhaps one of the most 
+ important means of improving productivity, sustainability and  resilience of 
+ agriculture. In the quest of being self-sufficient in food, India’s  National  Agricultural 
+Research System (NARS) has largely focused on increasing crop yields, giving  little 
+attention to improving stress-tolerant traits in crops.  Recognising the emerging 
+threats of  climate change to agriculture and food security, it  becomes imperative to 
+re-orient the agricultural research agenda focusing on breeding stress-tolerant crop 
+varieties and developing resource management practices that mitigate climate change 
+impact. This would  require additional finances for agricultural research to leverage its 
+potential to  generate climate-smart technologies and practices. Evidence shows that 
+return on  investment on breeding for climate resilience is quite attractive  (Gautam 
+2009; Mottaleb et al. 2012).  However, agricultural research in India remains under- 
+invested; it receives about 0.4% of the agricultural GVA, which is lesser than 
+in  developed countries (2%-2.5%).  
+In 2011, the ICAR launched a project called National Innovations on  Climate  
+Resilient Agriculture (NICRA) with an aim to enhance the  resilience of  agriculture  
+(including crops, livestock and fisheries) through strategic  research,  technology 
+24
+Pratap Singh Birthal
+­demonstration and partnerships with state agricultural universities, Krishi V­igyan 
+­Kendras (KVKs) and non-governmental organisations (NGOs). To an extent, NICRA has 
+succeeded in evolving climate-resilient technologies and practices and ­demonstrating 
+their potential benefits. The need is to scale up technology ­demonstrations.   
+Climate and Advisory Services:  Farmers would be more exposed to extreme 
+changes in climate, and to manage these, they would require more ­information on 
+weather forecasts and climate-smart practices on a regular ­basis. In this context, 
+­information and communication technology (ICT) can play an important role. In 
+­rural India, there are 277 million internet users (wbcsd.org/download/file/12275), 
+and about 20 million of them subscribe to short ­message service (SMS) advisories 
+(Rathore and ­Chattopadhyay 2016). ­According to ­Rathore and Chattopadhyay (2016), 
+the adoption of ­agromet ­services can ­reduce the cost of cultivation by about 25% and 
+can increase net ­returns by 83%. These findings indicate that there is huge scope for 
+­public-private ­partnerships in ­creating localised digital platforms for climate ­services 
+and advisories. It may be noted that the next-generation climate ­advisories must have 
+improved context-specific contents and ensure timeliness in delivery (Rao et al. 2020). 
+This discussion clearly suggests the need for an evidence-based climate ­policy 
+within a broader agricultural policy framework that considers the ­linkages and com­
+plementarities among projects and programmes scattered across ­ministries and de­
+partments, and greater coordination between the ­national and subnational adminis­
+trative entities including the states, districts, blocks and villages. However, there is a 
+need to critically examine the following issues: 
+(i)	
+Understand the mechanisms of implementation of the climate ­adaptation 
+projects and the administrative, financial, informational and human re­
+source constraints to their implementation. An understanding of these can 
+be gained through an analysis of the strengths and weaknesses of the exist­
+ing adaptation projects at different ­administrative levels. 
+(ii)	
+Examine the linkages between different programmes or ­projects ­operated 
+by different ministries and departments, and assess the ­potential ­social, 
+economic and environmental benefits of their ­convergence. 
+(iii) 	 Explore the opportunities and constraints in financing adaptation to 
+­climate change across the agricultural supply chain from genetics to end-­
+25
+Climate Change and Risk Management in Indian Agriculture
+consumption, and prospects for private sector participation in ­climate 
+­finance. 
+(iv)	 Estimate the return on investment in research on climate-resilient ­activities 
+such as crop breeding for stress tolerance and ­management of natural 
+­resources, and also return on investment in agromet ­advisory services.
+5. Conclusions and Implications
+Climate change has become a big threat to the sustainable development of agri­
+culture, food and nutrition security, and the livelihoods of smallholder farmers. The 
+predictions suggest a significant rise in surface temperature and in the frequency of 
+different climate extremes such as droughts, floods and heat and cold waves in the 
+plausible future climate scenarios. An increase of 1.5°C in the mean temperature is 
+envisaged to severely affect crop yields and food ­supplies, human and animal health, 
+and ­ecosystem services. Towards the end of this century, India’s mean surface tempe-
+rature under the moderate greenhouse concentration pathway RCP4.5 is expected to 
+increase by 1.57°C over its current level in 2019. This paper undertakes a ­critical ­review 
+of ­literature on the climate change impact on Indian agriculture and their manage­
+ment, with an aim to understand critical gaps in the existing literature, and to draw 
+­lessons for the required reorientations of the agricultural research, ­institutional and 
+policy landscapes for enhancing efficiency, sustainability and resilience of ­agriculture. 
+The main conclusion is that climate change negatively impacts crop yields and 
+agricultural productivity, but the negative impact can partially be ­offset ­using modern 
+and traditional adaptation measures with appropriate ­institutional and policy sup­
+port. This review also points towards a number of research gaps that need to be ad­
+dressed keeping in view the predictions of the rising frequency of extreme climate 
+events in the plausible future climate ­scenarios. Some of these are indicated below:
+Climate Change Impact
+(i) 	
+There is a need for more evidence on the impact of climate change on 
+­horticultural crops, dairying and animal husbandry, and ­fisheries which 
+together share about 60% of the agricultural GVA, and are ­expected to 
+drive the future growth of agriculture. 
+26
+Pratap Singh Birthal
+(ii)	
+Our understanding of the impact of rainfall and temperature at v­arious 
+stages of crop development is limited. This suggests a need to probe ‘how 
+the variations in temperature and precipitation at ­different stages of crop 
+development influence its performance’. 
+(iii) 	
+There is limited empirical evidence on how natural endowment ­influences 
+climate change impact. For the context-specific ­climate ­adaptation 
+­strategies, it is essential to know the role of natural ­endowment in shaping 
+the impact of climate change. 
+(iv)	
+Most studies have predicted the impact of climate change on crop yields. 
+There is a possibility of changes in the crops’ ­comparative ­advantage due to 
+climate change. We, therefore, need to have a ­better understanding of ‘how 
+climate change may influence the ­intra-regional and inter-regional shifts in 
+land-use in the short and long run’. 
+(v)	
+Farmers often face multiple climate shocks, but there is hardly any study 
+that has quantified the impact of multiple climate risks on crop yields or 
+agricultural productivity. 
+(vi)	
+There is a very high probability that the upstream impact would ­transmit 
+downstream of the chain. Research is required to understand the mecha­
+nisms of risk transmission along the supply chain, and its ­impact on the 
+efficiency and sustainability of different ­segments of the chain. 
+Adaptation Measures
+(vii) 	
+Farmers use several adaptation measures to manage multiple ­climate 
+risks. Studies are required on farmers’ perceptions of their potential net 
+adaptation benefits or trade-off between their income and risk benefits so 
+as to prioritise adaptations.
+(viii) 	 The concept of ‘climate-smart agriculture’ derives its strength from 
+­scientific innovations and agronomic practices, but it ignores ­several of 
+the traditional risk management practices. It is, ­therefore, ­important to 
+develop economically optimal crop- and location-­specific packages of 
+­climate-smart practices blending both the ­scientific innovations and 
+­farmers’ self-risk adjustment practices. 
+27
+Climate Change and Risk Management in Indian Agriculture
+(ix)	
+Farmers’ face several technological, informational, ­psychological, 
+­sociocultural, financial and institutional barriers to the adoption of risk 
+management strategies, which need to be identified and ­prioritised.
+Policies and Institutions
+(x)	
+Analyze the strengths and weaknesses of the existing climate ­adaptation 
+projects at their different levels of implementation to prove their ­efficiency, 
+inclusiveness and sustainability. 
+(xi)	
+Study the linkages between different programmes or projects ­operated by 
+different ministries and departments, and assess the potential ­social, eco­
+nomic and environmental benefits of their ­convergence. 
+(xii) 	
+Explore the opportunities to finance climate change adaptation along the 
+agricultural supply chain from genetics to end-consumption, and pros­
+pects for private sector participation in climate finance. 
+(xiii) 	 Assess the return on investment in research on climate-resilient ­activities 
+such as crop breeding for stress tolerance and ­management of natural re­
+sources, and also return on investment in agro-met ­advisory services.  
+Notes
+1	
+RCP stands for Representative Concentration Pathway, and these make pre­
+dictions of how concentrations of greenhouse gases in the ­atmosphere will 
+change in the future as a result of human activities. In its Fifth Assessment 
+Report, the United Nations Inter-­governmental Panel on Climate Change 
+(IPCC) used four RCPs, namely, RCP2.6, RCP4.5, RCP6.0 and RCP8.5. The 
+RCPs range from very low (RCP2.6) to very high (RCP8.5) future concentra­
+tions. The numerical values of the RCP indicate greenhouse gas concentra­
+tion in 2100. In the long-term (2081-2100), the global mean temperature is 
+expected to rise by 3.7 °C (2.6 °C to 4.8 °C) under RCP8.5; 2.2 °C (1.4 °C to 3.1 
+°C ) under RCP6.0; 1.8 °C (1.1 °C to 2.6 °C) under RCP4.5; and, 1.0 °C (0.3 °C 
+to 1.7 °C) under RCP2.6. In the medium-term (2046-2065) the mean global 
+­temperature will be 2.0 °C (1.4 °C to 2.6 °C) higher under RCP8.5; 1.3 °C (0.8 
+28
+Pratap Singh Birthal
+°C to 1.8 °C) under RCP6.0; 1.4 °C (0.9 °C to 2.0 °C) under RCP4.5; and 1.0 °C 
+(0.4 °C to 1.6 °C) under RCP2.6. These changes are relative to the global mean 
+temperature during 1986-2005.
+2	
+An area is supposed to have been affected by drought if the actual rainfall 
+is less by 25% or more from its historical average (see ­Government of India 
+2009). The drought is considered of moderate intensity if the rainfall ­deficiency 
+is more than 25% but less than or equal to 50%; else the drought is severe. For 
+the drought to be a universal, the rainfall ­deficiency at national level must 
+exceed 10%, and at least 20% of the ­geographical area should experience a 
+moderate or severe drought. 
+References
+Aditya, K S, M T Khan and A Kishore (2018): “Adoption of Crop Insurance and ­Impact: 
+Insights from India”, Agricultural Economics Research ­Review, Vol. 31, No. 2, 
+pp. 163-174.
+Agrawal, A, N Perrin, A Chhatre, C S Benson and M Kononen (2012): ­“Climate 
+­Policy Processes, Local Institutions, and Adaptation Actions: ­Mechanisms 
+of ­Translation and Influence”, WIREs Climate Change, Vol. 3, No. 6, pp. 
+­565–579.
+Aggarwal, P (2008): “Global Climate Change and Indian Agriculture: Impact, Adapta­
+tion and Mitigation”, Indian Journal of Agricultural Sciences, Vol. 78, No. 10, 
+pp. 911-919. 
+Aggarwal, P K and R K Mall (2002): “Climate Change and Rice Yields in ­Diverse Agro-
+Environments of India”, Climate Change, Vol. 52, No. 3, pp. ­331-343. 
+Altieri, M A and C I Nicholls (2017): “The Adaptation and Mitigation Potential of 
+­Traditional Agriculture in a Changing Climate”, Climatic Change, Vol. 140, 
+No. 1, pp. 33-45.
+Amare, M, N D Jensen, B. Shiferaw and J D Cissé (2018): “Rainfall Shocks and Agri­
+cultural Productivity: Implication for Rural Household ­Consumption”, Agri­
+cultural Systems, Vol. 166, No. C, pp. 79-89.
+29
+Climate Change and Risk Management in Indian Agriculture
+Amondo, E, F Simtowe, D B Rahut and O Erenstein (2019): “Productivity and Produc­
+tion Risk Effects of Adopting Drought-Tolerant Maize Varieties in Zambia”, 
+International Journal of Climate Change Strategies and Management, Vol. 
+11, No. 4, pp. 570-591.
+Aryal, J P, T B Sapkota, C M Stirling, M L Jat, H S Jat, M Rai, S Mittal and J M Sutaliya 
+(2016): “Conservation Agriculture-based Wheat Production Better Copes with 
+Extreme Climate Events than Conventional Tillage-based Systems: A Case 
+of Untimely Excess Rainfall in Haryana, India”, Agriculture, Ecosystem and 
+­Environment, Vol. 233, pp. 325-335.
+Bahinipati, C S, V Kumar and P K Viswanathan (2020): “An Evidence-based ­Systematic 
+Review on Farmers’ Adaptation Strategies in India”, Food Security,  Vol. 13, 
+No. 2, pp. 399-418. 
+Barham, E H B, J R C Robinson, J W Richardson and M E Rister (2011): ­“Mitigating 
+Cotton Revenue Risk Through Irrigation, Insurance, and Hedging”, Journal of 
+Agricultural and Applied Economics, Vol. 43, No. 4, pp. 529-540.
+Bhandari, H, S Pandey, R Sharan, D Naik, I Hiwray, S K Taunk and A S R A S Sastri 
+(2007): “Economic Costs of Drought and Rice Farmers’ ­Drought-Coping Mech­
+anisms in Eastern India”, In S Pandey, H ­Bhandari, B Hardy (eds.), Economic 
+Costs of Drought and Rice Farmers’ Coping Mechanisms: A Cross-Country 
+Comparative Analysis, International Rice Research ­Institute, Manila. 
+Bhattamishra, R and C B Barrett (2010): “Community-Based Risk ­Management 
+­Arrangements: A Review”, World Development, Vol. 38, No. 7, pp. ­923-932.
+Binswanger, H P (2012): “Is There Too Much Hype about Index-based ­Agri-cultural 
+Insurance?”, Journal of Development Studies, Vol. 48, No. 2, pp. 187-200.
+Birthal, P S (2019): “From Food Security to Farmers’ Prosperity: Challenges, ­Prospects 
+and Way Forward”, Indian Journal of Agricultural ­Economics, Vol. 74, No. 1, 
+pp. 78-95.
+Birthal, P S, and J Hazrana (2019): “Crop Diversification and Resilience of ­Agriculture 
+to Climatic Shocks: Evidence from India”, Agricultural ­Systems, Vol. 173, No. 
+C, pp. 345-354. 
+30
+Pratap Singh Birthal
+Birthal, P S, J Hazrana and D S Negi (2019): “A Multilevel Analysis of Drought Risk in 
+Indian Agriculture: Implications for Managing Risk at Different Geographical 
+Levels”, Climatic Change, Vol. 157, No. 3, pp. 499-513.
+Birthal, P S, J Hazrana and D S Negi (2021a): “Impact of Climatic Hazards on 
+­Agricultural Growth in India”, Climate and Development, Vol. 13, No. 10, pp. 
+895-908.
+Birthal, P S, J Hazrana and D S Negi (2021b): “Unleashing the Potential of Crop 
+­Diversification for Improving Productivity and Reducing Risk in Indian 
+­Agriculture”, Global Environmental Change (submitted). 
+Birthal, P S, J Hazrana and D S Negi (2021c): “To Insure or Not to Insure? - An 
+­Assessment of the Adaptation Benefits of Crop Insurance ­vis-à-vis ­Farmers’ 
+Self-Adjustment Risk Management Measures”, Journal of ­Development 
+­Studies (forthcoming).
+Birthal, P S, J Hazrana and D S Negi (2021d): “Effectiveness of Farmers’ Risk 
+­Management Strategies: Evidence from India”, Climatic Change ­(forthcoming). 
+Birthal, P S., D S Negi and J Hazrana (2019a): “Trade-off between Risk and ­Returns 
+in Farmers’ Choice of Crops? - Evidence from India”, ­Agricultural Economics 
+Research Review, Vol. 32, No. 1, pp. 11-23.
+Birthal, P S, D Roy and D S Negi (2015): “Assessing the Impact of Crop ­Diversification on 
+Farm Poverty in India”, World Development, Vol. 72, No. C, 70-92.
+Birthal, P S, J Hazrana, D S Negi and S C Bhan (2021a): “Climate Change and Land 
+Use in Indian Agriculture”, Land Use Policy, Vol. 129, No. C.
+Birthal, P S, J Hazrana, D S Negi and G Pandey (2021b): “Benefits of Irrigation against 
+Heat Stress in Agriculture: Evidence from Wheat Crop in India”, Agricultural 
+Water Management, Vol. 255 , No. C. 
+Birthal, P S, P K Joshi, D S Negi and S Agarwal (2014): Changing Sources of Growth 
+in Indian Agriculture: Implications for Regional Priorities for ­Accelerating 
+Agricultural Growth, IFPRI Discussion Paper 1325, ­International Food 
+Policy Research Institute (IFPRI), Washington D.C.
+31
+Climate Change and Risk Management in Indian Agriculture
+Birthal, P S, T M Khan, D S Negi and S Agarwal (2014): “Impact of Climate Change 
+on Yields of Major Food Crops in India: Implications for Food Security”, 
+­Agricultural Economics Research Review, Vol. 27, No. 2, pp. 145-155.
+Birthal, P S, D S Negi, M T Khan and S Agarwal (2015): “Is Indian ­Agriculture ­Becoming 
+Resilient to Droughts? Evidence from Rice Production ­Systems”,  Food 
+­Policy, Vol. 56, pp. 1-12.
+Birthal, P S, S N Nigam, A V Narayanan and K A Kareem (2012): ­“Potential ­Economic 
+Benefits from Adoption of Improved Drought-tolerant Groundnut in 
+­India”, ­Agricultural Economics Research Review, Vol. 25, No. 1, pp. 1-14.
+Birthal, P S, D S Negi, S Kumar, S Agarwal, A Suresh and Md T Khan (2014): “How 
+Sensitive is Indian Agriculture to Climate Change?”, Indian ­Journal of 
+­Agricultural Economics, Vol. 69, No. 4, pp. 1-14.
+Bonfils, C and D Lobell (2007):  “Empirical Evidence for a Recent Slowdown in 
+­Irrigation-Induced Cooling”, Proceedings of the National Academy of 
+­Sciences, Vol. 104, No. 34, pp. 13582-13587.
+Cariappa, A G A, D P Mahida, P Lal and B S Chandel (2020): “Correlates and ­Impact of 
+Crop Insurance in India: Evidence from a Nationally ­Representative Survey”, 
+Agriculture Finance Review, Vol. 81, No. 2, pp. 204-221. 
+Chakraborty, D, V K Sehgal, R Dhakar, M Ray and D K Das (2019): ­“Spatio-temporal 
+Trend in Heat Waves Over India and Its Impact ­Assessment on Wheat Crop”, 
+Theoretical and Applied Climatology, Vol. 138, Nos. 3-4, pp. 1925-1937.
+Choudhary, B B (2017): Climate Sensitivity of Agricultural Production ­System in Trans 
+and Upper Gangatic Plains of India: Potential Economic ­Impact and Vulner­
+ability, PhD Dissertation, National Dairy Research Institute, Karnal, Haryana. 
+Clarke, D J (2011): Insurance Design for Developing Countries, PhD ­Dissertation, 
+University of Oxford, UK.
+Cole, B S, X Giné, J Tobacman, P Topalova, R Townsend and J Vickery (2013): “Barri­
+ers to Household Risk Management: Evidence from India”, ­American Economic 
+Journal: Applied Economics, Vol. 5, No. 1, pp. 104-135.
+32
+Pratap Singh Birthal
+Dalton, T J, G A Porter and N G Winslow (2004): “Risk Management ­Strategies in 
+­Humid Production Regions: A Comparison of Supplemental ­Irrigation and 
+Crop Insurance”, Agricultural and Resource Economics Review, Vol. 33, No. 
+2, pp. 220-232.
+Dar, M H, N W Zaidi, S A Waza, S B Verulkar, T Ahmed, P K Singh, S K ­Bardhan Roy, B 
+Chaudhary, R Yadav, M M Islam, K M Iftekharuddaula, J K Roy, R M ­Kathiresan, 
+B N Singh, U S Singh and A M Ismail (2018): “No Yield ­Penalty under Favorable 
+Conditions Paving the Way for Successful Adoption of Flood ­Tolerant Rice”, Sci­
+entific Reports 8, No. 9245, https://doi.org/10.1038/ s41598-018-27648-y.
+Dell, M, B F Jones and B A Olken (2012): “Temperature Shocks and Economic Growth: 
+Evidence from the Last Half Century”, American Economic Journal: Macro­
+economics, Vol. 4, No. 3, pp. 66-95.
+Dell, M, B F Jones and B A Olken (2014): “What Do We Learn from the ­Weather? The 
+New Climate–Economy Literature”, Journal of Economic ­Literature, Vol. 52, 
+No. 3, pp. 740-798. 
+Dercon, S (2004): “Growth and Shocks: Evidence from Rural Ethiopia”, ­Journal of 
+Development Economics, Vol. 74, No. 2, pp. 309-329.
+Dercon, S and L Christiaensen (2011): “Consumption Risk, Technology ­Adoption, and 
+Poverty Traps: Evidence from Ethiopia”, Journal of ­Development Economics, 
+Vol. 96, No. 2, pp. 159-173.
+Deschênes, O and M Greenstone (2007): “The Economic Impact of Climate Change: 
+Evidence from Agricultural Output and Random Fluctuations in Weather”, 
+American Economic Review, Vol. 97, No. 1, pp. 354-385.
+Di Falco, S, F Adinolfi, M Bozzola and F Capitanio (2014): “Crop Insurance as a 
+­Strategy for Adapting to Climate Change”, Journal of Agricultural ­Economics, 
+Vol. 65, No. 2, pp. 485-504.
+Fischer, H W (2020): “Policy Innovations for Pro-poor Climate Support: Social 
+­Protection, Small-Scale Infrastructure, and Active Citizenship under India’s 
+MGNREGA”, Climate and Development, Vol. 12, No. 8, pp. 1-14. https://doi.
+org/ 10.1080/ 17565529.2019.1676690.
+33
+Climate Change and Risk Management in Indian Agriculture
+Gautam, A (2009): Impact Evaluation of Drought Tolerant Rice ­Technologies Through 
+Participatory Approaches in Eastern India, Masters’ ­Dissertation, The State 
+University of New Jersey, Rutgers.
+Gine, X, R Townsend and J Vickery (2008): “Patterns of Rainfall Insurance ­Participation 
+in Rural India”, World Bank Economic Review, Vol. 22, No. 3, pp. 539-566.
+Government of India (2009): Manual for Drought Management, Department of 
+­Agriculture and Cooperation, Ministry of Agriculture, New Delhi.
+Government of India (2019): Water and Related Statistics, Central Water ­Commission, 
+Ministry of Jal Shakti, New Delhi.
+Guiteras, R (2009): The Impact of Climate Change on Indian Agriculture, Work­
+ing paper, Department of Economics, Massachusetts Institute of Technology, 
+Cambridge, MA.
+Gulati, A, P Terway and S Hussain (2018): Crop Insurance in India: Key Issues 
+and Way Forward, Working Paper No. 352, Indian Council for Research on 
+­International Economic Relations, New Delhi.
+Guntukula, R and P Goyari (2020): “Climate Change Effects on the Crop Yield and Its 
+Variability in Telangana, India”, Studies in Microeconomics, Vol. 8, No. 1, pp. 
+119-148.
+Gupta, R K, R G Singh, M L Jat, R K Jat, H S Sidhu, P S Minhas and R K ­Malik (2010): 
+“Wheat Productivity in Indo-Gangetic Plains of India during 2010: Terminal 
+Heat Effects and Mitigation Strategies”, PACA ­Newsletter, No. 14, pp. 1-11.
+Hallegatte, S, M Bangalore, L Bonzanigo, M Fay, T Kane, U Narloch, J ­Rozenberg, 
+D Treguer and Vogt-Schilb A (2016): Shock Waves: ­Managing the ­Impact of 
+­Climate Change on Poverty, Climate Change and ­Development ­Series, The 
+World Bank, Washington D.C. 
+Hamshere, P, Y Sheng, B Moir, C Gunning-Trant, and D Mobsby (2014): What India 
+Wants Analysis of India’s Food Demand to 2050, Report No. 14.16, ­Australian 
+Bureau of Agricultural and Resource ­Economics and ­Sciences, Department 
+of Agriculture, Australian Government, ­Canberra. 
+34
+Pratap Singh Birthal
+Hansen, J, J Hellin, T Rosenstock, E Fisher, J Cairns, C Stirling, C Lamanna, J van 
+Etten, A Rose and B Campbell (2019): “Climate Risk Management and Rural 
+Poverty Reduction”, Agricultural Systems, Vol. 172, pp. ­28-46. 
+Hill, R and and C Mejia-Mantilla (2015): Welfare and Shocks in Uganda, Back­
+ground Paper prepared for the Uganda Poverty Assessment, The World Bank, 
+­Washington D.C.
+Jain, M, S Naeem, B Orlove, V Modi and R S DeFries (2015): ­“Understanding the 
+Causes and Consequences of Differential Decision-making in ­Adaptation 
+­Research: Adapting to a Delayed Monsoon Onset in Gujarat, India”, Global 
+Environmental Change, Vol. 31, pp. 98-109. 
+Jana, S K, and J Roy (2020): “Climate Change and Diseases of Plants and ­Animals: A 
+Study in Home Gardens of West Bengal, India”, In A ­Karmaoui, A Ben Salem 
+and A Shah (eds), Climate Change and ­Anthropogenic Impact on Health in 
+Tropical and Subtropical Regions, IGI Global, Hershey, USA. 
+Jaweriah, H, P S Birthal and D S Negi (2021): The Impact of Crop ­Diversification on 
+Agricultural Productivity and Risk Exposure in India, Paper ­prepared for the 
+Conference ‘Environmental Challenges and ­Agricultural ­Sustainability in Asia’, 
+to be held on December 8-10 at Asian ­Development Bank Institute, ­Tokyo. 
+Jodha, N S, N P Singh and M C S Bantilan (2012): Enhancing Farmers’ ­Adaptation 
+to Climate Change in Arid and Semi-Arid Agriculture of India: Evidences 
+from Indigenous Practices, Working Paper Series No. 32, International Crops 
+­Research Institute for the Semi-Arid Tropics, Andhra Pradesh. 
+Joshi, P K, A Gulati, P S Birthal and L Tewari (2004): “Agriculture ­Diversification 
+in South Asia: Patterns, Determinants and Policy Implications”, ­Economic & 
+­Political Weekly, Vol. 39, No. 24, pp. 2457-2467.
+Kala, N (2017): Learning, Adaptation, and Climate Uncertainty: Evidence from ­Indian 
+Agriculture, CEEPR WP 2017-023, MIT Center for Energy and ­Environmental 
+Policy Research, Massachusetts Institute of ­Technology, Cambridge, MA.
+Kalra, N, D Chakraborty, P R Ramesh, M Jolly and P K Sharma (2007): ­Impact of 
+Climate Change in India: Agricultural Impact, Final Report, Joint ­Indo-UK 
+35
+Climate Change and Risk Management in Indian Agriculture
+Programme of Ministry of Environment and Forests, India, and Depart­
+ment for Environment, Food and Rural Affairs, United ­Kingdom, and Indian 
+­Agricultural Research Institute, New Delhi. 
+Khatri-Chhetri, A, P Aggarwal, P Joshi and S Vyas (2017): “Farmers’ ­Prioritisation of 
+Climate-Smart Agriculture (CSA) Technologies”, ­Agricultural ­Systems, Vol. 
+151, pp. 184-191. 
+Kumar, K S K (2011): “Climate Sensitivity of Indian Agriculture: Do Spatial Effects 
+Matter?”, Cambridge Journal of Region, Economy and Society, Vol. 4, No. 2, 
+pp. 221-235. 
+Kumar, K S K, and J Parikh (2001): “Indian Agriculture and Climate ­Sensitivity”, 
+Global Environmental Change, Vol. 11, No. 2, pp. 147-154. 
+Kumar, S N (2015): “Carbon Sequestration and Beyond by Plantations: ­Exploring 
+Scope for Added Income”, In S K Dhayani, R Newaj, B Alam, I Dev (eds.) 
+­Agroforestry: Present Status and Way Forward, Biotech Books, New Delhi. 
+Kumar, S N (2019): “Climate Change and Horticultural Crops”, In K L Chadha (eds.) 
+Handbook of Horticulture, Indian Council of Agricultural ­Research, New ­Delhi. 
+Kumar, S N and P K Aggarwal (2013): “Climate Change and Coconut ­Plantations in 
+India: Impact and Potential Adaptation Gains”, Agricultural Systems, Vol. 117, 
+pp. 45-54.
+Kumar, S N, S Chander, P Sinha and R N Padaria (2020): Climate Change ­Impact, 
+­Vulnerability and Adaptation-Agriculture, A Report for India’s Third ­National 
+Communication to UNFCCC, United Nations ­Framework ­Convention on 
+­Climate Change, Bonn. 
+Kumar, S N, P K Aggarwal, R Saxena, D N Swarooparani, S Jain and N ­Chauhan 
+(2013): “An Assessment of Regional Vulnerability of Rice to Climate Change in 
+India”, Climatic Change, Vol. 118, Nos. 3-4, pp. 683-699. 
+Kumar, S N, P K Aggarwal, D N Swarooparani, R Saxena, N Chauhan and S Jain 
+(2014): “Vulnerability of Wheat Production to Climate Change in India”, 
+­Climate Research, Vol. 59, No. 3, pp. 173-187. 
+36
+Pratap Singh Birthal
+Kumar, S N, Anuja, Md Rashid, S K Bandyopadhyay, R Padaria  and M ­Khanna (2016): 
+“Adaptation of Farming Community to Climatic Risk: Does ­Adaptation Cost 
+for Sustaining Agricultural Profitability?”, Current ­Science, Vol. 110, No. 7, pp. 
+1216-1224. 
+Kumar, S N, P M Govindakrishnan, D N Swarooparani, N Chauhan, S Jain and P 
+K Aggarwal (2015): “Assessment of Impact of Climate Change on ­Potato and 
+­Potential Adaptation Gains in the Indo-Gangetic Plains of India”, ­International 
+Journal of Plant Production, Vol. 9, No. 1, pp. 151-170. 
+Kumar, S N, P K Aggarwal, U Kumar, S Jain, D N Swarooparani, N Chauhan and R 
+Saxena (2014): “Vulnerability of Indian Mustard (Brassica ­Juncea (L.) Czernj. 
+Cosson) to Climate Variability and Future Adaptation ­Strategies”, Mitigation 
+and Adaptation Strategies to Global Change, Vol. 21, No. 3, pp. 403-420.
+Kumar, S N, A Islam, D N Swarooparani, S Panjwani, K Sharma, N K Lodhi, S 
+­Chander, P Sinha, M Khanna, D K Singh and S K Bandyopadhyay (2019): Sea­
+sonal Climate Change Scenarios for India: Impact and Adaptation Strate­
+gies for Wheat and Rice, ICAR - Indian Agricultural Research ­Institute, New 
+Delhi. 
+Kurukulasuriya, P, N Kala and R Mendelsohn (2011): “Adaptation and ­Climate 
+Change Impact: A Structural Ricardian Model of Irrigation and Farm Income 
+in Africa”, Climate Change Economics, Vol. 2, No. 2, pp. ­149-174. 
+Kurukulasuriya, P, R Mendelsohn, R Hassan, J Benhin, T Deressa, M Diop, H M Eid, K 
+Y Fosu, G Gbetibouo, S Jain, A Mahamadou, R Mano, J ­Kabubo-Mariara, S El-
+Marsafawy, E Molua, S Ouda, M Ouedraogo, I Séne, D Maddison, S N Seo and A 
+Dinar (2006): “Will African ­Agriculture Survive Climate Change?”, World Bank 
+Economic Review, Vol. 20, No. 3, pp. 367-388.
+Lal, M, K K Singh, L S Rathore, G Srinivasan and S A Saseendran (1998): ­“Vulnerability 
+of Rice and Wheat Yields in North-West India to Future Changes in Climate”, 
+Agriculture and Forest Meteorology, Vol. 89, No. 2, pp. 101-114. 
+Lobell, D B, A Sibley and J I Ortiz-Monasterio (2012): “Extreme Heat Effects on Wheat 
+Senescence in India”, Nature Climate Change, Vol. 2, No. 3, pp. 186-189.
+37
+Climate Change and Risk Management in Indian Agriculture
+Lybbert, T J and A Bell (2010): “Why Drought Tolerance is Not the New Bt”, Nature 
+Biotechnology, Vol. 28, No. 6, pp. 553-554.
+Mall, R K, R Singh, A Gupta, G Srinivasan and L S Rathore (2006): “Impact of Climate 
+Change on Indian Agriculture: A Review”, Climatic Change, Vol. 78, No. 2, pp. 
+445-478. 
+Mani, M, S Bandyopadhyay, S Chonabayashi, A Markandya and T Mosier (2018): 
+South Asia’s Hotspots: The Impact of Temperature and ­Precipitation Chang­
+es on Living Standards, South Asia Development Matters, The World Bank, 
+Washington D.C.
+Mendelsohn, R and S N Seo (2007): Changing Farm Types and Irrigation as an Ad­
+aptation to Climate Change in Latin American Agriculture, World Bank Policy 
+Research Working Paper 4161, The World Bank, ­Washington D.C. 
+Mendelsohn, R, A Dinar and A Sanghi (2001): “The Effect of Development on the Cli­
+mate Sensitivity of Agriculture”, Environment and Development Economics, 
+Vol. 6, No. 01, pp. 85-101. 
+Mendelsohn, R, W D Nordhaus and D Shaw (1994): “The Impact of Global Warming 
+on Agriculture: A Ricardian Analysis”, American Economic Review, Vol. 84, 
+No. 4 pp. 753-771.
+Merga, W and D Alemayehu (2019): “Effects of Climate Change on Global Arabica 
+Coffee (Coffea arabica L) Production”, Greener Journal of Plant Breeding and 
+Crop Science, Vol. 7, No. 1, pp. 23-30. 
+Mottaleb, K A, M R Rejesus, S Mohanty, M V R Murty, Tao Li, H G Valera and M K 
+Gumma (2012): Ex Ante Impact Assessment of a Drought ­Tolerant Rice Vari­
+ety in the Presence of Climate Change, Paper presented at the Agricultural and 
+Applied Economics Association Annual Meeting, Washington, August 12-14.
+Mukherjee, S and P Pal (2017): “Impediments to the Spread of Crop Insurance in In­
+dia”, Economic & Political Weekly, Vol. 52, No. 35, pp. 16-19.
+Nowogrodzki, A (2019): “How Climate Change Might Affect Tea”, Nature, Vol. 566, No. 
+7742, pp. S10-S11. 
+38
+Pratap Singh Birthal
+NPCC Report (2012): Climate Change and Indian Agriculture: Salient ­Achievements 
+from ICAR Network Project, Indian Agricultural ­Research Institute, New Delhi. 
+Ortiz-Bobea, A, T R Ault, C M Carrillo, R G Chambers and D B Lobell (2021): 
+­“Anthropogenic Climate Change has Slowed Global Agricultural ­Productivity 
+Growth”, Nature Climatic Change, Vol. 11, pp. 306-312.
+Pathak, H (2019): “Agricultural Research and Development: Policy and Program 
+­Priorities in India”, In R B., Bokhtiar, S M, Khetarpal, R and Thapa, Y B (eds.), 
+Agricultural Policy and Program Framework: Priority Areas for Research 
+and Development in South Asia, 93-115, Shrestha, SAARC Agriculture ­Center, 
+Dhaka, Bangladesh and Asia-Pacific Association of Agricultural Research 
+­Institutions (APAARI), Bangkok, Thailand. 
+Patnaik, U, P K Das, C S Bahinipati and O Tripathy (2017): “Can Developmental Inter­
+ventions Reduce Households’ Vulnerability? Empirical Evidence from Rural 
+India”, Current Science, Vol. 113, No. 10, pp. 2004-2013.
+Preethan, P, S Gupta and N Sharma (2020): Mainstreaming Climate ­Resilience: The 
+MGNREGA Model, WRI Indi, Mumbai. Available at: https://wri-india.org/
+blog/mainstreaming-climate-resilience -mgnrega-model.
+Rao, K, A Whitbread and R Palanisamy (2020): India’s Agromet Advisory ­System 
+(AAS) has Undergone Many Changes to be What It Is ­Today, What Should 
+­Tomorrow’s Agromet Advisory System Look Like?, ­Climate Change, Agricul­
+ture and Food Security, The Netherlands. ­Available at: ccafs.cgiar.org. 
+Rathore, L S and N Chattopadhyay (2016): “Weather and Climate Services for 
+­Farmers in India”, World Meteorological Organization Bulletin, Vol. 65, No. 
+2.  A­vailable at: public.wmo.int.
+Rojas-Dowing, M M, A P Nejadhashemi, T Harrigan and S A Woznicki (2017): 
+­“Climate Change and Livestock: Impact, Adaptation, and Mitigation”, Climate 
+Risk Management, Vol. 16, pp. 145-163.
+Rosenzweig, M R and H P Binswanger (1993): “Wealth, Weather Risk and the 
+­Composition and Profitability of Agricultural Investment”, Economic Journal, 
+Vol. 103, No. 416, pp. 56-78. 
+39
+Climate Change and Risk Management in Indian Agriculture
+Sanghi, A and R Mendelsohn (2008): “The Impact of Global Warming on ­Farmers in 
+Brazil and India”, Global Environmental Change, Vol. 18, pp. 655-665. 
+Sanghi, A, R Mendelsohn and A Dinar (1998): “The Climate Sensitivity of ­Indian Ag­
+riculture”, In A Dinar,  R Mendelsohn, R Evenson, J Parokh, A Sanghi, K S K 
+Kumar, J McKinsey and S Lonergan (eds.), Measuring the Impact of Climate 
+Change on Indian Agriculture, World Bank Technical Paper, The World Bank, 
+Washington D.C.
+Sanjay, J, J V Revadekar, M V S Ramarao, H Borgaonkar, S Sengupta, D R ­Kothawale, 
+J Patel, R Mahesh and S Ingle (2020): “Temperature ­Changes in India”, In 
+R. Krishnan, J Sanjay, C Gnanaseelan, M ­Mujumdar, A Kulkarni and S 
+Chakraborty (eds.) Assessment of Climate Change over the Indian Region, 
+Springer, Singapore, pp. 21-45. https://doi.org/10.1007/978-981-15-4327-
+2_2.
+Sapkota, T B, M Jat, J P Aryal, R Jat and A Khatri-Chhetri (2015): ­“Climate change Adap­
+tation, Greenhouse Gas Mitigation and Economic ­Profitability of ­Conservation 
+Agriculture: Some Examples from Cereal Systems of ­Indo-Gangetic Plains”, 
+Journal of Integrative Agriculture, Vol. 14, No. 8, pp. 1524-1533. 
+Saseendran, A S, K K Singh, L S Rathore, S V Singh and S K Sinha (2000): ­“Effects 
+of Climate Change on Rice Production in the Tropical ­Humid Climate of 
+Kerala, India”, Climatic Change, Vol. 44, No. 4, pp. 495-514. 
+Schlenker, W and M J Roberts (2009): “Nonlinear Temperature Effects ­Indicate 
+­Severe Damages to U.S. Crop Yields under Climate Change”, ­Proceedings of the 
+­National Academy of Sciences of the USA, Vol. 106, No. 37, pp. 15594-15598.
+Singh, H, D S Negi and P S Birthal (2020): Uncertain Monsoon, Irrigation and Crop 
+Yields: Implications for Pricing of Insurance Products, ­IGIDR ­Working 
+­Papers  2020-018, Indira Gandhi Institute of Development ­Research, 
+­Mumbai.
+Singh, N P, C Bantilan and K Byjes (2014): “Vulnerability and Policy Relevance to 
+Drought in the Semi-Arid Tropics of Asia – A Retrospective Analysis”, Weather 
+and Climate Extremes, Vol. 3, pp. 54-61.
+40
+Pratap Singh Birthal
+Singh, N P, B Anand, S Singh and A Khan (2019): “Mainstreaming Climate ­Adaptation 
+in Indian Rural Development Agenda - A Micro-Macro ­Convergence”, Climate 
+Risk Management, Vol. 24, pp. 30-41. 
+Singh, P, K G Boote, D K Kadiyala and N Swamikannu (2017): “An Assessment of Yield 
+Gains Under Climate Change Due to Genetic Modification of Pearl ­Millet”, 
+­Science of the Total Environment, Vol. 601-602, pp. 1226-1237. 
+Singh, N P, A Aarthy, S Pavithra, S J Balaji, B Anand and A Khan (2017): ­Mainstreaming 
+Climate Change Adaptation into Development ­Planning, Policy Paper 32, 
+ICAR-National Institute of Agricultural ­Economics and Policy Research 
+(NIAP), New Delhi.
+Singh, P, N Swamikannu, P M Gaur, S Komuravally, C Bantilan and K G Boote (2014): 
+“Climate Change Impact and Potential Benefits of Drought and Heat Tolerance 
+in Chickpea in South Asia and East Africa”, European Journal of Agronomy, 
+Vol. 52, Part B, pp. 123-137.
+Sinha, S K and M S Swaminathan (1991): “Deforestation, Climate Change and 
+­Sustainable Nutrients Security”, Climatic Change, Vol. 16, No. 1-2, pp. 33-45. 
+Srivastava, A, S Naresh Kumar and P K Aggarwal (2010): “Assessment on ­Vulnerability 
+of Sorghum to Climate Change in India”, Agricultural ­Ecosystem and 
+­Environment, Vol. 138, Nos. 3-4, pp. 160-169.
+Tamburini, G, R Bommarco, T Wanger, C Kremen, M Heijden, M Liebman and S Hallin 
+(2020): “Agricultural Diversification Promotes Multiple ­Ecosystem Services 
+without Compromising Yield”, Science Advances, Vol. 6, No. 45, DOI:10.1126/
+sciadv.aba1715.
+Taraz, V (2018): “Can Farmers Adapt to Higher Temperatures? Evidence from India”, 
+World Development, Vol. 112, pp. 205-219.
+Teklewold, H, A Mekonnen, G Kohlin and S Di Falco (2017): “Does Adoption of Multi­
+ple Climate Smart Practices Improve Farmers’ Climate Resilience? Empirical 
+Evidence from the Nile Basin of Ethiopia”, Climate Change Economics, Vol. 8, 
+No. 1, pp. 1-30.
+41
+Climate Change and Risk Management in Indian Agriculture
+Thrupp, L A (1997): Linking Biodiversity and Agriculture: Challenges and 
+­Opportunities for Sustainable Food Security, World Resources ­Institute, 
+USA.
+Tripathi, A K and S Sindhi (2020): “Droughts, Heatwaves and ­Agricultural ­Adaptation: 
+A Historical Account for India”, Economic & Political ­Weekly, Vol. 55, Nos. 26-
+27, pp. 5-12.
+Upadhyay, R C, O K Hooda, A Aggarwal, S V Singh, R Chakravarty and S Sirohi 
+(2013): “Indian Livestock Production has Resilience for Climate Change”, In 
+S V Singh, R C Upadhyay, S Sirohi and A K Singh (eds.), Climate ­Resilient 
+Livestock and Production System, National Dairy ­Research Institute, 
+­Karnal.  
+Vargas, R and H Angelino (2012): “A Field Experiment on the Impact of ­Weather 
+Shocks and Insurance on Risky Investment”, Experimental Economics, Vol. 
+1, No. 2, pp. 341-371.
+Vigani, M and J Kathage (2019): “To Risk or Not to Risk? Risk Management and Farm 
+Productivity”, American Journal of Agricultural Economics, Vol. 101, No. 5, 
+pp. 1432-1454. 
+World Bank (2013): Turn Down the Heat: Climate Extremes, Regional Impact, and 
+the Case for Resilience, The World Bank, Washington D.C.
+Wossen, T, T Abdoulaye, A Alene, S Feleke, A Menkir and V M Manyong (2017): 
+­“Measuring the Impact of Adaptation Strategies to Drought Stress: The Case of 
+Drought Tolerant Maize Varieties”, Journal of Environmental ­Management, 
+Vol. 203, Part 1, pp. 106-113.
+Yu, T and B A Babcock (2010): “Are U.S. Corn and Soybeans Becoming More Drought 
+Tolerant?”, American Journal of Agricultural Economics, Vol. 92, No. 5, pp. 
+1310-1323
+Zaveri, E and D B Lobell (2019): “The Role of Irrigation in Changing Wheat Yields 
+and Heat Sensitivity in India”, Nature Communications, Vol. 10, No. 1, pp. 
+­4144-4150. 
+About The Author 
+Dr. Pratap Singh Birthal is currently ICAR ­National 
+­Professor at the National Institute of Agricultural 
+­Economics and Policy ­Research, New Delhi, India. ­Earlier 
+he served as Principal Economist at the ­International 
+Crops Research Institute for the Semi-arid Tropics, 
+­Hyderabad, and Director of the Institute of ­Development 
+Studies, ­Jaipur. 
+Dr. Birthal is Fellow of the National Academy of ­Agricultural 
+Sciences (NAAS) and ­Indian Society of Agricultural ­Economics, and ­recipient 
+of the prestigious Rafi ­Ahmad Kidwai Award, Young ­Scientist Award and 
+­National Fellowship from the Indian Council of Agricultural ­Research for his 
+outstanding contribution to social science research.
+Dr. Birthal has made ­signifcant contributions in the field of ­agricultural 
+­economics and policy ­research. His ­pioneering research on ­agricultural 
+­diversification and its impacts, livestock development policy, agri-food value 
+chains and climate change ­impacts and ­adaptations are widely acclaimed by 
+the peers and policymakers. He has published more than 150 research articles 
+in high impact national and international journals. 
+ 
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT
+Plot No. C-24, ‘G’ Block, BKC, Bandra (E), Mumbai - 400 051
+Department of Economic Analysis and Research
+www.nabard.org
+Taking Rural India >>Forward
+/nabardonline
+You Tube
