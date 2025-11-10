@@ -285,6 +285,30 @@ div[data-testid="stVerticalBlock"] .stPyplot {
     color: #111827 !important;
     font-weight: 500 !important;
 }
+/* --- Fix for white/blue feedback metric blocks --- */
+div[data-testid="stMetricValue"], div[data-testid="stMetricLabel"] {
+    color: #111827 !important;                  /* dark text */
+    background-color: transparent !important;   /* remove default white/blue */
+    font-weight: 700 !important;
+}
+
+[data-testid="stMetric"] {
+    background: rgba(0, 0, 0, 0.05) !important;  /* subtle gray card */
+    border-radius: 8px !important;
+    padding: 8px 12px !important;
+    margin-bottom: 10px !important;
+}
+
+[data-testid="stMetricValue"] > span {
+    color: #111827 !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #1f2937 !important;
+    font-size: 0.85rem !important;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
 </style>
 """, unsafe_allow_html=True)
 # ------------------------------------------------------------
