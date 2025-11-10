@@ -228,7 +228,7 @@ Try the live app now:
 
 [▶️ Open the AI-ClimaSense Intelligence Chat Assistant (Live)](https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/)
 
-Or copy the URL:
+Or copy the endpoint URL:
 https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/
 
 ---
