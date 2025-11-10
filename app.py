@@ -153,6 +153,19 @@ h1 {
     border-top: 1px solid #e5e7eb !important;
     text-shadow: 0 0 6px rgba(168,85,247,0.15);  /* subtle glow */
 }
+    /* Feedback metrics (accuracy rate + total feedback) fix */
+    /* ensures metric labels/values are visible on white/dark UIs */
+    div[data-testid="stMetricValue"],
+    div[data-testid="stMetricLabel"],
+    .stMetricValue, .stMetricLabel {
+        color: #111827 !important;    /* dark text */
+        font-weight: 600 !important;
+    }
+
+    /* fallback for any plain text inside cards */
+    .chat-card, .stSidebar, .stAlert, .stSuccess, .stInfo {
+        color: inherit !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
