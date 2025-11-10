@@ -705,17 +705,6 @@ if st.sidebar.button("🌤 Fetch Live Weather Summary"):
             st.sidebar.success(summary)
         except Exception as e:
             st.sidebar.error(f"❌ Weather fetch failed: {e}")
-# ------------------------------------------------------------
-# 🌦 Weather Summary
-# ------------------------------------------------------------
-st.sidebar.markdown("---")
-if st.sidebar.button("🌤 Fetch Live Weather Summary"):
-    with st.spinner("Fetching from Open-Meteo…"):
-        try:
-            summary = fetch_weather_summary(lat, lon)
-            st.sidebar.success(summary)
-        except Exception as e:
-            st.sidebar.error(f"❌ Weather fetch failed: {e}")
 
 # ------------------------------------------------------------
 # Feedback Analytics Panel
