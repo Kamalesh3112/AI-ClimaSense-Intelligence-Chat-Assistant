@@ -176,24 +176,6 @@ Prompt examples:
 
 ---
 
-## Screenshots / GIFs
-
-To include screenshots or a short GIF in the README:
-
-1. Take screenshots and save them in a directory like `assets/screenshots/` (create it in the repo).
-2. For a short GIF, record the app UI with a tool like LICEcap (or built-in OS screen recorder) and save to `assets/gifs/`.
-3. Add images to the repo and reference them in the README like:
-
-```markdown
-![Home screen](assets/screenshots/home.png)
-![Chatting with assistant](assets/screenshots/chat.png)
-![Short demo](assets/gifs/demo.gif)
-```
-
-If you upload screenshots/GIFs here (or give me URLs), I will add them to the README and commit them in the same PR. If you prefer, I can add placeholder images now and you can replace them later.
-
----
-
 ## Troubleshooting
 
 - Missing API key / Authentication errors:
