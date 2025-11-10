@@ -1,4 +1,5 @@
 # AI-ClimaSense Intelligence — Chat Assistant
+<img width="959" height="554" alt="image" src="https://github.com/user-attachments/assets/591cadd1-b5b2-49ef-90af-69430947ce8a" />
 
 [![Streamlit](https://img.shields.io/badge/Deploy-Streamlit-blue)](https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
