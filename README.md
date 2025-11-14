@@ -210,7 +210,7 @@ Contributions are welcome:
 
 ## License
 
-This project contains a LICENSE file. Confirm the license in that file and update here if you want a different license.
+This project contains a LICENSE file.
 
 ---
 
