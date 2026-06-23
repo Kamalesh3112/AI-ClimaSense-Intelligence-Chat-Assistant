@@ -164,7 +164,7 @@ python build_vectorstore.py
 
 ## Usage
 
-- Start the app (locally or visit the deployed app).
+- Start the **LangChain app** (locally or visit the deployed app).
 - Ask natural-language climate questions in the chat input, e.g.:
   - "What are the projected temperature changes for New Delhi over the next 30 years?"
   - "Summarize the attached CSV dataset and highlight trends in emissions."
