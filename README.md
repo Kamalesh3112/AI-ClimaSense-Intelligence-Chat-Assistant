@@ -42,6 +42,7 @@ Live demo: https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkv
 ## Tech Stack
 
 - Python 3.11+
+- LangChain
 - Streamlit
 - LLM (configurable; repo references usage of large models)
 - Meta Llama (noted in repo context: llama-3.3-70b-versatile for some components)
