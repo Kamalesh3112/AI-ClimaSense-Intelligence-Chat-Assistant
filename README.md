@@ -50,7 +50,7 @@ Live demo: https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkv
 - Vector store options (helpers present for building vectorstore)
 
 ---
-## **Python Backend Engineering Flow:**
+## **Python Backend Flow:**
 
  **Retrieval-Augmented Generation (RAG)**
  
