@@ -19,13 +19,13 @@ def answer_query(user_query: str, lat: float, lon: float, mode: str = "concise")
     """
 
     try:
-        # ✅ Step 1 — Get hybrid reasoning output (internally merges RAG + Weather)
+        # Step 1 — Get hybrid reasoning output (internally merges RAG + Weather)
         raw_answer = hybrid_response(user_query, mode=mode)
 
-        # ✅ Step 2 — Format the response for display (concise or detailed)
+        # Step 2 — Format the response for display (concise or detailed)
         formatted_answer = format_response(raw_answer, mode=mode)
 
-        # ✅ Step 3 — Add metadata (for Streamlit dashboard insights)
+        # Step 3 — Add metadata (for Streamlit dashboard insights)
         meta = {
             "source": "Hybrid (RAG + Real-time Weather)",
             "query_mode": mode,
