@@ -27,4 +27,4 @@ for filename in os.listdir(kb_folder):
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(text)
 
-print("\n✅ All PDF files converted to .txt successfully!")
+print("\nAll PDF files converted to .txt successfully!")
