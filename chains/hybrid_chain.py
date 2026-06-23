@@ -19,7 +19,7 @@ def build_hybrid_chain():
     """
     llm = get_llm()
 
-    # ✅ Use PromptTemplate (works well with Groq / OpenAI-compatible LLMs)
+    # Use PromptTemplate (works well with Groq / OpenAI-compatible LLMs)
     prompt = PromptTemplate(
         input_variables=["rag_context", "weather_context", "user_query", "mode"],
         template=(
@@ -35,7 +35,7 @@ def build_hybrid_chain():
         ),
     )
 
-    # ✅ Combine into a simple runnable LangChain chain
+    # Combine into a simple runnable LangChain chain
     chain = prompt | llm | StrOutputParser()
     return chain
 
