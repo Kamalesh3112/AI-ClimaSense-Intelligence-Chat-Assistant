@@ -50,6 +50,48 @@ Live demo: https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkv
 - Vector store options (helpers present for building vectorstore)
 
 ---
+## **Python Backend Engineering Flow:**
+
+ **Retrieval-Augmented Generation (RAG)**
+ 
+ - FAISS local vector index + HuggingFace embeddings (sentence-transformers/all-MiniLM-L6-v2).
+   
+ - A document ingestion pipeline (text splitting → embeddings → FAISS index) in utils.data_utils and build_vectorstore.py.
+ Modular chain-based orchestration.
+
+ - Chains split by concern: rag_chain (KB retrieval), weather_chain (external API enrichment), hybrid_chain (composing the contexts and LLM prompt).
+   
+ - Use of prompt templates and output parsing to keep prompt/LLM logic separated from retrieval and API code.
+   
+**External API integration**
+
+ - Weather data fetched synchronously via requests against Open-Meteo (in chains/weather_chain.py and data_utils).
+   
+**LLM client abstraction**
+
+ - services/llm_client.py wraps the ChatOpenAI-compatible client and reads configuration centrally, enabling provider/base URL/model substitution.
+   
+**Config / secrets separation**
+
+ - config module (referenced from multiple places) centralizes API keys, default coordinates, and base URLs.
+   
+**Vectorstore building & text processing**
+
+ - Text chunking/splitting (RecursiveCharacterTextSplitter usage) and chunk ingestion into FAISS in utils.data_utils
+Feedback capture and simple analytics
+
+ - app.py logs user confirmations/negative feedback via a feedback DB helper and computes simple metrics (accuracy rate, distribution) with pandas+matplotlib.
+   
+**Simple synchronous orchestration with clear IO boundaries**
+
+ - Functions return plain strings or structured metadata, suitable for a server UI loop (Streamlit) rather than long-running background workers.
+   
+**Utilities and developer ergonomics**
+
+ - Synthetic map generation using Pillow for visualization, developer mode and UX styling in Streamlit for quick prototyping and demos.
+
+
+---
 
 ## What I found in this repo
 
