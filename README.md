@@ -3,7 +3,7 @@
 
 [![Streamlit](https://img.shields.io/badge/Deploy-Streamlit-blue)](https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
-A conversational AI assistant for climate-related insights, forecasts, and data-aware discussions. This repository powers a Streamlit chat UI that allows users to ask climate questions, analyze uploaded datasets or documents, and receive intelligent, contextual responses powered by a Hybrid Retrieval-Augmented Generation (RAG) pipeline combining both static knowledge and real-time data.
+A conversational LangChain AI assistant for climate-related insights, forecasts, and data-aware discussions. This repository powers a Streamlit chat UI that allows users to ask climate questions, analyze uploaded datasets or documents, and receive intelligent, contextual responses powered by a Hybrid Retrieval-Augmented Generation (RAG) pipeline combining both static knowledge and real-time data.
 
 Live demo: https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/
 
