@@ -274,4 +274,7 @@ Try the live app now:
 Or copy the endpoint URL:
 https://ai-climasense-intelligence-chat-assistant-9irkmeb8nqdpzczvwkvu.streamlit.app/
 
+
+
+#### Note: This Application is evolving with integrating advanced LangChain Architecture and Deep Agents with Agent to Agent (A2A) Protocol
 ---
